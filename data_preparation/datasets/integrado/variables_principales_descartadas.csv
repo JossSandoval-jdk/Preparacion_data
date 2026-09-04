@@ -1,0 +1,23 @@
+﻿columna,motivo,detalle
+cpu_total,no_principal,
+distinct_sessions_count,no_principal,
+events_batch_count,no_principal,
+events_lock_count,no_principal,
+idle_sessions,menor_utilidad,no indica problema de rendimiento; senal debil
+kardex_locks,no_principal,
+load15,redundante,promedio muy lento; poca senal por muestra
+load5,redundante,promedio lento; load1 mas reactivo
+lock_event_count,no_principal,
+log_error_count,no_principal,
+memory_percent,redundante,correlacion ~1 con memory_used_mb
+movimiento_caja_locks,no_principal,
+net_recv_per_sec,no_principal,
+net_send_per_sec,no_principal,
+products_count,no_principal,
+query_count,no_principal,
+query_duration_avg_ms,no_principal,
+query_duration_max_ms,no_principal,
+requests_per_session,no_principal,
+total_locks,no_principal,
+venta_locks,no_principal,
+buffer_cache_hit_ratio,medicion_incorrecta,el collector guarda cntr_value del contador 'Buffer cache hit ratio' (numerador) sin su contador base; el valor resultante (miles) no es un porcentaje real y es irrecuperable a posteriori en preparacion. Se excluye para no ensenar falsa normalidad al modelo; se requiere re-captura con correccion del collector para recuperar el ratio real (~99%).

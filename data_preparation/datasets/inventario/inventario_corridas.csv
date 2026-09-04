@@ -1,0 +1,6 @@
+﻿corrida,fuente,existe,lineas
+carga1,metrics.log,True,2788
+carga1,events.log,True,602
+carga1,events_xe.log,False,0
+carga1,sqlserver_logs.log,True,152
+carga1,workload_stats.log,True,12

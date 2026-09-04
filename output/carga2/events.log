@@ -1,0 +1,846 @@
+{"event_name": "login", "timestamp": "2026-09-04 05:39:55.290", "session_id": 64, "login_name": "sa", "program_name": "Microsoft JDBC Driver for SQL Server", "database_name": "SteelNort"}
+{"event_name": "login", "timestamp": "2026-09-04 05:39:55.290", "session_id": 65, "login_name": "sa", "program_name": "Microsoft JDBC Driver for SQL Server", "database_name": "SteelNort"}
+{"event_name": "login", "timestamp": "2026-09-04 05:39:55.290", "session_id": 66, "login_name": "sa", "program_name": "Microsoft JDBC Driver for SQL Server", "database_name": "SteelNort"}
+{"event_name": "login", "timestamp": "2026-09-04 05:39:55.290", "session_id": 67, "login_name": "sa", "program_name": "Microsoft JDBC Driver for SQL Server", "database_name": "SteelNort"}
+{"event_name": "login", "timestamp": "2026-09-04 05:39:55.290", "session_id": 68, "login_name": "sa", "program_name": "Microsoft JDBC Driver for SQL Server", "database_name": "SteelNort"}
+{"event_name": "login", "timestamp": "2026-09-04 05:39:55.290", "session_id": 69, "login_name": "sa", "program_name": "Microsoft JDBC Driver for SQL Server", "database_name": "SteelNort"}
+{"event_name": "login", "timestamp": "2026-09-04 05:39:55.290", "session_id": 70, "login_name": "sa", "program_name": "Microsoft JDBC Driver for SQL Server", "database_name": "SteelNort"}
+{"event_name": "login", "timestamp": "2026-09-04 05:39:55.290", "session_id": 71, "login_name": "sa", "program_name": "python3.11", "database_name": "SteelNort"}
+{"event_name": "login", "timestamp": "2026-09-04 05:39:55.290", "session_id": 72, "login_name": "sa", "program_name": "python3.11", "database_name": "SteelNort"}
+{"event_name": "login", "timestamp": "2026-09-04 05:39:55.290", "session_id": 73, "login_name": "sa", "program_name": "python3.11", "database_name": "SteelNort"}
+{"event_name": "login", "timestamp": "2026-09-04 05:39:55.290", "session_id": 51, "login_name": "sa", "program_name": "unknown", "database_name": "SteelNort"}
+{"event_name": "login", "timestamp": "2026-09-04 05:39:55.290", "session_id": 52, "login_name": "sa", "program_name": "unknown", "database_name": "SteelNort"}
+{"event_name": "login", "timestamp": "2026-09-04 05:39:55.290", "session_id": 53, "login_name": "sa", "program_name": "unknown", "database_name": "SteelNort"}
+{"event_name": "login", "timestamp": "2026-09-04 05:39:55.290", "session_id": 54, "login_name": "sa", "program_name": "unknown", "database_name": "SteelNort"}
+{"event_name": "login", "timestamp": "2026-09-04 05:39:55.290", "session_id": 55, "login_name": "sa", "program_name": "unknown", "database_name": "SteelNort"}
+{"event_name": "login", "timestamp": "2026-09-04 05:39:55.290", "session_id": 56, "login_name": "sa", "program_name": "unknown", "database_name": "SteelNort"}
+{"event_name": "login", "timestamp": "2026-09-04 05:39:55.290", "session_id": 57, "login_name": "sa", "program_name": "unknown", "database_name": "SteelNort"}
+{"event_name": "login", "timestamp": "2026-09-04 05:39:55.290", "session_id": 58, "login_name": "sa", "program_name": "unknown", "database_name": "SteelNort"}
+{"event_name": "login", "timestamp": "2026-09-04 05:39:55.290", "session_id": 59, "login_name": "sa", "program_name": "unknown", "database_name": "SteelNort"}
+{"event_name": "login", "timestamp": "2026-09-04 05:39:55.290", "session_id": 60, "login_name": "sa", "program_name": "Microsoft JDBC Driver for SQL Server", "database_name": "SteelNort"}
+{"event_name": "login", "timestamp": "2026-09-04 05:39:55.290", "session_id": 61, "login_name": "sa", "program_name": "unknown", "database_name": "SteelNort"}
+{"event_name": "login", "timestamp": "2026-09-04 05:39:55.290", "session_id": 62, "login_name": "sa", "program_name": "Microsoft JDBC Driver for SQL Server", "database_name": "SteelNort"}
+{"event_name": "login", "timestamp": "2026-09-04 05:39:55.290", "session_id": 63, "login_name": "sa", "program_name": "Microsoft JDBC Driver for SQL Server", "database_name": "SteelNort"}
+{"event_name": "sql_batch_completed", "timestamp": "2026-09-04 05:39:55.290", "database_name": "master", "session_id": 51, "command": "TASK MANAGER", "duration": 34662, "cpu_time": 0, "logical_reads": 0, "writes": 0}
+{"event_name": "sql_batch_completed", "timestamp": "2026-09-04 05:39:55.290", "database_name": "master", "session_id": 52, "command": "TASK MANAGER", "duration": 34657, "cpu_time": 0, "logical_reads": 0, "writes": 0}
+{"event_name": "sql_batch_completed", "timestamp": "2026-09-04 05:39:55.290", "database_name": "master", "session_id": 53, "command": "TRACE QUEUE TASK", "duration": 34493, "cpu_time": 0, "logical_reads": 0, "writes": 0, "wait_type": "SQLTRACE_INCREMENTAL_FLUSH_SLEEP"}
+{"event_name": "sql_batch_completed", "timestamp": "2026-09-04 05:39:55.290", "database_name": "SteelNort", "session_id": 54, "command": "SYSTEM_HEALTH_MONITOR", "duration": 34488, "cpu_time": 0, "logical_reads": 0, "writes": 0, "wait_type": "SP_SERVER_DIAGNOSTICS_SLEEP"}
+{"event_name": "sql_batch_completed", "timestamp": "2026-09-04 05:39:55.290", "database_name": "master", "session_id": 55, "command": "TASK MANAGER", "duration": 34410, "cpu_time": 0, "logical_reads": 0, "writes": 0, "wait_type": "ONDEMAND_TASK_QUEUE"}
+{"event_name": "sql_batch_completed", "timestamp": "2026-09-04 05:39:55.290", "database_name": "master", "session_id": 56, "command": "BRKR TASK", "duration": 32714, "cpu_time": 0, "logical_reads": 0, "writes": 0, "wait_type": "BROKER_TRANSMITTER"}
+{"event_name": "sql_batch_completed", "timestamp": "2026-09-04 05:39:55.290", "database_name": "master", "session_id": 57, "command": "BRKR TASK", "duration": 32715, "cpu_time": 1, "logical_reads": 0, "writes": 0, "wait_type": "SLEEP_TASK"}
+{"event_name": "sql_batch_completed", "timestamp": "2026-09-04 05:39:55.290", "database_name": "master", "session_id": 58, "command": "CHECKPOINT", "duration": 34413, "cpu_time": 0, "logical_reads": 0, "writes": 6, "wait_type": "CHECKPOINT_QUEUE"}
+{"event_name": "sql_batch_completed", "timestamp": "2026-09-04 05:39:55.290", "database_name": "master", "session_id": 59, "command": "BRKR TASK", "duration": 32717, "cpu_time": 13, "logical_reads": 0, "writes": 0, "wait_type": "HADR_FILESTREAM_IOMGR_IOCOMPLETION"}
+{"event_name": "sql_batch_completed", "timestamp": "2026-09-04 05:39:55.290", "database_name": "SteelNort", "session_id": 61, "command": "HADR_AR_MGR_NOTIFICATION_WORKER", "duration": 34411, "cpu_time": 0, "logical_reads": 0, "writes": 0, "wait_type": "HADR_NOTIFICATION_DEQUEUE"}
+{"event_name": "sql_batch_completed", "timestamp": "2026-09-04 05:39:55.290", "database_name": "SteelNort", "session_id": 71, "command": "EXECUTE", "duration": 80, "cpu_time": 54, "logical_reads": 40, "writes": 0, "wait_type": "PREEMPTIVE_OS_VERIFYTRUST"}
+{"event_name": "sql_batch_completed", "timestamp": "2026-09-04 05:39:55.290", "database_name": "SteelNort", "session_id": 72, "command": "SELECT", "duration": 22, "cpu_time": 2, "logical_reads": 0, "writes": 0}
+{"event_name": "sql_batch_completed", "timestamp": "2026-09-04 05:39:55.290", "database_name": "SteelNort", "session_id": 73, "command": "SELECT", "duration": 26, "cpu_time": 5, "logical_reads": 0, "writes": 0}
+{"event_name": "lock_acquired", "timestamp": "2026-09-04 05:39:55.290", "session_id": 69, "resource_type": "DATABASE", "mode": "S"}
+{"event_name": "lock_acquired", "timestamp": "2026-09-04 05:39:55.290", "session_id": 62, "resource_type": "DATABASE", "mode": "S"}
+{"event_name": "lock_acquired", "timestamp": "2026-09-04 05:39:55.290", "session_id": 73, "resource_type": "DATABASE", "mode": "S"}
+{"event_name": "lock_acquired", "timestamp": "2026-09-04 05:39:55.290", "session_id": 64, "resource_type": "DATABASE", "mode": "S"}
+{"event_name": "lock_acquired", "timestamp": "2026-09-04 05:39:55.290", "session_id": 66, "resource_type": "DATABASE", "mode": "S"}
+{"event_name": "lock_acquired", "timestamp": "2026-09-04 05:39:55.290", "session_id": 63, "resource_type": "DATABASE", "mode": "S"}
+{"event_name": "lock_acquired", "timestamp": "2026-09-04 05:39:55.290", "session_id": 60, "resource_type": "DATABASE", "mode": "S"}
+{"event_name": "lock_acquired", "timestamp": "2026-09-04 05:39:55.290", "session_id": 67, "resource_type": "DATABASE", "mode": "S"}
+{"event_name": "lock_acquired", "timestamp": "2026-09-04 05:39:55.290", "session_id": 65, "resource_type": "DATABASE", "mode": "S"}
+{"event_name": "lock_acquired", "timestamp": "2026-09-04 05:39:55.290", "session_id": 70, "resource_type": "DATABASE", "mode": "S"}
+{"event_name": "lock_acquired", "timestamp": "2026-09-04 05:39:55.290", "session_id": 71, "resource_type": "DATABASE", "mode": "S"}
+{"event_name": "lock_acquired", "timestamp": "2026-09-04 05:39:55.290", "session_id": 68, "resource_type": "DATABASE", "mode": "S"}
+{"event_name": "lock_acquired", "timestamp": "2026-09-04 05:39:55.290", "session_id": 72, "resource_type": "DATABASE", "mode": "S"}
+{"event_name": "sql_batch_completed", "timestamp": "2026-09-04 05:39:57.408", "database_name": "SteelNort", "session_id": 72, "command": "SELECT", "duration": 2066, "cpu_time": 2, "logical_reads": 0, "writes": 0, "status": "completed"}
+{"event_name": "sql_batch_completed", "timestamp": "2026-09-04 05:39:57.408", "database_name": "SteelNort", "session_id": 71, "command": "EXECUTE", "duration": 2129, "cpu_time": 54, "logical_reads": 40, "writes": 0, "status": "completed"}
+{"event_name": "sql_batch_completed", "timestamp": "2026-09-04 05:39:59.443", "database_name": "SteelNort", "session_id": 66, "command": "COMMIT TRANSACTION", "duration": 30, "cpu_time": 19, "logical_reads": 0, "writes": 0, "wait_type": "PREEMPTIVE_OS_FLUSHFILEBUFFERS"}
+{"event_name": "sql_batch_completed", "timestamp": "2026-09-04 05:39:59.443", "database_name": "SteelNort", "session_id": 71, "command": "EXECUTE", "duration": 75, "cpu_time": 3, "logical_reads": 0, "writes": 0, "wait_type": "MSQL_XP"}
+{"event_name": "lock_acquired", "timestamp": "2026-09-04 05:39:59.443", "session_id": 68, "resource_type": "OBJECT", "mode": "IS"}
+{"event_name": "lock_acquired", "timestamp": "2026-09-04 05:39:59.443", "session_id": 68, "resource_type": "PAGE", "mode": "IS"}
+{"event_name": "sql_batch_completed", "timestamp": "2026-09-04 05:40:01.598", "database_name": "SteelNort", "session_id": 66, "command": "COMMIT TRANSACTION", "duration": 2174, "cpu_time": 19, "logical_reads": 0, "writes": 0, "status": "completed"}
+{"event_name": "sql_batch_completed", "timestamp": "2026-09-04 05:40:01.598", "database_name": "SteelNort", "session_id": 71, "command": "EXECUTE", "duration": 2180, "cpu_time": 3, "logical_reads": 0, "writes": 0, "status": "completed"}
+{"event_name": "lock_released", "timestamp": "2026-09-04 05:40:01.598", "session_id": 68, "resource_type": "OBJECT", "mode": "IS"}
+{"event_name": "lock_released", "timestamp": "2026-09-04 05:40:01.598", "session_id": 68, "resource_type": "PAGE", "mode": "IS"}
+{"event_name": "sql_batch_completed", "timestamp": "2026-09-04 05:40:03.766", "database_name": "SteelNort", "session_id": 67, "command": "AWAITING COMMAND", "duration": 39, "cpu_time": 25, "logical_reads": 0, "writes": 0}
+{"event_name": "sql_batch_completed", "timestamp": "2026-09-04 05:40:03.766", "database_name": "SteelNort", "session_id": 71, "command": "EXECUTE", "duration": 91, "cpu_time": 79, "logical_reads": 0, "writes": 0, "wait_type": "MSQL_XP"}
+{"event_name": "sql_batch_completed", "timestamp": "2026-09-04 05:40:06.038", "database_name": "SteelNort", "session_id": 67, "command": "AWAITING COMMAND", "duration": 2191, "cpu_time": 25, "logical_reads": 0, "writes": 0, "status": "completed"}
+{"event_name": "sql_batch_completed", "timestamp": "2026-09-04 05:40:06.038", "database_name": "SteelNort", "session_id": 71, "command": "EXECUTE", "duration": 2243, "cpu_time": 79, "logical_reads": 0, "writes": 0, "status": "completed"}
+{"event_name": "sql_batch_completed", "timestamp": "2026-09-04 05:40:14.189", "database_name": "SteelNort", "session_id": 66, "command": "EXECUTE", "duration": 3, "cpu_time": 0, "logical_reads": 0, "writes": 0}
+{"event_name": "login", "timestamp": "2026-09-04 05:40:16.218", "session_id": 74, "login_name": "sa", "program_name": "unknown", "database_name": "SteelNort"}
+{"event_name": "login", "timestamp": "2026-09-04 05:40:16.218", "session_id": 75, "login_name": "sa", "program_name": "unknown", "database_name": "SteelNort"}
+{"event_name": "login", "timestamp": "2026-09-04 05:40:16.218", "session_id": 77, "login_name": "sa", "program_name": "unknown", "database_name": "SteelNort"}
+{"event_name": "login", "timestamp": "2026-09-04 05:40:16.218", "session_id": 78, "login_name": "sa", "program_name": "unknown", "database_name": "SteelNort"}
+{"event_name": "login", "timestamp": "2026-09-04 05:40:16.218", "session_id": 79, "login_name": "sa", "program_name": "unknown", "database_name": "SteelNort"}
+{"event_name": "login", "timestamp": "2026-09-04 05:40:16.218", "session_id": 80, "login_name": "sa", "program_name": "unknown", "database_name": "SteelNort"}
+{"event_name": "login", "timestamp": "2026-09-04 05:40:16.218", "session_id": 81, "login_name": "sa", "program_name": "unknown", "database_name": "SteelNort"}
+{"event_name": "login", "timestamp": "2026-09-04 05:40:16.218", "session_id": 82, "login_name": "sa", "program_name": "unknown", "database_name": "SteelNort"}
+{"event_name": "login", "timestamp": "2026-09-04 05:40:16.218", "session_id": 83, "login_name": "sa", "program_name": "unknown", "database_name": "SteelNort"}
+{"event_name": "login", "timestamp": "2026-09-04 05:40:16.218", "session_id": 84, "login_name": "sa", "program_name": "unknown", "database_name": "SteelNort"}
+{"event_name": "login", "timestamp": "2026-09-04 05:40:16.218", "session_id": 85, "login_name": "sa", "program_name": "unknown", "database_name": "SteelNort"}
+{"event_name": "sql_batch_completed", "timestamp": "2026-09-04 05:40:16.218", "database_name": "SteelNort", "session_id": 63, "command": "EXECUTE", "duration": 2, "cpu_time": 0, "logical_reads": 0, "writes": 0}
+{"event_name": "sql_batch_completed", "timestamp": "2026-09-04 05:40:16.218", "database_name": "SteelNort", "session_id": 71, "command": "EXECUTE", "duration": 93, "cpu_time": 87, "logical_reads": 0, "writes": 0, "wait_type": "MSQL_XP"}
+{"event_name": "sql_batch_completed", "timestamp": "2026-09-04 05:40:16.218", "database_name": "master", "session_id": 74, "command": "TASK MANAGER", "duration": 531, "cpu_time": 0, "logical_reads": 0, "writes": 0}
+{"event_name": "sql_batch_completed", "timestamp": "2026-09-04 05:40:16.218", "database_name": "master", "session_id": 75, "command": "TASK MANAGER", "duration": 532, "cpu_time": 0, "logical_reads": 0, "writes": 0}
+{"event_name": "sql_batch_completed", "timestamp": "2026-09-04 05:40:16.218", "database_name": "master", "session_id": 77, "command": "TASK MANAGER", "duration": 533, "cpu_time": 0, "logical_reads": 0, "writes": 0}
+{"event_name": "sql_batch_completed", "timestamp": "2026-09-04 05:40:16.218", "database_name": "master", "session_id": 78, "command": "TASK MANAGER", "duration": 534, "cpu_time": 0, "logical_reads": 0, "writes": 0}
+{"event_name": "sql_batch_completed", "timestamp": "2026-09-04 05:40:16.218", "database_name": "master", "session_id": 79, "command": "TASK MANAGER", "duration": 535, "cpu_time": 0, "logical_reads": 0, "writes": 0}
+{"event_name": "sql_batch_completed", "timestamp": "2026-09-04 05:40:16.218", "database_name": "master", "session_id": 80, "command": "TASK MANAGER", "duration": 537, "cpu_time": 0, "logical_reads": 0, "writes": 0}
+{"event_name": "sql_batch_completed", "timestamp": "2026-09-04 05:40:16.218", "database_name": "master", "session_id": 81, "command": "TASK MANAGER", "duration": 538, "cpu_time": 0, "logical_reads": 0, "writes": 0}
+{"event_name": "sql_batch_completed", "timestamp": "2026-09-04 05:40:16.218", "database_name": "master", "session_id": 82, "command": "TASK MANAGER", "duration": 536, "cpu_time": 0, "logical_reads": 0, "writes": 0}
+{"event_name": "sql_batch_completed", "timestamp": "2026-09-04 05:40:16.218", "database_name": "master", "session_id": 83, "command": "TASK MANAGER", "duration": 537, "cpu_time": 0, "logical_reads": 0, "writes": 0}
+{"event_name": "sql_batch_completed", "timestamp": "2026-09-04 05:40:16.218", "database_name": "master", "session_id": 84, "command": "TASK MANAGER", "duration": 538, "cpu_time": 0, "logical_reads": 0, "writes": 0}
+{"event_name": "sql_batch_completed", "timestamp": "2026-09-04 05:40:16.218", "database_name": "master", "session_id": 85, "command": "TASK MANAGER", "duration": 539, "cpu_time": 0, "logical_reads": 0, "writes": 0}
+{"event_name": "sql_batch_completed", "timestamp": "2026-09-04 05:40:16.218", "database_name": "SteelNort", "session_id": 66, "command": "EXECUTE", "duration": 2063, "cpu_time": 0, "logical_reads": 0, "writes": 0, "status": "completed"}
+{"event_name": "sql_batch_completed", "timestamp": "2026-09-04 05:40:18.275", "database_name": "SteelNort", "session_id": 71, "command": "EXECUTE", "duration": 2142, "cpu_time": 87, "logical_reads": 0, "writes": 0, "status": "completed"}
+{"event_name": "sql_batch_completed", "timestamp": "2026-09-04 05:40:18.275", "database_name": "SteelNort", "session_id": 63, "command": "EXECUTE", "duration": 2053, "cpu_time": 0, "logical_reads": 0, "writes": 0, "status": "completed"}
+{"event_name": "lock_acquired", "timestamp": "2026-09-04 05:40:20.322", "session_id": 66, "resource_type": "OBJECT", "mode": "IS"}
+{"event_name": "sql_batch_completed", "timestamp": "2026-09-04 05:40:22.354", "database_name": "SteelNort", "session_id": 69, "command": "AWAITING COMMAND", "duration": 5, "cpu_time": 0, "logical_reads": 0, "writes": 0}
+{"event_name": "sql_batch_completed", "timestamp": "2026-09-04 05:40:22.354", "database_name": "SteelNort", "session_id": 71, "command": "EXECUTE", "duration": 94, "cpu_time": 87, "logical_reads": 0, "writes": 0, "wait_type": "MSQL_XP"}
+{"event_name": "lock_released", "timestamp": "2026-09-04 05:40:22.354", "session_id": 66, "resource_type": "OBJECT", "mode": "IS"}
+{"event_name": "sql_batch_completed", "timestamp": "2026-09-04 05:40:24.391", "database_name": "SteelNort", "session_id": 69, "command": "AWAITING COMMAND", "duration": 2062, "cpu_time": 0, "logical_reads": 0, "writes": 0, "status": "completed"}
+{"event_name": "sql_batch_completed", "timestamp": "2026-09-04 05:40:24.391", "database_name": "SteelNort", "session_id": 71, "command": "EXECUTE", "duration": 2157, "cpu_time": 87, "logical_reads": 0, "writes": 0, "status": "completed"}
+{"event_name": "sql_batch_completed", "timestamp": "2026-09-04 05:40:26.456", "database_name": "SteelNort", "session_id": 66, "command": "AWAITING COMMAND", "duration": 6, "cpu_time": 0, "logical_reads": 0, "writes": 0}
+{"event_name": "sql_batch_completed", "timestamp": "2026-09-04 05:40:26.456", "database_name": "SteelNort", "session_id": 67, "command": "SET OPTION ON", "duration": 7, "cpu_time": 0, "logical_reads": 0, "writes": 0}
+{"event_name": "login", "timestamp": "2026-09-04 05:40:28.484", "session_id": 76, "login_name": "795ec2146175\\Administrator", "program_name": "Microsoft SQL Server", "database_name": "SteelNort"}
+{"event_name": "sql_batch_completed", "timestamp": "2026-09-04 05:40:28.484", "database_name": "SteelNort", "session_id": 71, "command": "EXECUTE", "duration": 214, "cpu_time": 124, "logical_reads": 0, "writes": 0, "wait_type": "MSQL_XP"}
+{"event_name": "sql_batch_completed", "timestamp": "2026-09-04 05:40:28.484", "database_name": "SteelNort", "session_id": 66, "command": "AWAITING COMMAND", "duration": 2039, "cpu_time": 0, "logical_reads": 0, "writes": 0, "status": "completed"}
+{"event_name": "sql_batch_completed", "timestamp": "2026-09-04 05:40:28.484", "database_name": "SteelNort", "session_id": 67, "command": "SET OPTION ON", "duration": 2043, "cpu_time": 0, "logical_reads": 0, "writes": 0, "status": "completed"}
+{"event_name": "logout", "timestamp": "2026-09-04 05:40:30.518", "session_id": 76}
+{"event_name": "sql_batch_completed", "timestamp": "2026-09-04 05:40:30.518", "database_name": "SteelNort", "session_id": 71, "command": "EXECUTE", "duration": 2247, "cpu_time": 124, "logical_reads": 0, "writes": 0, "status": "completed"}
+{"event_name": "login", "timestamp": "2026-09-04 05:40:34.569", "session_id": 76, "login_name": "795ec2146175\\Administrator", "program_name": "Microsoft SQL Server", "database_name": "SteelNort"}
+{"event_name": "sql_batch_completed", "timestamp": "2026-09-04 05:40:34.569", "database_name": "SteelNort", "session_id": 71, "command": "EXECUTE", "duration": 111, "cpu_time": 89, "logical_reads": 0, "writes": 0, "wait_type": "MSQL_XP"}
+{"event_name": "logout", "timestamp": "2026-09-04 05:40:36.597", "session_id": 76}
+{"event_name": "sql_batch_completed", "timestamp": "2026-09-04 05:40:36.597", "database_name": "SteelNort", "session_id": 71, "command": "EXECUTE", "duration": 2136, "cpu_time": 89, "logical_reads": 0, "writes": 0, "status": "completed"}
+{"event_name": "sql_batch_completed", "timestamp": "2026-09-04 05:40:38.633", "database_name": "SteelNort", "session_id": 67, "command": "AWAITING COMMAND", "duration": 6, "cpu_time": 1, "logical_reads": 0, "writes": 0}
+{"event_name": "sql_batch_completed", "timestamp": "2026-09-04 05:40:40.668", "database_name": "SteelNort", "session_id": 71, "command": "EXECUTE", "duration": 38, "cpu_time": 29, "logical_reads": 0, "writes": 0, "wait_type": "MSQL_XP"}
+{"event_name": "sql_batch_completed", "timestamp": "2026-09-04 05:40:40.668", "database_name": "SteelNort", "session_id": 67, "command": "AWAITING COMMAND", "duration": 2043, "cpu_time": 1, "logical_reads": 0, "writes": 0, "status": "completed"}
+{"event_name": "sql_batch_completed", "timestamp": "2026-09-04 05:40:42.690", "database_name": "SteelNort", "session_id": 69, "command": "AWAITING COMMAND", "duration": 7, "cpu_time": 0, "logical_reads": 0, "writes": 0}
+{"event_name": "sql_batch_completed", "timestamp": "2026-09-04 05:40:42.690", "database_name": "SteelNort", "session_id": 71, "command": "EXECUTE", "duration": 2062, "cpu_time": 29, "logical_reads": 0, "writes": 0, "status": "completed"}
+{"event_name": "sql_batch_completed", "timestamp": "2026-09-04 05:40:44.714", "database_name": "SteelNort", "session_id": 66, "command": "AWAITING COMMAND", "duration": 2, "cpu_time": 0, "logical_reads": 0, "writes": 0}
+{"event_name": "sql_batch_completed", "timestamp": "2026-09-04 05:40:44.714", "database_name": "SteelNort", "session_id": 69, "command": "AWAITING COMMAND", "duration": 2033, "cpu_time": 0, "logical_reads": 0, "writes": 0, "status": "completed"}
+{"event_name": "sql_batch_completed", "timestamp": "2026-09-04 05:40:46.738", "database_name": "SteelNort", "session_id": 66, "command": "AWAITING COMMAND", "duration": 2026, "cpu_time": 0, "logical_reads": 0, "writes": 0, "status": "completed"}
+{"event_name": "login", "timestamp": "2026-09-04 05:40:50.786", "session_id": 76, "login_name": "unknown", "program_name": "Microsoft SQL Server", "database_name": "SteelNort"}
+{"event_name": "sql_batch_completed", "timestamp": "2026-09-04 05:40:50.786", "database_name": "SteelNort", "session_id": 62, "command": "AWAITING COMMAND", "duration": 3, "cpu_time": 0, "logical_reads": 0, "writes": 0}
+{"event_name": "sql_batch_completed", "timestamp": "2026-09-04 05:40:50.786", "database_name": "SteelNort", "session_id": 71, "command": "EXECUTE", "duration": 92, "cpu_time": 84, "logical_reads": 0, "writes": 0, "wait_type": "MSQL_XP"}
+{"event_name": "logout", "timestamp": "2026-09-04 05:40:52.822", "session_id": 76}
+{"event_name": "sql_batch_completed", "timestamp": "2026-09-04 05:40:52.822", "database_name": "SteelNort", "session_id": 62, "command": "AWAITING COMMAND", "duration": 2033, "cpu_time": 0, "logical_reads": 0, "writes": 0, "status": "completed"}
+{"event_name": "sql_batch_completed", "timestamp": "2026-09-04 05:40:52.822", "database_name": "SteelNort", "session_id": 71, "command": "EXECUTE", "duration": 2122, "cpu_time": 84, "logical_reads": 0, "writes": 0, "status": "completed"}
+{"event_name": "sql_batch_completed", "timestamp": "2026-09-04 05:40:56.882", "database_name": "SteelNort", "session_id": 71, "command": "EXECUTE", "duration": 32, "cpu_time": 28, "logical_reads": 0, "writes": 0, "wait_type": "MSQL_XP"}
+{"event_name": "wait_info", "timestamp": "2026-09-04 05:40:58.910", "session_id": 57, "wait_type": "BROKER_TO_FLUSH", "database_name": "master"}
+{"event_name": "sql_batch_completed", "timestamp": "2026-09-04 05:40:58.910", "database_name": "SteelNort", "session_id": 71, "command": "EXECUTE", "duration": 2064, "cpu_time": 28, "logical_reads": 0, "writes": 0, "status": "completed"}
+{"event_name": "sql_batch_completed", "timestamp": "2026-09-04 05:41:02.973", "database_name": "SteelNort", "session_id": 71, "command": "EXECUTE", "duration": 115, "cpu_time": 107, "logical_reads": 0, "writes": 0, "wait_type": "MSQL_XP"}
+{"event_name": "sql_batch_completed", "timestamp": "2026-09-04 05:41:05.061", "database_name": "SteelNort", "session_id": 71, "command": "EXECUTE", "duration": 2176, "cpu_time": 107, "logical_reads": 0, "writes": 0, "status": "completed"}
+{"event_name": "login", "timestamp": "2026-09-04 05:41:13.151", "session_id": 76, "login_name": "795ec2146175\\Administrator", "program_name": "Microsoft SQL Server", "database_name": "SteelNort"}
+{"event_name": "sql_batch_completed", "timestamp": "2026-09-04 05:41:13.151", "database_name": "SteelNort", "session_id": 71, "command": "EXECUTE", "duration": 143, "cpu_time": 130, "logical_reads": 0, "writes": 0, "wait_type": "MSQL_XP"}
+{"event_name": "logout", "timestamp": "2026-09-04 05:41:15.182", "session_id": 76}
+{"event_name": "sql_batch_completed", "timestamp": "2026-09-04 05:41:15.182", "database_name": "SteelNort", "session_id": 69, "command": "EXECUTE", "duration": 6, "cpu_time": 0, "logical_reads": 0, "writes": 0}
+{"event_name": "sql_batch_completed", "timestamp": "2026-09-04 05:41:15.182", "database_name": "SteelNort", "session_id": 71, "command": "EXECUTE", "duration": 2172, "cpu_time": 130, "logical_reads": 0, "writes": 0, "status": "completed"}
+{"event_name": "wait_info", "timestamp": "2026-09-04 05:41:17.207", "session_id": 51, "wait_type": "SLEEP_TASK", "database_name": "master"}
+{"event_name": "sql_batch_completed", "timestamp": "2026-09-04 05:41:17.207", "database_name": "SteelNort", "session_id": 63, "command": "AWAITING COMMAND", "duration": 5, "cpu_time": 0, "logical_reads": 0, "writes": 0}
+{"event_name": "sql_batch_completed", "timestamp": "2026-09-04 05:41:17.207", "database_name": "SteelNort", "session_id": 69, "command": "EXECUTE", "duration": 2036, "cpu_time": 0, "logical_reads": 0, "writes": 0, "status": "completed"}
+{"event_name": "sql_batch_completed", "timestamp": "2026-09-04 05:41:19.236", "database_name": "SteelNort", "session_id": 63, "command": "AWAITING COMMAND", "duration": 2031, "cpu_time": 0, "logical_reads": 0, "writes": 0, "status": "completed"}
+{"event_name": "sql_batch_completed", "timestamp": "2026-09-04 05:41:21.264", "database_name": "SteelNort", "session_id": 70, "command": "AWAITING COMMAND", "duration": 5, "cpu_time": 0, "logical_reads": 0, "writes": 0}
+{"event_name": "sql_batch_completed", "timestamp": "2026-09-04 05:41:23.287", "database_name": "SteelNort", "session_id": 70, "command": "AWAITING COMMAND", "duration": 2032, "cpu_time": 0, "logical_reads": 0, "writes": 0, "status": "completed"}
+{"event_name": "sql_batch_completed", "timestamp": "2026-09-04 05:41:25.319", "database_name": "SteelNort", "session_id": 71, "command": "EXECUTE", "duration": 32, "cpu_time": 29, "logical_reads": 0, "writes": 0, "wait_type": "MSQL_XP"}
+{"event_name": "lock_acquired", "timestamp": "2026-09-04 05:41:25.319", "session_id": 68, "resource_type": "RID", "mode": "S"}
+{"event_name": "sql_batch_completed", "timestamp": "2026-09-04 05:41:27.348", "database_name": "SteelNort", "session_id": 66, "command": "EXECUTE", "duration": 8, "cpu_time": 0, "logical_reads": 0, "writes": 0}
+{"event_name": "sql_batch_completed", "timestamp": "2026-09-04 05:41:27.348", "database_name": "SteelNort", "session_id": 71, "command": "EXECUTE", "duration": 2065, "cpu_time": 29, "logical_reads": 0, "writes": 0, "status": "completed"}
+{"event_name": "lock_released", "timestamp": "2026-09-04 05:41:27.348", "session_id": 68, "resource_type": "RID", "mode": "S"}
+{"event_name": "sql_batch_completed", "timestamp": "2026-09-04 05:41:29.374", "database_name": "SteelNort", "session_id": 66, "command": "EXECUTE", "duration": 2032, "cpu_time": 0, "logical_reads": 0, "writes": 0, "status": "completed"}
+{"event_name": "sql_batch_completed", "timestamp": "2026-09-04 05:41:31.403", "database_name": "SteelNort", "session_id": 67, "command": "COMMIT TRANSACTION", "duration": 77, "cpu_time": 69, "logical_reads": 0, "writes": 0, "wait_type": "PREEMPTIVE_OS_FLUSHFILEBUFFERS"}
+{"event_name": "sql_batch_completed", "timestamp": "2026-09-04 05:41:33.438", "database_name": "SteelNort", "session_id": 68, "command": "SELECT", "duration": 13, "cpu_time": 6, "logical_reads": 0, "writes": 0}
+{"event_name": "sql_batch_completed", "timestamp": "2026-09-04 05:41:33.438", "database_name": "SteelNort", "session_id": 67, "command": "COMMIT TRANSACTION", "duration": 2102, "cpu_time": 69, "logical_reads": 0, "writes": 0, "status": "completed"}
+{"event_name": "lock_acquired", "timestamp": "2026-09-04 05:41:33.438", "session_id": 65, "resource_type": "KEY", "mode": "X"}
+{"event_name": "lock_acquired", "timestamp": "2026-09-04 05:41:33.438", "session_id": 65, "resource_type": "PAGE", "mode": "IX"}
+{"event_name": "lock_acquired", "timestamp": "2026-09-04 05:41:33.438", "session_id": 65, "resource_type": "OBJECT", "mode": "IX"}
+{"event_name": "lock_acquired", "timestamp": "2026-09-04 05:41:33.438", "session_id": 68, "resource_type": "OBJECT", "mode": "IS"}
+{"event_name": "lock_acquired", "timestamp": "2026-09-04 05:41:33.438", "session_id": 68, "resource_type": "PAGE", "mode": "IS"}
+{"event_name": "lock_acquired", "timestamp": "2026-09-04 05:41:33.438", "session_id": 65, "resource_type": "RID", "mode": "X"}
+{"event_name": "sql_batch_completed", "timestamp": "2026-09-04 05:41:35.466", "database_name": "SteelNort", "session_id": 68, "command": "SELECT", "duration": 2044, "cpu_time": 6, "logical_reads": 0, "writes": 0, "status": "completed"}
+{"event_name": "lock_released", "timestamp": "2026-09-04 05:41:35.466", "session_id": 65, "resource_type": "KEY", "mode": "X"}
+{"event_name": "lock_released", "timestamp": "2026-09-04 05:41:35.466", "session_id": 65, "resource_type": "PAGE", "mode": "IX"}
+{"event_name": "lock_released", "timestamp": "2026-09-04 05:41:35.466", "session_id": 65, "resource_type": "OBJECT", "mode": "IX"}
+{"event_name": "lock_released", "timestamp": "2026-09-04 05:41:35.466", "session_id": 68, "resource_type": "OBJECT", "mode": "IS"}
+{"event_name": "lock_released", "timestamp": "2026-09-04 05:41:35.466", "session_id": 68, "resource_type": "PAGE", "mode": "IS"}
+{"event_name": "lock_released", "timestamp": "2026-09-04 05:41:35.466", "session_id": 65, "resource_type": "RID", "mode": "X"}
+{"event_name": "login", "timestamp": "2026-09-04 05:41:37.490", "session_id": 76, "login_name": "795ec2146175\\Administrator", "program_name": "Microsoft SQL Server", "database_name": "SteelNort"}
+{"event_name": "sql_batch_completed", "timestamp": "2026-09-04 05:41:37.490", "database_name": "SteelNort", "session_id": 71, "command": "EXECUTE", "duration": 241, "cpu_time": 127, "logical_reads": 0, "writes": 0, "wait_type": "MSQL_XP"}
+{"event_name": "logout", "timestamp": "2026-09-04 05:41:39.516", "session_id": 76}
+{"event_name": "sql_batch_completed", "timestamp": "2026-09-04 05:41:39.516", "database_name": "SteelNort", "session_id": 71, "command": "EXECUTE", "duration": 2265, "cpu_time": 127, "logical_reads": 0, "writes": 0, "status": "completed"}
+{"event_name": "sql_batch_completed", "timestamp": "2026-09-04 05:41:41.534", "database_name": "SteelNort", "session_id": 69, "command": "AWAITING COMMAND", "duration": 7, "cpu_time": 0, "logical_reads": 0, "writes": 0}
+{"event_name": "login", "timestamp": "2026-09-04 05:41:43.555", "session_id": 76, "login_name": "795ec2146175\\Administrator", "program_name": "Microsoft SQL Server", "database_name": "SteelNort"}
+{"event_name": "sql_batch_completed", "timestamp": "2026-09-04 05:41:43.555", "database_name": "SteelNort", "session_id": 71, "command": "EXECUTE", "duration": 106, "cpu_time": 94, "logical_reads": 0, "writes": 0, "wait_type": "MSQL_XP"}
+{"event_name": "sql_batch_completed", "timestamp": "2026-09-04 05:41:43.555", "database_name": "SteelNort", "session_id": 69, "command": "AWAITING COMMAND", "duration": 2037, "cpu_time": 0, "logical_reads": 0, "writes": 0, "status": "completed"}
+{"event_name": "logout", "timestamp": "2026-09-04 05:41:45.595", "session_id": 76}
+{"event_name": "sql_batch_completed", "timestamp": "2026-09-04 05:41:45.595", "database_name": "SteelNort", "session_id": 71, "command": "EXECUTE", "duration": 2144, "cpu_time": 94, "logical_reads": 0, "writes": 0, "status": "completed"}
+{"event_name": "sql_batch_completed", "timestamp": "2026-09-04 05:41:49.640", "database_name": "SteelNort", "session_id": 66, "command": "AWAITING COMMAND", "duration": 3, "cpu_time": 0, "logical_reads": 0, "writes": 0}
+{"event_name": "sql_batch_completed", "timestamp": "2026-09-04 05:41:51.665", "database_name": "SteelNort", "session_id": 66, "command": "AWAITING COMMAND", "duration": 2025, "cpu_time": 0, "logical_reads": 0, "writes": 0, "status": "completed"}
+{"event_name": "sql_batch_completed", "timestamp": "2026-09-04 05:41:53.687", "database_name": "SteelNort", "session_id": 67, "command": "AWAITING COMMAND", "duration": 5, "cpu_time": 0, "logical_reads": 0, "writes": 0}
+{"event_name": "sql_batch_completed", "timestamp": "2026-09-04 05:41:53.687", "database_name": "SteelNort", "session_id": 71, "command": "EXECUTE", "duration": 66, "cpu_time": 57, "logical_reads": 0, "writes": 0, "wait_type": "MSQL_XP"}
+{"event_name": "sql_batch_completed", "timestamp": "2026-09-04 05:41:55.716", "database_name": "SteelNort", "session_id": 67, "command": "AWAITING COMMAND", "duration": 2030, "cpu_time": 0, "logical_reads": 0, "writes": 0, "status": "completed"}
+{"event_name": "sql_batch_completed", "timestamp": "2026-09-04 05:41:55.716", "database_name": "SteelNort", "session_id": 71, "command": "EXECUTE", "duration": 2092, "cpu_time": 57, "logical_reads": 0, "writes": 0, "status": "completed"}
+{"event_name": "login", "timestamp": "2026-09-04 05:41:57.736", "session_id": 76, "login_name": "795ec2146175\\Administrator", "program_name": "Microsoft SQL Server", "database_name": "SteelNort"}
+{"event_name": "sql_batch_completed", "timestamp": "2026-09-04 05:41:57.736", "database_name": "SteelNort", "session_id": 71, "command": "EXECUTE", "duration": 329, "cpu_time": 172, "logical_reads": 0, "writes": 0, "wait_type": "MSQL_XP"}
+{"event_name": "logout", "timestamp": "2026-09-04 05:41:59.760", "session_id": 76}
+{"event_name": "sql_batch_completed", "timestamp": "2026-09-04 05:41:59.760", "database_name": "SteelNort", "session_id": 71, "command": "EXECUTE", "duration": 2357, "cpu_time": 172, "logical_reads": 0, "writes": 0, "status": "completed"}
+{"event_name": "sql_batch_completed", "timestamp": "2026-09-04 05:42:07.858", "database_name": "SteelNort", "session_id": 67, "command": "AWAITING COMMAND", "duration": 4, "cpu_time": 0, "logical_reads": 0, "writes": 0}
+{"event_name": "sql_batch_completed", "timestamp": "2026-09-04 05:42:09.877", "database_name": "SteelNort", "session_id": 67, "command": "AWAITING COMMAND", "duration": 2023, "cpu_time": 0, "logical_reads": 0, "writes": 0, "status": "completed"}
+{"event_name": "login", "timestamp": "2026-09-04 05:42:13.921", "session_id": 76, "login_name": "795ec2146175\\Administrator", "program_name": "Microsoft SQL Server", "database_name": "SteelNort"}
+{"event_name": "sql_batch_completed", "timestamp": "2026-09-04 05:42:13.921", "database_name": "SteelNort", "session_id": 71, "command": "EXECUTE", "duration": 143, "cpu_time": 104, "logical_reads": 0, "writes": 0, "wait_type": "MSQL_XP"}
+{"event_name": "logout", "timestamp": "2026-09-04 05:42:15.947", "session_id": 76}
+{"event_name": "sql_batch_completed", "timestamp": "2026-09-04 05:42:15.947", "database_name": "SteelNort", "session_id": 71, "command": "EXECUTE", "duration": 2166, "cpu_time": 104, "logical_reads": 0, "writes": 0, "status": "completed"}
+{"event_name": "sql_batch_completed", "timestamp": "2026-09-04 05:42:17.970", "database_name": "SteelNort", "session_id": 65, "command": "AWAITING COMMAND", "duration": 7, "cpu_time": 0, "logical_reads": 0, "writes": 0}
+{"event_name": "sql_batch_completed", "timestamp": "2026-09-04 05:42:19.988", "database_name": "SteelNort", "session_id": 65, "command": "AWAITING COMMAND", "duration": 2025, "cpu_time": 0, "logical_reads": 0, "writes": 0, "status": "completed"}
+{"event_name": "login", "timestamp": "2026-09-04 05:42:22.011", "session_id": 76, "login_name": "795ec2146175\\Administrator", "program_name": "Microsoft SQL Server", "database_name": "SteelNort"}
+{"event_name": "sql_batch_completed", "timestamp": "2026-09-04 05:42:22.011", "database_name": "SteelNort", "session_id": 71, "command": "EXECUTE", "duration": 146, "cpu_time": 96, "logical_reads": 0, "writes": 0, "wait_type": "MSQL_XP"}
+{"event_name": "logout", "timestamp": "2026-09-04 05:42:24.037", "session_id": 76}
+{"event_name": "sql_batch_completed", "timestamp": "2026-09-04 05:42:24.037", "database_name": "SteelNort", "session_id": 71, "command": "EXECUTE", "duration": 2169, "cpu_time": 96, "logical_reads": 0, "writes": 0, "status": "completed"}
+{"event_name": "sql_batch_completed", "timestamp": "2026-09-04 05:42:28.099", "database_name": "SteelNort", "session_id": 63, "command": "AWAITING COMMAND", "duration": 4, "cpu_time": 0, "logical_reads": 0, "writes": 0}
+{"event_name": "login", "timestamp": "2026-09-04 05:42:30.123", "session_id": 76, "login_name": "795ec2146175\\Administrator", "program_name": "Microsoft SQL Server", "database_name": "SteelNort"}
+{"event_name": "wait_info", "timestamp": "2026-09-04 05:42:30.123", "session_id": 57, "wait_type": "SLEEP_TASK", "database_name": "master"}
+{"event_name": "sql_batch_completed", "timestamp": "2026-09-04 05:42:30.123", "database_name": "SteelNort", "session_id": 71, "command": "EXECUTE", "duration": 151, "cpu_time": 113, "logical_reads": 0, "writes": 0, "wait_type": "MSQL_XP"}
+{"event_name": "sql_batch_completed", "timestamp": "2026-09-04 05:42:30.123", "database_name": "SteelNort", "session_id": 63, "command": "AWAITING COMMAND", "duration": 2028, "cpu_time": 0, "logical_reads": 0, "writes": 0, "status": "completed"}
+{"event_name": "logout", "timestamp": "2026-09-04 05:42:32.150", "session_id": 76}
+{"event_name": "sql_batch_completed", "timestamp": "2026-09-04 05:42:32.150", "database_name": "SteelNort", "session_id": 66, "command": "AWAITING COMMAND", "duration": 4, "cpu_time": 0, "logical_reads": 0, "writes": 0}
+{"event_name": "sql_batch_completed", "timestamp": "2026-09-04 05:42:32.150", "database_name": "SteelNort", "session_id": 71, "command": "EXECUTE", "duration": 2179, "cpu_time": 113, "logical_reads": 0, "writes": 0, "status": "completed"}
+{"event_name": "sql_batch_completed", "timestamp": "2026-09-04 05:42:34.173", "database_name": "SteelNort", "session_id": 66, "command": "AWAITING COMMAND", "duration": 2023, "cpu_time": 0, "logical_reads": 0, "writes": 0, "status": "completed"}
+{"event_name": "sql_batch_completed", "timestamp": "2026-09-04 05:42:40.231", "database_name": "SteelNort", "session_id": 64, "command": "AWAITING COMMAND", "duration": 8, "cpu_time": 0, "logical_reads": 0, "writes": 0}
+{"event_name": "sql_batch_completed", "timestamp": "2026-09-04 05:42:40.231", "database_name": "SteelNort", "session_id": 71, "command": "EXECUTE", "duration": 49, "cpu_time": 39, "logical_reads": 0, "writes": 0, "wait_type": "MSQL_XP"}
+{"event_name": "sql_batch_completed", "timestamp": "2026-09-04 05:42:42.249", "database_name": "SteelNort", "session_id": 64, "command": "AWAITING COMMAND", "duration": 2026, "cpu_time": 0, "logical_reads": 0, "writes": 0, "status": "completed"}
+{"event_name": "sql_batch_completed", "timestamp": "2026-09-04 05:42:42.249", "database_name": "SteelNort", "session_id": 71, "command": "EXECUTE", "duration": 2067, "cpu_time": 39, "logical_reads": 0, "writes": 0, "status": "completed"}
+{"event_name": "sql_batch_completed", "timestamp": "2026-09-04 05:42:46.295", "database_name": "SteelNort", "session_id": 69, "command": "AWAITING COMMAND", "duration": 5, "cpu_time": 0, "logical_reads": 0, "writes": 0}
+{"event_name": "sql_batch_completed", "timestamp": "2026-09-04 05:42:48.319", "database_name": "SteelNort", "session_id": 69, "command": "AWAITING COMMAND", "duration": 2031, "cpu_time": 0, "logical_reads": 0, "writes": 0, "status": "completed"}
+{"event_name": "login", "timestamp": "2026-09-04 05:42:56.409", "session_id": 76, "login_name": "795ec2146175\\Administrator", "program_name": "Microsoft SQL Server", "database_name": "SteelNort"}
+{"event_name": "sql_batch_completed", "timestamp": "2026-09-04 05:42:56.409", "database_name": "SteelNort", "session_id": 60, "command": "AWAITING COMMAND", "duration": 7, "cpu_time": 0, "logical_reads": 0, "writes": 0}
+{"event_name": "sql_batch_completed", "timestamp": "2026-09-04 05:42:56.409", "database_name": "SteelNort", "session_id": 71, "command": "EXECUTE", "duration": 155, "cpu_time": 97, "logical_reads": 0, "writes": 0, "wait_type": "MSQL_XP"}
+{"event_name": "logout", "timestamp": "2026-09-04 05:42:58.438", "session_id": 76}
+{"event_name": "sql_batch_completed", "timestamp": "2026-09-04 05:42:58.438", "database_name": "SteelNort", "session_id": 71, "command": "EXECUTE", "duration": 2185, "cpu_time": 97, "logical_reads": 0, "writes": 0, "status": "completed"}
+{"event_name": "sql_batch_completed", "timestamp": "2026-09-04 05:43:00.466", "database_name": "SteelNort", "session_id": 60, "command": "AWAITING COMMAND", "duration": 2034, "cpu_time": 0, "logical_reads": 0, "writes": 0, "status": "completed"}
+{"event_name": "sql_batch_completed", "timestamp": "2026-09-04 05:43:02.493", "database_name": "SteelNort", "session_id": 63, "command": "CONDITIONAL", "duration": 4, "cpu_time": 0, "logical_reads": 0, "writes": 0}
+{"event_name": "sql_batch_completed", "timestamp": "2026-09-04 05:43:02.493", "database_name": "SteelNort", "session_id": 69, "command": "SET OPTION OFF", "duration": 6, "cpu_time": 0, "logical_reads": 0, "writes": 0}
+{"event_name": "sql_batch_completed", "timestamp": "2026-09-04 05:43:02.493", "database_name": "SteelNort", "session_id": 71, "command": "EXECUTE", "duration": 27, "cpu_time": 16, "logical_reads": 0, "writes": 0, "wait_type": "MSQL_XP"}
+{"event_name": "sql_batch_completed", "timestamp": "2026-09-04 05:43:04.540", "database_name": "SteelNort", "session_id": 69, "command": "SET OPTION OFF", "duration": 2042, "cpu_time": 0, "logical_reads": 0, "writes": 0, "status": "completed"}
+{"event_name": "sql_batch_completed", "timestamp": "2026-09-04 05:43:04.540", "database_name": "SteelNort", "session_id": 71, "command": "EXECUTE", "duration": 2064, "cpu_time": 16, "logical_reads": 0, "writes": 0, "status": "completed"}
+{"event_name": "sql_batch_completed", "timestamp": "2026-09-04 05:43:04.540", "database_name": "SteelNort", "session_id": 63, "command": "CONDITIONAL", "duration": 2045, "cpu_time": 0, "logical_reads": 0, "writes": 0, "status": "completed"}
+{"event_name": "sql_batch_completed", "timestamp": "2026-09-04 05:43:06.561", "database_name": "SteelNort", "session_id": 69, "command": "AWAITING COMMAND", "duration": 2, "cpu_time": 0, "logical_reads": 0, "writes": 0}
+{"event_name": "sql_batch_completed", "timestamp": "2026-09-04 05:43:08.592", "database_name": "SteelNort", "session_id": 69, "command": "AWAITING COMMAND", "duration": 2034, "cpu_time": 0, "logical_reads": 0, "writes": 0, "status": "completed"}
+{"event_name": "sql_batch_completed", "timestamp": "2026-09-04 05:43:16.682", "database_name": "SteelNort", "session_id": 66, "command": "EXECUTE", "duration": 8, "cpu_time": 0, "logical_reads": 0, "writes": 0}
+{"event_name": "sql_batch_completed", "timestamp": "2026-09-04 05:43:18.706", "database_name": "SteelNort", "session_id": 64, "command": "AWAITING COMMAND", "duration": 6, "cpu_time": 0, "logical_reads": 0, "writes": 0}
+{"event_name": "sql_batch_completed", "timestamp": "2026-09-04 05:43:18.706", "database_name": "SteelNort", "session_id": 65, "command": "EXECUTE", "duration": 7, "cpu_time": 0, "logical_reads": 0, "writes": 0}
+{"event_name": "sql_batch_completed", "timestamp": "2026-09-04 05:43:18.706", "database_name": "SteelNort", "session_id": 66, "command": "EXECUTE", "duration": 2032, "cpu_time": 0, "logical_reads": 0, "writes": 0, "status": "completed"}
+{"event_name": "sql_batch_completed", "timestamp": "2026-09-04 05:43:20.727", "database_name": "SteelNort", "session_id": 70, "command": "AWAITING COMMAND", "duration": 4, "cpu_time": 0, "logical_reads": 0, "writes": 0}
+{"event_name": "sql_batch_completed", "timestamp": "2026-09-04 05:43:20.727", "database_name": "SteelNort", "session_id": 64, "command": "AWAITING COMMAND", "duration": 2031, "cpu_time": 0, "logical_reads": 0, "writes": 0, "status": "completed"}
+{"event_name": "sql_batch_completed", "timestamp": "2026-09-04 05:43:20.727", "database_name": "SteelNort", "session_id": 65, "command": "EXECUTE", "duration": 2032, "cpu_time": 0, "logical_reads": 0, "writes": 0, "status": "completed"}
+{"event_name": "sql_batch_completed", "timestamp": "2026-09-04 05:43:22.753", "database_name": "SteelNort", "session_id": 70, "command": "AWAITING COMMAND", "duration": 2028, "cpu_time": 0, "logical_reads": 0, "writes": 0, "status": "completed"}
+{"event_name": "login", "timestamp": "2026-09-04 05:43:24.771", "session_id": 76, "login_name": "795ec2146175\\Administrator", "program_name": "Microsoft SQL Server", "database_name": "SteelNort"}
+{"event_name": "sql_batch_completed", "timestamp": "2026-09-04 05:43:24.771", "database_name": "SteelNort", "session_id": 64, "command": "AWAITING COMMAND", "duration": 5, "cpu_time": 0, "logical_reads": 0, "writes": 0}
+{"event_name": "sql_batch_completed", "timestamp": "2026-09-04 05:43:24.771", "database_name": "SteelNort", "session_id": 71, "command": "EXECUTE", "duration": 120, "cpu_time": 92, "logical_reads": 0, "writes": 0, "wait_type": "MSQL_XP"}
+{"event_name": "logout", "timestamp": "2026-09-04 05:43:26.794", "session_id": 76}
+{"event_name": "sql_batch_completed", "timestamp": "2026-09-04 05:43:26.794", "database_name": "SteelNort", "session_id": 64, "command": "AWAITING COMMAND", "duration": 2029, "cpu_time": 0, "logical_reads": 0, "writes": 0, "status": "completed"}
+{"event_name": "sql_batch_completed", "timestamp": "2026-09-04 05:43:26.794", "database_name": "SteelNort", "session_id": 71, "command": "EXECUTE", "duration": 2144, "cpu_time": 92, "logical_reads": 0, "writes": 0, "status": "completed"}
+{"event_name": "sql_batch_completed", "timestamp": "2026-09-04 05:43:32.865", "database_name": "SteelNort", "session_id": 60, "command": "AWAITING COMMAND", "duration": 8, "cpu_time": 1, "logical_reads": 0, "writes": 0}
+{"event_name": "lock_acquired", "timestamp": "2026-09-04 05:43:32.865", "session_id": 66, "resource_type": "OBJECT", "mode": "IS"}
+{"event_name": "sql_batch_completed", "timestamp": "2026-09-04 05:43:34.894", "database_name": "SteelNort", "session_id": 63, "command": "AWAITING COMMAND", "duration": 4, "cpu_time": 0, "logical_reads": 0, "writes": 0}
+{"event_name": "sql_batch_completed", "timestamp": "2026-09-04 05:43:34.894", "database_name": "SteelNort", "session_id": 60, "command": "AWAITING COMMAND", "duration": 2038, "cpu_time": 1, "logical_reads": 0, "writes": 0, "status": "completed"}
+{"event_name": "lock_released", "timestamp": "2026-09-04 05:43:34.894", "session_id": 66, "resource_type": "OBJECT", "mode": "IS"}
+{"event_name": "sql_batch_completed", "timestamp": "2026-09-04 05:43:36.917", "database_name": "SteelNort", "session_id": 63, "command": "AWAITING COMMAND", "duration": 2025, "cpu_time": 0, "logical_reads": 0, "writes": 0, "status": "completed"}
+{"event_name": "sql_batch_completed", "timestamp": "2026-09-04 05:43:40.967", "database_name": "SteelNort", "session_id": 67, "command": "EXECUTE", "duration": 8, "cpu_time": 0, "logical_reads": 0, "writes": 0}
+{"event_name": "sql_batch_completed", "timestamp": "2026-09-04 05:43:40.967", "database_name": "SteelNort", "session_id": 70, "command": "EXECUTE", "duration": 9, "cpu_time": 0, "logical_reads": 0, "writes": 0}
+{"event_name": "sql_batch_completed", "timestamp": "2026-09-04 05:43:40.967", "database_name": "SteelNort", "session_id": 71, "command": "EXECUTE", "duration": 37, "cpu_time": 24, "logical_reads": 0, "writes": 0, "wait_type": "MSQL_XP"}
+{"event_name": "sql_batch_completed", "timestamp": "2026-09-04 05:43:42.994", "database_name": "SteelNort", "session_id": 67, "command": "EXECUTE", "duration": 2036, "cpu_time": 0, "logical_reads": 0, "writes": 0, "status": "completed"}
+{"event_name": "sql_batch_completed", "timestamp": "2026-09-04 05:43:42.994", "database_name": "SteelNort", "session_id": 70, "command": "EXECUTE", "duration": 2038, "cpu_time": 0, "logical_reads": 0, "writes": 0, "status": "completed"}
+{"event_name": "sql_batch_completed", "timestamp": "2026-09-04 05:43:42.994", "database_name": "SteelNort", "session_id": 71, "command": "EXECUTE", "duration": 2066, "cpu_time": 24, "logical_reads": 0, "writes": 0, "status": "completed"}
+{"event_name": "sql_batch_completed", "timestamp": "2026-09-04 05:43:49.067", "database_name": "SteelNort", "session_id": 62, "command": "EXECUTE", "duration": 2, "cpu_time": 0, "logical_reads": 0, "writes": 0}
+{"event_name": "wait_info", "timestamp": "2026-09-04 05:43:51.092", "session_id": 57, "wait_type": "BROKER_TO_FLUSH", "database_name": "master"}
+{"event_name": "sql_batch_completed", "timestamp": "2026-09-04 05:43:51.092", "database_name": "SteelNort", "session_id": 71, "command": "EXECUTE", "duration": 61, "cpu_time": 55, "logical_reads": 0, "writes": 0, "wait_type": "MSQL_XP"}
+{"event_name": "sql_batch_completed", "timestamp": "2026-09-04 05:43:51.092", "database_name": "SteelNort", "session_id": 62, "command": "EXECUTE", "duration": 2029, "cpu_time": 0, "logical_reads": 0, "writes": 0, "status": "completed"}
+{"event_name": "sql_batch_completed", "timestamp": "2026-09-04 05:43:53.127", "database_name": "SteelNort", "session_id": 70, "command": "EXECUTE", "duration": 5, "cpu_time": 0, "logical_reads": 0, "writes": 0}
+{"event_name": "sql_batch_completed", "timestamp": "2026-09-04 05:43:53.127", "database_name": "SteelNort", "session_id": 71, "command": "EXECUTE", "duration": 2096, "cpu_time": 55, "logical_reads": 0, "writes": 0, "status": "completed"}
+{"event_name": "sql_batch_completed", "timestamp": "2026-09-04 05:43:55.152", "database_name": "SteelNort", "session_id": 70, "command": "EXECUTE", "duration": 2030, "cpu_time": 0, "logical_reads": 0, "writes": 0, "status": "completed"}
+{"event_name": "sql_batch_completed", "timestamp": "2026-09-04 05:43:59.196", "database_name": "SteelNort", "session_id": 69, "command": "EXECUTE", "duration": 4, "cpu_time": 0, "logical_reads": 0, "writes": 0}
+{"event_name": "login", "timestamp": "2026-09-04 05:44:01.219", "session_id": 76, "login_name": "795ec2146175\\Administrator", "program_name": "Microsoft SQL Server", "database_name": "SteelNort"}
+{"event_name": "sql_batch_completed", "timestamp": "2026-09-04 05:44:01.219", "database_name": "SteelNort", "session_id": 64, "command": "AWAITING COMMAND", "duration": 7, "cpu_time": 0, "logical_reads": 0, "writes": 0}
+{"event_name": "sql_batch_completed", "timestamp": "2026-09-04 05:44:01.219", "database_name": "SteelNort", "session_id": 71, "command": "EXECUTE", "duration": 182, "cpu_time": 100, "logical_reads": 0, "writes": 0, "wait_type": "MSQL_XP"}
+{"event_name": "sql_batch_completed", "timestamp": "2026-09-04 05:44:01.219", "database_name": "SteelNort", "session_id": 69, "command": "EXECUTE", "duration": 2034, "cpu_time": 0, "logical_reads": 0, "writes": 0, "status": "completed"}
+{"event_name": "logout", "timestamp": "2026-09-04 05:44:03.246", "session_id": 76}
+{"event_name": "sql_batch_completed", "timestamp": "2026-09-04 05:44:03.246", "database_name": "SteelNort", "session_id": 68, "command": "EXECUTE", "duration": 6, "cpu_time": 0, "logical_reads": 0, "writes": 0}
+{"event_name": "sql_batch_completed", "timestamp": "2026-09-04 05:44:03.246", "database_name": "SteelNort", "session_id": 64, "command": "AWAITING COMMAND", "duration": 2034, "cpu_time": 0, "logical_reads": 0, "writes": 0, "status": "completed"}
+{"event_name": "sql_batch_completed", "timestamp": "2026-09-04 05:44:03.246", "database_name": "SteelNort", "session_id": 71, "command": "EXECUTE", "duration": 2209, "cpu_time": 100, "logical_reads": 0, "writes": 0, "status": "completed"}
+{"event_name": "sql_batch_completed", "timestamp": "2026-09-04 05:44:05.272", "database_name": "SteelNort", "session_id": 67, "command": "SELECT", "duration": 4, "cpu_time": 1, "logical_reads": 0, "writes": 0}
+{"event_name": "sql_batch_completed", "timestamp": "2026-09-04 05:44:05.272", "database_name": "SteelNort", "session_id": 68, "command": "EXECUTE", "duration": 2033, "cpu_time": 0, "logical_reads": 0, "writes": 0, "status": "completed"}
+{"event_name": "sql_batch_completed", "timestamp": "2026-09-04 05:44:07.295", "database_name": "SteelNort", "session_id": 60, "command": "AWAITING COMMAND", "duration": 5, "cpu_time": 0, "logical_reads": 0, "writes": 0}
+{"event_name": "sql_batch_completed", "timestamp": "2026-09-04 05:44:07.295", "database_name": "SteelNort", "session_id": 67, "command": "SELECT", "duration": 2029, "cpu_time": 1, "logical_reads": 0, "writes": 0, "status": "completed"}
+{"event_name": "lock_acquired", "timestamp": "2026-09-04 05:44:07.295", "session_id": 69, "resource_type": "KEY", "mode": "S"}
+{"event_name": "sql_batch_completed", "timestamp": "2026-09-04 05:44:09.322", "database_name": "SteelNort", "session_id": 62, "command": "AWAITING COMMAND", "duration": 7, "cpu_time": 0, "logical_reads": 0, "writes": 0}
+{"event_name": "sql_batch_completed", "timestamp": "2026-09-04 05:44:09.322", "database_name": "SteelNort", "session_id": 60, "command": "AWAITING COMMAND", "duration": 2035, "cpu_time": 0, "logical_reads": 0, "writes": 0, "status": "completed"}
+{"event_name": "lock_released", "timestamp": "2026-09-04 05:44:09.322", "session_id": 69, "resource_type": "KEY", "mode": "S"}
+{"event_name": "login", "timestamp": "2026-09-04 05:44:11.349", "session_id": 76, "login_name": "795ec2146175\\Administrator", "program_name": "Microsoft SQL Server", "database_name": "SteelNort"}
+{"event_name": "sql_batch_completed", "timestamp": "2026-09-04 05:44:11.349", "database_name": "SteelNort", "session_id": 71, "command": "EXECUTE", "duration": 211, "cpu_time": 127, "logical_reads": 0, "writes": 0, "wait_type": "MSQL_XP"}
+{"event_name": "sql_batch_completed", "timestamp": "2026-09-04 05:44:11.349", "database_name": "SteelNort", "session_id": 62, "command": "AWAITING COMMAND", "duration": 2035, "cpu_time": 0, "logical_reads": 0, "writes": 0, "status": "completed"}
+{"event_name": "logout", "timestamp": "2026-09-04 05:44:13.374", "session_id": 76}
+{"event_name": "sql_batch_completed", "timestamp": "2026-09-04 05:44:13.374", "database_name": "SteelNort", "session_id": 71, "command": "EXECUTE", "duration": 2235, "cpu_time": 127, "logical_reads": 0, "writes": 0, "status": "completed"}
+{"event_name": "login", "timestamp": "2026-09-04 05:44:17.423", "session_id": 76, "login_name": "NT AUTHORITY\\SYSTEM", "program_name": "SQLServerCEIP", "database_name": "SteelNort"}
+{"event_name": "wait_info", "timestamp": "2026-09-04 05:44:17.423", "session_id": 77, "wait_type": "SLEEP_TASK", "database_name": "master"}
+{"event_name": "sql_batch_completed", "timestamp": "2026-09-04 05:44:27.583", "database_name": "SteelNort", "session_id": 67, "command": "SELECT", "duration": 21, "cpu_time": 13, "logical_reads": 0, "writes": 0}
+{"event_name": "lock_acquired", "timestamp": "2026-09-04 05:44:27.583", "session_id": 67, "resource_type": "KEY", "mode": "S"}
+{"event_name": "lock_acquired", "timestamp": "2026-09-04 05:44:27.583", "session_id": 67, "resource_type": "RID", "mode": "S"}
+{"event_name": "lock_acquired", "timestamp": "2026-09-04 05:44:27.583", "session_id": 67, "resource_type": "PAGE", "mode": "IS"}
+{"event_name": "lock_acquired", "timestamp": "2026-09-04 05:44:27.583", "session_id": 67, "resource_type": "OBJECT", "mode": "IS"}
+{"event_name": "sql_batch_completed", "timestamp": "2026-09-04 05:44:29.609", "database_name": "SteelNort", "session_id": 68, "command": "AWAITING COMMAND", "duration": 6, "cpu_time": 0, "logical_reads": 0, "writes": 0}
+{"event_name": "sql_batch_completed", "timestamp": "2026-09-04 05:44:29.609", "database_name": "SteelNort", "session_id": 67, "command": "SELECT", "duration": 2052, "cpu_time": 13, "logical_reads": 0, "writes": 0, "status": "completed"}
+{"event_name": "lock_released", "timestamp": "2026-09-04 05:44:29.609", "session_id": 67, "resource_type": "KEY", "mode": "S"}
+{"event_name": "lock_released", "timestamp": "2026-09-04 05:44:29.609", "session_id": 67, "resource_type": "RID", "mode": "S"}
+{"event_name": "lock_released", "timestamp": "2026-09-04 05:44:29.609", "session_id": 67, "resource_type": "PAGE", "mode": "IS"}
+{"event_name": "lock_released", "timestamp": "2026-09-04 05:44:29.609", "session_id": 67, "resource_type": "OBJECT", "mode": "IS"}
+{"event_name": "sql_batch_completed", "timestamp": "2026-09-04 05:44:31.641", "database_name": "SteelNort", "session_id": 70, "command": "EXECUTE", "duration": 7, "cpu_time": 1, "logical_reads": 0, "writes": 0}
+{"event_name": "sql_batch_completed", "timestamp": "2026-09-04 05:44:31.641", "database_name": "SteelNort", "session_id": 68, "command": "AWAITING COMMAND", "duration": 2034, "cpu_time": 0, "logical_reads": 0, "writes": 0, "status": "completed"}
+{"event_name": "sql_batch_completed", "timestamp": "2026-09-04 05:44:33.662", "database_name": "SteelNort", "session_id": 70, "command": "EXECUTE", "duration": 2031, "cpu_time": 1, "logical_reads": 0, "writes": 0, "status": "completed"}
+{"event_name": "sql_batch_completed", "timestamp": "2026-09-04 05:44:37.707", "database_name": "SteelNort", "session_id": 71, "command": "EXECUTE", "duration": 76, "cpu_time": 67, "logical_reads": 0, "writes": 0, "wait_type": "MSQL_XP"}
+{"event_name": "sql_batch_completed", "timestamp": "2026-09-04 05:44:39.743", "database_name": "SteelNort", "session_id": 71, "command": "EXECUTE", "duration": 2105, "cpu_time": 67, "logical_reads": 0, "writes": 0, "status": "completed"}
+{"event_name": "sql_batch_completed", "timestamp": "2026-09-04 05:44:41.769", "database_name": "SteelNort", "session_id": 62, "command": "SET OPTION OFF", "duration": 6, "cpu_time": 0, "logical_reads": 0, "writes": 0}
+{"event_name": "sql_batch_completed", "timestamp": "2026-09-04 05:44:43.790", "database_name": "SteelNort", "session_id": 68, "command": "AWAITING COMMAND", "duration": 4, "cpu_time": 0, "logical_reads": 0, "writes": 0}
+{"event_name": "sql_batch_completed", "timestamp": "2026-09-04 05:44:43.790", "database_name": "SteelNort", "session_id": 62, "command": "SET OPTION OFF", "duration": 2029, "cpu_time": 0, "logical_reads": 0, "writes": 0, "status": "completed"}
+{"event_name": "lock_acquired", "timestamp": "2026-09-04 05:44:43.790", "session_id": 69, "resource_type": "OBJECT", "mode": "IX"}
+{"event_name": "lock_acquired", "timestamp": "2026-09-04 05:44:43.790", "session_id": 69, "resource_type": "KEY", "mode": "X"}
+{"event_name": "lock_acquired", "timestamp": "2026-09-04 05:44:43.790", "session_id": 69, "resource_type": "RID", "mode": "X"}
+{"event_name": "lock_acquired", "timestamp": "2026-09-04 05:44:43.790", "session_id": 69, "resource_type": "PAGE", "mode": "IX"}
+{"event_name": "sql_batch_completed", "timestamp": "2026-09-04 05:44:45.826", "database_name": "SteelNort", "session_id": 68, "command": "AWAITING COMMAND", "duration": 2042, "cpu_time": 0, "logical_reads": 0, "writes": 0, "status": "completed"}
+{"event_name": "lock_released", "timestamp": "2026-09-04 05:44:45.826", "session_id": 69, "resource_type": "OBJECT", "mode": "IX"}
+{"event_name": "lock_released", "timestamp": "2026-09-04 05:44:45.826", "session_id": 69, "resource_type": "KEY", "mode": "X"}
+{"event_name": "lock_released", "timestamp": "2026-09-04 05:44:45.826", "session_id": 69, "resource_type": "RID", "mode": "X"}
+{"event_name": "lock_released", "timestamp": "2026-09-04 05:44:45.826", "session_id": 69, "resource_type": "PAGE", "mode": "IX"}
+{"event_name": "sql_batch_completed", "timestamp": "2026-09-04 05:44:53.916", "database_name": "SteelNort", "session_id": 71, "command": "EXECUTE", "duration": 68, "cpu_time": 61, "logical_reads": 0, "writes": 0, "wait_type": "MSQL_XP"}
+{"event_name": "sql_batch_completed", "timestamp": "2026-09-04 05:44:55.940", "database_name": "SteelNort", "session_id": 71, "command": "EXECUTE", "duration": 2090, "cpu_time": 61, "logical_reads": 0, "writes": 0, "status": "completed"}
+{"event_name": "sql_batch_completed", "timestamp": "2026-09-04 05:44:57.957", "database_name": "SteelNort", "session_id": 63, "command": "EXECUTE", "duration": 3, "cpu_time": 0, "logical_reads": 0, "writes": 0}
+{"event_name": "sql_batch_completed", "timestamp": "2026-09-04 05:44:59.981", "database_name": "SteelNort", "session_id": 63, "command": "EXECUTE", "duration": 2029, "cpu_time": 0, "logical_reads": 0, "writes": 0, "status": "completed"}
+{"event_name": "sql_batch_completed", "timestamp": "2026-09-04 05:45:04.036", "database_name": "SteelNort", "session_id": 71, "command": "EXECUTE", "duration": 63, "cpu_time": 54, "logical_reads": 0, "writes": 0, "wait_type": "MSQL_XP"}
+{"event_name": "sql_batch_completed", "timestamp": "2026-09-04 05:45:06.091", "database_name": "SteelNort", "session_id": 68, "command": "EXECUTE", "duration": 2, "cpu_time": 0, "logical_reads": 0, "writes": 0}
+{"event_name": "sql_batch_completed", "timestamp": "2026-09-04 05:45:06.091", "database_name": "SteelNort", "session_id": 71, "command": "EXECUTE", "duration": 2103, "cpu_time": 54, "logical_reads": 0, "writes": 0, "status": "completed"}
+{"event_name": "sql_batch_completed", "timestamp": "2026-09-04 05:45:08.123", "database_name": "SteelNort", "session_id": 68, "command": "EXECUTE", "duration": 2031, "cpu_time": 0, "logical_reads": 0, "writes": 0, "status": "completed"}
+{"event_name": "sql_batch_completed", "timestamp": "2026-09-04 05:45:10.153", "database_name": "SteelNort", "session_id": 65, "command": "EXECUTE", "duration": 4, "cpu_time": 0, "logical_reads": 0, "writes": 0}
+{"event_name": "sql_batch_completed", "timestamp": "2026-09-04 05:45:12.184", "database_name": "SteelNort", "session_id": 63, "command": "EXECUTE", "duration": 5, "cpu_time": 0, "logical_reads": 0, "writes": 0}
+{"event_name": "sql_batch_completed", "timestamp": "2026-09-04 05:45:12.184", "database_name": "SteelNort", "session_id": 65, "command": "EXECUTE", "duration": 2033, "cpu_time": 0, "logical_reads": 0, "writes": 0, "status": "completed"}
+{"event_name": "login", "timestamp": "2026-09-04 05:45:14.207", "session_id": 86, "login_name": "795ec2146175\\Administrator", "program_name": "Microsoft SQL Server", "database_name": "SteelNort"}
+{"event_name": "sql_batch_completed", "timestamp": "2026-09-04 05:45:14.207", "database_name": "SteelNort", "session_id": 66, "command": "AWAITING COMMAND", "duration": 4, "cpu_time": 0, "logical_reads": 0, "writes": 0}
+{"event_name": "sql_batch_completed", "timestamp": "2026-09-04 05:45:14.207", "database_name": "SteelNort", "session_id": 71, "command": "EXECUTE", "duration": 169, "cpu_time": 103, "logical_reads": 0, "writes": 0, "wait_type": "MSQL_XP"}
+{"event_name": "sql_batch_completed", "timestamp": "2026-09-04 05:45:14.207", "database_name": "SteelNort", "session_id": 63, "command": "EXECUTE", "duration": 2030, "cpu_time": 0, "logical_reads": 0, "writes": 0, "status": "completed"}
+{"event_name": "logout", "timestamp": "2026-09-04 05:45:16.233", "session_id": 86}
+{"event_name": "sql_batch_completed", "timestamp": "2026-09-04 05:45:16.233", "database_name": "SteelNort", "session_id": 64, "command": "AWAITING COMMAND", "duration": 6, "cpu_time": 0, "logical_reads": 0, "writes": 0}
+{"event_name": "sql_batch_completed", "timestamp": "2026-09-04 05:45:16.233", "database_name": "SteelNort", "session_id": 66, "command": "AWAITING COMMAND", "duration": 2032, "cpu_time": 0, "logical_reads": 0, "writes": 0, "status": "completed"}
+{"event_name": "sql_batch_completed", "timestamp": "2026-09-04 05:45:16.233", "database_name": "SteelNort", "session_id": 71, "command": "EXECUTE", "duration": 2196, "cpu_time": 103, "logical_reads": 0, "writes": 0, "status": "completed"}
+{"event_name": "sql_batch_completed", "timestamp": "2026-09-04 05:45:18.256", "database_name": "SteelNort", "session_id": 64, "command": "AWAITING COMMAND", "duration": 2027, "cpu_time": 0, "logical_reads": 0, "writes": 0, "status": "completed"}
+{"event_name": "wait_info", "timestamp": "2026-09-04 05:45:22.294", "session_id": 57, "wait_type": "SLEEP_TASK", "database_name": "master"}
+{"event_name": "sql_batch_completed", "timestamp": "2026-09-04 05:45:24.316", "database_name": "SteelNort", "session_id": 60, "command": "EXECUTE", "duration": 6, "cpu_time": 0, "logical_reads": 0, "writes": 0}
+{"event_name": "sql_batch_completed", "timestamp": "2026-09-04 05:45:24.316", "database_name": "SteelNort", "session_id": 62, "command": "EXECUTE", "duration": 7, "cpu_time": 0, "logical_reads": 0, "writes": 0}
+{"event_name": "sql_batch_completed", "timestamp": "2026-09-04 05:45:26.343", "database_name": "SteelNort", "session_id": 60, "command": "EXECUTE", "duration": 2033, "cpu_time": 0, "logical_reads": 0, "writes": 0, "status": "completed"}
+{"event_name": "sql_batch_completed", "timestamp": "2026-09-04 05:45:26.343", "database_name": "SteelNort", "session_id": 62, "command": "EXECUTE", "duration": 2034, "cpu_time": 0, "logical_reads": 0, "writes": 0, "status": "completed"}
+{"event_name": "login", "timestamp": "2026-09-04 05:45:28.366", "session_id": 86, "login_name": "795ec2146175\\Administrator", "program_name": "Microsoft SQL Server", "database_name": "SteelNort"}
+{"event_name": "sql_batch_completed", "timestamp": "2026-09-04 05:45:28.366", "database_name": "SteelNort", "session_id": 69, "command": "AWAITING COMMAND", "duration": 2, "cpu_time": 0, "logical_reads": 0, "writes": 0}
+{"event_name": "sql_batch_completed", "timestamp": "2026-09-04 05:45:28.366", "database_name": "SteelNort", "session_id": 71, "command": "EXECUTE", "duration": 213, "cpu_time": 99, "logical_reads": 0, "writes": 0, "wait_type": "MSQL_XP"}
+{"event_name": "logout", "timestamp": "2026-09-04 05:45:30.399", "session_id": 86}
+{"event_name": "sql_batch_completed", "timestamp": "2026-09-04 05:45:30.399", "database_name": "SteelNort", "session_id": 69, "command": "AWAITING COMMAND", "duration": 2034, "cpu_time": 0, "logical_reads": 0, "writes": 0, "status": "completed"}
+{"event_name": "sql_batch_completed", "timestamp": "2026-09-04 05:45:30.399", "database_name": "SteelNort", "session_id": 71, "command": "EXECUTE", "duration": 2245, "cpu_time": 99, "logical_reads": 0, "writes": 0, "status": "completed"}
+{"event_name": "sql_batch_completed", "timestamp": "2026-09-04 05:45:32.428", "database_name": "SteelNort", "session_id": 65, "command": "EXECUTE", "duration": 7, "cpu_time": 1, "logical_reads": 0, "writes": 0}
+{"event_name": "sql_batch_completed", "timestamp": "2026-09-04 05:45:34.452", "database_name": "SteelNort", "session_id": 65, "command": "EXECUTE", "duration": 2045, "cpu_time": 1, "logical_reads": 0, "writes": 0, "status": "completed"}
+{"event_name": "login", "timestamp": "2026-09-04 05:45:36.494", "session_id": 86, "login_name": "795ec2146175\\Administrator", "program_name": "Microsoft SQL Server", "database_name": "SteelNort"}
+{"event_name": "sql_batch_completed", "timestamp": "2026-09-04 05:45:36.494", "database_name": "SteelNort", "session_id": 70, "command": "EXECUTE", "duration": 20, "cpu_time": 0, "logical_reads": 0, "writes": 0}
+{"event_name": "sql_batch_completed", "timestamp": "2026-09-04 05:45:36.494", "database_name": "SteelNort", "session_id": 71, "command": "EXECUTE", "duration": 310, "cpu_time": 170, "logical_reads": 0, "writes": 0, "wait_type": "MSQL_XP"}
+{"event_name": "logout", "timestamp": "2026-09-04 05:45:38.581", "session_id": 86}
+{"event_name": "sql_batch_completed", "timestamp": "2026-09-04 05:45:38.581", "database_name": "SteelNort", "session_id": 70, "command": "EXECUTE", "duration": 2077, "cpu_time": 0, "logical_reads": 0, "writes": 0, "status": "completed"}
+{"event_name": "sql_batch_completed", "timestamp": "2026-09-04 05:45:38.581", "database_name": "SteelNort", "session_id": 71, "command": "EXECUTE", "duration": 2366, "cpu_time": 170, "logical_reads": 0, "writes": 0, "status": "completed"}
+{"event_name": "login", "timestamp": "2026-09-04 05:45:40.639", "session_id": 86, "login_name": "795ec2146175\\Administrator", "program_name": "Microsoft SQL Server", "database_name": "SteelNort"}
+{"event_name": "logout", "timestamp": "2026-09-04 05:45:42.662", "session_id": 86}
+{"event_name": "sql_batch_completed", "timestamp": "2026-09-04 05:45:46.705", "database_name": "SteelNort", "session_id": 68, "command": "EXECUTE", "duration": 6, "cpu_time": 0, "logical_reads": 0, "writes": 0}
+{"event_name": "sql_batch_completed", "timestamp": "2026-09-04 05:45:48.731", "database_name": "SteelNort", "session_id": 65, "command": "EXECUTE", "duration": 3, "cpu_time": 0, "logical_reads": 0, "writes": 0}
+{"event_name": "sql_batch_completed", "timestamp": "2026-09-04 05:45:48.731", "database_name": "SteelNort", "session_id": 68, "command": "EXECUTE", "duration": 2031, "cpu_time": 0, "logical_reads": 0, "writes": 0, "status": "completed"}
+{"event_name": "sql_batch_completed", "timestamp": "2026-09-04 05:45:50.754", "database_name": "SteelNort", "session_id": 65, "command": "EXECUTE", "duration": 2027, "cpu_time": 0, "logical_reads": 0, "writes": 0, "status": "completed"}
+{"event_name": "sql_batch_completed", "timestamp": "2026-09-04 05:45:52.776", "database_name": "SteelNort", "session_id": 70, "command": "EXECUTE", "duration": 5, "cpu_time": 0, "logical_reads": 0, "writes": 0}
+{"event_name": "login", "timestamp": "2026-09-04 05:45:54.805", "session_id": 86, "login_name": "795ec2146175\\Administrator", "program_name": "Microsoft SQL Server", "database_name": "SteelNort"}
+{"event_name": "sql_batch_completed", "timestamp": "2026-09-04 05:45:54.805", "database_name": "SteelNort", "session_id": 71, "command": "EXECUTE", "duration": 136, "cpu_time": 90, "logical_reads": 0, "writes": 0, "wait_type": "MSQL_XP"}
+{"event_name": "sql_batch_completed", "timestamp": "2026-09-04 05:45:54.805", "database_name": "SteelNort", "session_id": 70, "command": "EXECUTE", "duration": 2037, "cpu_time": 0, "logical_reads": 0, "writes": 0, "status": "completed"}
+{"event_name": "logout", "timestamp": "2026-09-04 05:45:56.828", "session_id": 86}
+{"event_name": "sql_batch_completed", "timestamp": "2026-09-04 05:45:56.828", "database_name": "SteelNort", "session_id": 64, "command": "COMMIT TRANSACTION", "duration": 10, "cpu_time": 5, "logical_reads": 0, "writes": 0, "wait_type": "PREEMPTIVE_OS_FLUSHFILEBUFFERS"}
+{"event_name": "sql_batch_completed", "timestamp": "2026-09-04 05:45:56.828", "database_name": "SteelNort", "session_id": 71, "command": "EXECUTE", "duration": 2159, "cpu_time": 90, "logical_reads": 0, "writes": 0, "status": "completed"}
+{"event_name": "login", "timestamp": "2026-09-04 05:45:58.858", "session_id": 86, "login_name": "795ec2146175\\Administrator", "program_name": "Microsoft SQL Server", "database_name": "SteelNort"}
+{"event_name": "sql_batch_completed", "timestamp": "2026-09-04 05:45:58.858", "database_name": "SteelNort", "session_id": 65, "command": "AWAITING COMMAND", "duration": 5, "cpu_time": 0, "logical_reads": 0, "writes": 0}
+{"event_name": "sql_batch_completed", "timestamp": "2026-09-04 05:45:58.858", "database_name": "SteelNort", "session_id": 67, "command": "EXECUTE", "duration": 6, "cpu_time": 0, "logical_reads": 0, "writes": 0}
+{"event_name": "sql_batch_completed", "timestamp": "2026-09-04 05:45:58.858", "database_name": "SteelNort", "session_id": 71, "command": "EXECUTE", "duration": 234, "cpu_time": 117, "logical_reads": 0, "writes": 0, "wait_type": "MEMORY_ALLOCATION_EXT"}
+{"event_name": "sql_batch_completed", "timestamp": "2026-09-04 05:45:58.858", "database_name": "SteelNort", "session_id": 64, "command": "COMMIT TRANSACTION", "duration": 2051, "cpu_time": 5, "logical_reads": 0, "writes": 0, "status": "completed"}
+{"event_name": "logout", "timestamp": "2026-09-04 05:46:00.899", "session_id": 86}
+{"event_name": "sql_batch_completed", "timestamp": "2026-09-04 05:46:00.899", "database_name": "SteelNort", "session_id": 65, "command": "AWAITING COMMAND", "duration": 2068, "cpu_time": 0, "logical_reads": 0, "writes": 0, "status": "completed"}
+{"event_name": "sql_batch_completed", "timestamp": "2026-09-04 05:46:00.899", "database_name": "SteelNort", "session_id": 67, "command": "EXECUTE", "duration": 2070, "cpu_time": 0, "logical_reads": 0, "writes": 0, "status": "completed"}
+{"event_name": "sql_batch_completed", "timestamp": "2026-09-04 05:46:00.899", "database_name": "SteelNort", "session_id": 71, "command": "EXECUTE", "duration": 2300, "cpu_time": 117, "logical_reads": 0, "writes": 0, "status": "completed"}
+{"event_name": "sql_batch_completed", "timestamp": "2026-09-04 05:46:02.967", "database_name": "SteelNort", "session_id": 71, "command": "EXECUTE", "duration": 88, "cpu_time": 83, "logical_reads": 0, "writes": 0, "wait_type": "MSQL_XP"}
+{"event_name": "sql_batch_completed", "timestamp": "2026-09-04 05:46:04.994", "database_name": "SteelNort", "session_id": 71, "command": "EXECUTE", "duration": 2111, "cpu_time": 83, "logical_reads": 0, "writes": 0, "status": "completed"}
+{"event_name": "sql_batch_completed", "timestamp": "2026-09-04 05:46:09.071", "database_name": "SteelNort", "session_id": 66, "command": "EXECUTE", "duration": 3, "cpu_time": 0, "logical_reads": 0, "writes": 0}
+{"event_name": "sql_batch_completed", "timestamp": "2026-09-04 05:46:11.093", "database_name": "SteelNort", "session_id": 65, "command": "EXECUTE", "duration": 4, "cpu_time": 1, "logical_reads": 0, "writes": 0}
+{"event_name": "sql_batch_completed", "timestamp": "2026-09-04 05:46:11.093", "database_name": "SteelNort", "session_id": 66, "command": "EXECUTE", "duration": 2026, "cpu_time": 0, "logical_reads": 0, "writes": 0, "status": "completed"}
+{"event_name": "sql_batch_completed", "timestamp": "2026-09-04 05:46:13.114", "database_name": "SteelNort", "session_id": 64, "command": "AWAITING COMMAND", "duration": 9, "cpu_time": 0, "logical_reads": 0, "writes": 0}
+{"event_name": "sql_batch_completed", "timestamp": "2026-09-04 05:46:13.114", "database_name": "SteelNort", "session_id": 65, "command": "EXECUTE", "duration": 2027, "cpu_time": 1, "logical_reads": 0, "writes": 0, "status": "completed"}
+{"event_name": "sql_batch_completed", "timestamp": "2026-09-04 05:46:15.137", "database_name": "SteelNort", "session_id": 65, "command": "EXECUTE", "duration": 6, "cpu_time": 0, "logical_reads": 0, "writes": 0}
+{"event_name": "sql_batch_completed", "timestamp": "2026-09-04 05:46:15.137", "database_name": "SteelNort", "session_id": 64, "command": "AWAITING COMMAND", "duration": 2042, "cpu_time": 0, "logical_reads": 0, "writes": 0, "status": "completed"}
+{"event_name": "sql_batch_completed", "timestamp": "2026-09-04 05:46:17.181", "database_name": "SteelNort", "session_id": 65, "command": "EXECUTE", "duration": 2049, "cpu_time": 0, "logical_reads": 0, "writes": 0, "status": "completed"}
+{"event_name": "login", "timestamp": "2026-09-04 05:46:19.214", "session_id": 86, "login_name": "795ec2146175\\Administrator", "program_name": "Microsoft SQL Server", "database_name": "SteelNort"}
+{"event_name": "sql_batch_completed", "timestamp": "2026-09-04 05:46:19.214", "database_name": "SteelNort", "session_id": 71, "command": "EXECUTE", "duration": 384, "cpu_time": 155, "logical_reads": 0, "writes": 0, "wait_type": "MSQL_XP"}
+{"event_name": "logout", "timestamp": "2026-09-04 05:46:21.242", "session_id": 86}
+{"event_name": "sql_batch_completed", "timestamp": "2026-09-04 05:46:21.242", "database_name": "SteelNort", "session_id": 71, "command": "EXECUTE", "duration": 2418, "cpu_time": 155, "logical_reads": 0, "writes": 0, "status": "completed"}
+{"event_name": "sql_batch_completed", "timestamp": "2026-09-04 05:46:25.289", "database_name": "SteelNort", "session_id": 60, "command": "CONDITIONAL", "duration": 7, "cpu_time": 0, "logical_reads": 0, "writes": 0}
+{"event_name": "sql_batch_completed", "timestamp": "2026-09-04 05:46:25.289", "database_name": "SteelNort", "session_id": 62, "command": "AWAITING COMMAND", "duration": 9, "cpu_time": 0, "logical_reads": 0, "writes": 0}
+{"event_name": "sql_batch_completed", "timestamp": "2026-09-04 05:46:25.289", "database_name": "SteelNort", "session_id": 69, "command": "AWAITING COMMAND", "duration": 10, "cpu_time": 0, "logical_reads": 0, "writes": 0}
+{"event_name": "sql_batch_completed", "timestamp": "2026-09-04 05:46:27.315", "database_name": "SteelNort", "session_id": 60, "command": "CONDITIONAL", "duration": 2032, "cpu_time": 0, "logical_reads": 0, "writes": 0, "status": "completed"}
+{"event_name": "sql_batch_completed", "timestamp": "2026-09-04 05:46:27.315", "database_name": "SteelNort", "session_id": 69, "command": "AWAITING COMMAND", "duration": 2033, "cpu_time": 0, "logical_reads": 0, "writes": 0, "status": "completed"}
+{"event_name": "sql_batch_completed", "timestamp": "2026-09-04 05:46:27.315", "database_name": "SteelNort", "session_id": 62, "command": "AWAITING COMMAND", "duration": 2035, "cpu_time": 0, "logical_reads": 0, "writes": 0, "status": "completed"}
+{"event_name": "sql_batch_completed", "timestamp": "2026-09-04 05:46:31.357", "database_name": "SteelNort", "session_id": 68, "command": "AWAITING COMMAND", "duration": 6, "cpu_time": 0, "logical_reads": 0, "writes": 0}
+{"event_name": "sql_batch_completed", "timestamp": "2026-09-04 05:46:33.381", "database_name": "SteelNort", "session_id": 71, "command": "EXECUTE", "duration": 104, "cpu_time": 101, "logical_reads": 0, "writes": 0, "wait_type": "MSQL_XP"}
+{"event_name": "sql_batch_completed", "timestamp": "2026-09-04 05:46:33.381", "database_name": "master", "session_id": 76, "command": "SELECT", "duration": 8, "cpu_time": 5, "logical_reads": 0, "writes": 0}
+{"event_name": "sql_batch_completed", "timestamp": "2026-09-04 05:46:33.381", "database_name": "SteelNort", "session_id": 68, "command": "AWAITING COMMAND", "duration": 2033, "cpu_time": 0, "logical_reads": 0, "writes": 0, "status": "completed"}
+{"event_name": "sql_batch_completed", "timestamp": "2026-09-04 05:46:35.414", "database_name": "master", "session_id": 76, "command": "SELECT", "duration": 2039, "cpu_time": 5, "logical_reads": 0, "writes": 0, "status": "completed"}
+{"event_name": "sql_batch_completed", "timestamp": "2026-09-04 05:46:35.414", "database_name": "SteelNort", "session_id": 71, "command": "EXECUTE", "duration": 2137, "cpu_time": 101, "logical_reads": 0, "writes": 0, "status": "completed"}
+{"event_name": "login", "timestamp": "2026-09-04 05:46:37.445", "session_id": 86, "login_name": "795ec2146175\\Administrator", "program_name": "Microsoft SQL Server", "database_name": "SteelNort"}
+{"event_name": "sql_batch_completed", "timestamp": "2026-09-04 05:46:37.445", "database_name": "SteelNort", "session_id": 71, "command": "EXECUTE", "duration": 315, "cpu_time": 144, "logical_reads": 0, "writes": 0, "wait_type": "MSQL_XP"}
+{"event_name": "logout", "timestamp": "2026-09-04 05:46:39.482", "session_id": 86}
+{"event_name": "sql_batch_completed", "timestamp": "2026-09-04 05:46:39.482", "database_name": "SteelNort", "session_id": 71, "command": "EXECUTE", "duration": 2348, "cpu_time": 144, "logical_reads": 0, "writes": 0, "status": "completed"}
+{"event_name": "login", "timestamp": "2026-09-04 05:46:41.503", "session_id": 86, "login_name": "795ec2146175\\Administrator", "program_name": "Microsoft SQL Server", "database_name": "SteelNort"}
+{"event_name": "sql_batch_completed", "timestamp": "2026-09-04 05:46:41.503", "database_name": "SteelNort", "session_id": 71, "command": "EXECUTE", "duration": 294, "cpu_time": 145, "logical_reads": 0, "writes": 0, "wait_type": "MSQL_XP"}
+{"event_name": "logout", "timestamp": "2026-09-04 05:46:43.529", "session_id": 86}
+{"event_name": "sql_batch_completed", "timestamp": "2026-09-04 05:46:43.529", "database_name": "SteelNort", "session_id": 65, "command": "AWAITING COMMAND", "duration": 6, "cpu_time": 0, "logical_reads": 0, "writes": 0}
+{"event_name": "sql_batch_completed", "timestamp": "2026-09-04 05:46:43.529", "database_name": "SteelNort", "session_id": 71, "command": "EXECUTE", "duration": 2320, "cpu_time": 145, "logical_reads": 0, "writes": 0, "status": "completed"}
+{"event_name": "login", "timestamp": "2026-09-04 05:46:45.554", "session_id": 86, "login_name": "795ec2146175\\Administrator", "program_name": "Microsoft SQL Server", "database_name": "SteelNort"}
+{"event_name": "sql_batch_completed", "timestamp": "2026-09-04 05:46:45.554", "database_name": "SteelNort", "session_id": 71, "command": "EXECUTE", "duration": 276, "cpu_time": 120, "logical_reads": 0, "writes": 0, "wait_type": "MSQL_XP"}
+{"event_name": "sql_batch_completed", "timestamp": "2026-09-04 05:46:45.554", "database_name": "SteelNort", "session_id": 65, "command": "AWAITING COMMAND", "duration": 2034, "cpu_time": 0, "logical_reads": 0, "writes": 0, "status": "completed"}
+{"event_name": "logout", "timestamp": "2026-09-04 05:46:47.577", "session_id": 86}
+{"event_name": "sql_batch_completed", "timestamp": "2026-09-04 05:46:47.577", "database_name": "SteelNort", "session_id": 68, "command": "EXECUTE", "duration": 5, "cpu_time": 0, "logical_reads": 0, "writes": 0}
+{"event_name": "sql_batch_completed", "timestamp": "2026-09-04 05:46:47.577", "database_name": "SteelNort", "session_id": 71, "command": "EXECUTE", "duration": 2303, "cpu_time": 120, "logical_reads": 0, "writes": 0, "status": "completed"}
+{"event_name": "sql_batch_completed", "timestamp": "2026-09-04 05:46:49.606", "database_name": "SteelNort", "session_id": 62, "command": "AWAITING COMMAND", "duration": 6, "cpu_time": 0, "logical_reads": 0, "writes": 0}
+{"event_name": "sql_batch_completed", "timestamp": "2026-09-04 05:46:49.606", "database_name": "SteelNort", "session_id": 68, "command": "EXECUTE", "duration": 2031, "cpu_time": 0, "logical_reads": 0, "writes": 0, "status": "completed"}
+{"event_name": "sql_batch_completed", "timestamp": "2026-09-04 05:46:51.629", "database_name": "SteelNort", "session_id": 71, "command": "EXECUTE", "duration": 69, "cpu_time": 62, "logical_reads": 0, "writes": 0, "wait_type": "MSQL_XP"}
+{"event_name": "sql_batch_completed", "timestamp": "2026-09-04 05:46:51.629", "database_name": "SteelNort", "session_id": 62, "command": "AWAITING COMMAND", "duration": 2030, "cpu_time": 0, "logical_reads": 0, "writes": 0, "status": "completed"}
+{"event_name": "sql_batch_completed", "timestamp": "2026-09-04 05:46:53.662", "database_name": "SteelNort", "session_id": 71, "command": "EXECUTE", "duration": 2103, "cpu_time": 62, "logical_reads": 0, "writes": 0, "status": "completed"}
+{"event_name": "login", "timestamp": "2026-09-04 05:46:55.695", "session_id": 86, "login_name": "795ec2146175\\Administrator", "program_name": "Microsoft SQL Server", "database_name": "SteelNort"}
+{"event_name": "sql_batch_completed", "timestamp": "2026-09-04 05:46:55.695", "database_name": "SteelNort", "session_id": 71, "command": "EXECUTE", "duration": 219, "cpu_time": 113, "logical_reads": 0, "writes": 0, "wait_type": "MSQL_XP"}
+{"event_name": "logout", "timestamp": "2026-09-04 05:46:57.730", "session_id": 86}
+{"event_name": "sql_batch_completed", "timestamp": "2026-09-04 05:46:57.730", "database_name": "SteelNort", "session_id": 70, "command": "AWAITING COMMAND", "duration": 6, "cpu_time": 0, "logical_reads": 0, "writes": 0}
+{"event_name": "sql_batch_completed", "timestamp": "2026-09-04 05:46:57.730", "database_name": "SteelNort", "session_id": 71, "command": "EXECUTE", "duration": 2251, "cpu_time": 113, "logical_reads": 0, "writes": 0, "status": "completed"}
+{"event_name": "sql_batch_completed", "timestamp": "2026-09-04 05:46:59.760", "database_name": "SteelNort", "session_id": 68, "command": "AWAITING COMMAND", "duration": 3, "cpu_time": 0, "logical_reads": 0, "writes": 0}
+{"event_name": "sql_batch_completed", "timestamp": "2026-09-04 05:46:59.760", "database_name": "SteelNort", "session_id": 70, "command": "AWAITING COMMAND", "duration": 2041, "cpu_time": 0, "logical_reads": 0, "writes": 0, "status": "completed"}
+{"event_name": "sql_batch_completed", "timestamp": "2026-09-04 05:47:01.794", "database_name": "SteelNort", "session_id": 68, "command": "AWAITING COMMAND", "duration": 2036, "cpu_time": 0, "logical_reads": 0, "writes": 0, "status": "completed"}
+{"event_name": "login", "timestamp": "2026-09-04 05:47:05.847", "session_id": 86, "login_name": "795ec2146175\\Administrator", "program_name": "Microsoft SQL Server", "database_name": "SteelNort"}
+{"event_name": "wait_info", "timestamp": "2026-09-04 05:47:05.847", "session_id": 57, "wait_type": "BROKER_TO_FLUSH", "database_name": "master"}
+{"event_name": "sql_batch_completed", "timestamp": "2026-09-04 05:47:05.847", "database_name": "SteelNort", "session_id": 71, "command": "EXECUTE", "duration": 89, "cpu_time": 80, "logical_reads": 0, "writes": 0, "wait_type": "MSQL_XP"}
+{"event_name": "logout", "timestamp": "2026-09-04 05:47:07.874", "session_id": 86}
+{"event_name": "sql_batch_completed", "timestamp": "2026-09-04 05:47:07.874", "database_name": "SteelNort", "session_id": 71, "command": "EXECUTE", "duration": 2114, "cpu_time": 80, "logical_reads": 0, "writes": 0, "status": "completed"}
+{"event_name": "sql_batch_completed", "timestamp": "2026-09-04 05:47:09.897", "database_name": "SteelNort", "session_id": 63, "command": "SELECT", "duration": 7, "cpu_time": 0, "logical_reads": 0, "writes": 0}
+{"event_name": "sql_batch_completed", "timestamp": "2026-09-04 05:47:09.897", "database_name": "SteelNort", "session_id": 64, "command": "SELECT", "duration": 8, "cpu_time": 0, "logical_reads": 0, "writes": 0}
+{"event_name": "sql_batch_completed", "timestamp": "2026-09-04 05:47:11.927", "database_name": "SteelNort", "session_id": 64, "command": "SELECT", "duration": 2035, "cpu_time": 0, "logical_reads": 0, "writes": 0, "status": "completed"}
+{"event_name": "sql_batch_completed", "timestamp": "2026-09-04 05:47:11.927", "database_name": "SteelNort", "session_id": 63, "command": "SELECT", "duration": 2036, "cpu_time": 0, "logical_reads": 0, "writes": 0, "status": "completed"}
+{"event_name": "logout", "timestamp": "2026-09-04 05:47:15.975", "session_id": 74}
+{"event_name": "logout", "timestamp": "2026-09-04 05:47:15.975", "session_id": 75}
+{"event_name": "logout", "timestamp": "2026-09-04 05:47:15.975", "session_id": 77}
+{"event_name": "logout", "timestamp": "2026-09-04 05:47:15.975", "session_id": 78}
+{"event_name": "logout", "timestamp": "2026-09-04 05:47:15.975", "session_id": 79}
+{"event_name": "logout", "timestamp": "2026-09-04 05:47:15.975", "session_id": 80}
+{"event_name": "logout", "timestamp": "2026-09-04 05:47:15.975", "session_id": 81}
+{"event_name": "logout", "timestamp": "2026-09-04 05:47:15.975", "session_id": 82}
+{"event_name": "logout", "timestamp": "2026-09-04 05:47:15.975", "session_id": 51}
+{"event_name": "logout", "timestamp": "2026-09-04 05:47:15.975", "session_id": 84}
+{"event_name": "logout", "timestamp": "2026-09-04 05:47:15.975", "session_id": 85}
+{"event_name": "wait_info", "timestamp": "2026-09-04 05:47:15.975", "session_id": 52, "wait_type": "SLEEP_TASK", "database_name": "master"}
+{"event_name": "sql_batch_completed", "timestamp": "2026-09-04 05:47:15.975", "database_name": "SteelNort", "session_id": 71, "command": "EXECUTE", "duration": 76, "cpu_time": 65, "logical_reads": 0, "writes": 0, "wait_type": "MSQL_XP"}
+{"event_name": "sql_batch_completed", "timestamp": "2026-09-04 05:47:15.975", "database_name": "master", "session_id": 74, "command": "TASK MANAGER", "duration": 420300, "cpu_time": 0, "logical_reads": 0, "writes": 0, "status": "completed"}
+{"event_name": "sql_batch_completed", "timestamp": "2026-09-04 05:47:15.975", "database_name": "master", "session_id": 75, "command": "TASK MANAGER", "duration": 420302, "cpu_time": 0, "logical_reads": 0, "writes": 0, "status": "completed"}
+{"event_name": "sql_batch_completed", "timestamp": "2026-09-04 05:47:15.975", "database_name": "master", "session_id": 77, "command": "TASK MANAGER", "duration": 420305, "cpu_time": 0, "logical_reads": 0, "writes": 0, "status": "completed"}
+{"event_name": "sql_batch_completed", "timestamp": "2026-09-04 05:47:15.975", "database_name": "master", "session_id": 78, "command": "TASK MANAGER", "duration": 420307, "cpu_time": 0, "logical_reads": 0, "writes": 0, "status": "completed"}
+{"event_name": "sql_batch_completed", "timestamp": "2026-09-04 05:47:15.975", "database_name": "master", "session_id": 79, "command": "TASK MANAGER", "duration": 420308, "cpu_time": 0, "logical_reads": 0, "writes": 0, "status": "completed"}
+{"event_name": "sql_batch_completed", "timestamp": "2026-09-04 05:47:15.975", "database_name": "master", "session_id": 80, "command": "TASK MANAGER", "duration": 420309, "cpu_time": 0, "logical_reads": 0, "writes": 0, "status": "completed"}
+{"event_name": "sql_batch_completed", "timestamp": "2026-09-04 05:47:15.975", "database_name": "master", "session_id": 81, "command": "TASK MANAGER", "duration": 420310, "cpu_time": 0, "logical_reads": 0, "writes": 0, "status": "completed"}
+{"event_name": "sql_batch_completed", "timestamp": "2026-09-04 05:47:15.975", "database_name": "master", "session_id": 82, "command": "TASK MANAGER", "duration": 420308, "cpu_time": 0, "logical_reads": 0, "writes": 0, "status": "completed"}
+{"event_name": "sql_batch_completed", "timestamp": "2026-09-04 05:47:15.975", "database_name": "master", "session_id": 51, "command": "TASK MANAGER", "duration": 475336, "cpu_time": 0, "logical_reads": 0, "writes": 0, "status": "completed"}
+{"event_name": "sql_batch_completed", "timestamp": "2026-09-04 05:47:15.975", "database_name": "master", "session_id": 84, "command": "TASK MANAGER", "duration": 420310, "cpu_time": 0, "logical_reads": 0, "writes": 0, "status": "completed"}
+{"event_name": "sql_batch_completed", "timestamp": "2026-09-04 05:47:15.975", "database_name": "master", "session_id": 85, "command": "TASK MANAGER", "duration": 420312, "cpu_time": 0, "logical_reads": 0, "writes": 0, "status": "completed"}
+{"event_name": "logout", "timestamp": "2026-09-04 05:47:18.052", "session_id": 52}
+{"event_name": "sql_batch_completed", "timestamp": "2026-09-04 05:47:18.052", "database_name": "master", "session_id": 52, "command": "TEMPORAL_HK_FLUSH", "duration": 477365, "cpu_time": 0, "logical_reads": 8, "writes": 0, "status": "completed"}
+{"event_name": "sql_batch_completed", "timestamp": "2026-09-04 05:47:18.052", "database_name": "SteelNort", "session_id": 71, "command": "EXECUTE", "duration": 2127, "cpu_time": 65, "logical_reads": 0, "writes": 0, "status": "completed"}
+{"event_name": "lock_acquired", "timestamp": "2026-09-04 05:47:22.127", "session_id": 67, "resource_type": "PAGE", "mode": "IS"}
+{"event_name": "lock_released", "timestamp": "2026-09-04 05:47:24.149", "session_id": 67, "resource_type": "PAGE", "mode": "IS"}
+{"event_name": "sql_batch_completed", "timestamp": "2026-09-04 05:47:26.173", "database_name": "SteelNort", "session_id": 70, "command": "AWAITING COMMAND", "duration": 4, "cpu_time": 0, "logical_reads": 0, "writes": 0}
+{"event_name": "sql_batch_completed", "timestamp": "2026-09-04 05:47:28.204", "database_name": "SteelNort", "session_id": 70, "command": "AWAITING COMMAND", "duration": 2030, "cpu_time": 0, "logical_reads": 0, "writes": 0, "status": "completed"}
+{"event_name": "sql_batch_completed", "timestamp": "2026-09-04 05:47:32.258", "database_name": "SteelNort", "session_id": 70, "command": "AWAITING COMMAND", "duration": 7, "cpu_time": 1, "logical_reads": 0, "writes": 0}
+{"event_name": "login", "timestamp": "2026-09-04 05:47:34.282", "session_id": 51, "login_name": "795ec2146175\\Administrator", "program_name": "Microsoft SQL Server", "database_name": "SteelNort"}
+{"event_name": "sql_batch_completed", "timestamp": "2026-09-04 05:47:34.282", "database_name": "SteelNort", "session_id": 71, "command": "EXECUTE", "duration": 127, "cpu_time": 96, "logical_reads": 0, "writes": 0, "wait_type": "MSQL_XP"}
+{"event_name": "sql_batch_completed", "timestamp": "2026-09-04 05:47:34.282", "database_name": "SteelNort", "session_id": 70, "command": "AWAITING COMMAND", "duration": 2039, "cpu_time": 1, "logical_reads": 0, "writes": 0, "status": "completed"}
+{"event_name": "logout", "timestamp": "2026-09-04 05:47:36.312", "session_id": 51}
+{"event_name": "sql_batch_completed", "timestamp": "2026-09-04 05:47:36.312", "database_name": "SteelNort", "session_id": 68, "command": "EXECUTE", "duration": 3, "cpu_time": 0, "logical_reads": 0, "writes": 0}
+{"event_name": "sql_batch_completed", "timestamp": "2026-09-04 05:47:36.312", "database_name": "SteelNort", "session_id": 71, "command": "EXECUTE", "duration": 2163, "cpu_time": 96, "logical_reads": 0, "writes": 0, "status": "completed"}
+{"event_name": "sql_batch_completed", "timestamp": "2026-09-04 05:47:38.345", "database_name": "SteelNort", "session_id": 68, "command": "EXECUTE", "duration": 2030, "cpu_time": 0, "logical_reads": 0, "writes": 0, "status": "completed"}
+{"event_name": "sql_batch_completed", "timestamp": "2026-09-04 05:47:40.371", "database_name": "SteelNort", "session_id": 65, "command": "AWAITING COMMAND", "duration": 4, "cpu_time": 0, "logical_reads": 0, "writes": 0}
+{"event_name": "sql_batch_completed", "timestamp": "2026-09-04 05:47:42.400", "database_name": "SteelNort", "session_id": 72, "command": "SELECT", "duration": 13, "cpu_time": 8, "logical_reads": 0, "writes": 0}
+{"event_name": "sql_batch_completed", "timestamp": "2026-09-04 05:47:42.400", "database_name": "SteelNort", "session_id": 65, "command": "AWAITING COMMAND", "duration": 2032, "cpu_time": 0, "logical_reads": 0, "writes": 0, "status": "completed"}
+{"event_name": "sql_batch_completed", "timestamp": "2026-09-04 05:47:44.423", "database_name": "SteelNort", "session_id": 72, "command": "SELECT", "duration": 2067, "cpu_time": 8, "logical_reads": 0, "writes": 0, "status": "completed"}
+{"event_name": "sql_batch_completed", "timestamp": "2026-09-04 05:47:46.499", "database_name": "SteelNort", "session_id": 65, "command": "AWAITING COMMAND", "duration": 2, "cpu_time": 0, "logical_reads": 0, "writes": 0}
+{"event_name": "sql_batch_completed", "timestamp": "2026-09-04 05:47:48.522", "database_name": "SteelNort", "session_id": 71, "command": "EXECUTE", "duration": 84, "cpu_time": 78, "logical_reads": 0, "writes": 0, "wait_type": "MSQL_XP"}
+{"event_name": "sql_batch_completed", "timestamp": "2026-09-04 05:47:48.522", "database_name": "SteelNort", "session_id": 65, "command": "AWAITING COMMAND", "duration": 2029, "cpu_time": 0, "logical_reads": 0, "writes": 0, "status": "completed"}
+{"event_name": "sql_batch_completed", "timestamp": "2026-09-04 05:47:50.554", "database_name": "SteelNort", "session_id": 66, "command": "EXECUTE", "duration": 6, "cpu_time": 0, "logical_reads": 0, "writes": 0}
+{"event_name": "sql_batch_completed", "timestamp": "2026-09-04 05:47:50.554", "database_name": "SteelNort", "session_id": 71, "command": "EXECUTE", "duration": 2114, "cpu_time": 78, "logical_reads": 0, "writes": 0, "status": "completed"}
+{"event_name": "sql_batch_completed", "timestamp": "2026-09-04 05:47:52.587", "database_name": "SteelNort", "session_id": 71, "command": "EXECUTE", "duration": 11, "cpu_time": 5, "logical_reads": 0, "writes": 0, "wait_type": "MSQL_XP"}
+{"event_name": "sql_batch_completed", "timestamp": "2026-09-04 05:47:52.587", "database_name": "SteelNort", "session_id": 66, "command": "EXECUTE", "duration": 2043, "cpu_time": 0, "logical_reads": 0, "writes": 0, "status": "completed"}
+{"event_name": "sql_batch_completed", "timestamp": "2026-09-04 05:47:54.615", "database_name": "SteelNort", "session_id": 71, "command": "EXECUTE", "duration": 2039, "cpu_time": 5, "logical_reads": 0, "writes": 0, "status": "completed"}
+{"event_name": "login", "timestamp": "2026-09-04 05:47:56.644", "session_id": 51, "login_name": "795ec2146175\\Administrator", "program_name": "Microsoft SQL Server", "database_name": "SteelNort"}
+{"event_name": "sql_batch_completed", "timestamp": "2026-09-04 05:47:56.644", "database_name": "SteelNort", "session_id": 71, "command": "EXECUTE", "duration": 150, "cpu_time": 100, "logical_reads": 0, "writes": 0, "wait_type": "MSQL_XP"}
+{"event_name": "logout", "timestamp": "2026-09-04 05:47:58.681", "session_id": 51}
+{"event_name": "sql_batch_completed", "timestamp": "2026-09-04 05:47:58.681", "database_name": "SteelNort", "session_id": 71, "command": "EXECUTE", "duration": 2184, "cpu_time": 100, "logical_reads": 0, "writes": 0, "status": "completed"}
+{"event_name": "sql_batch_completed", "timestamp": "2026-09-04 05:48:02.737", "database_name": "SteelNort", "session_id": 68, "command": "EXECUTE", "duration": 5, "cpu_time": 0, "logical_reads": 0, "writes": 0}
+{"event_name": "sql_batch_completed", "timestamp": "2026-09-04 05:48:04.763", "database_name": "SteelNort", "session_id": 65, "command": "AWAITING COMMAND", "duration": 4, "cpu_time": 0, "logical_reads": 0, "writes": 0}
+{"event_name": "sql_batch_completed", "timestamp": "2026-09-04 05:48:04.763", "database_name": "SteelNort", "session_id": 69, "command": "AWAITING COMMAND", "duration": 7, "cpu_time": 0, "logical_reads": 0, "writes": 0}
+{"event_name": "sql_batch_completed", "timestamp": "2026-09-04 05:48:04.763", "database_name": "SteelNort", "session_id": 68, "command": "EXECUTE", "duration": 2038, "cpu_time": 0, "logical_reads": 0, "writes": 0, "status": "completed"}
+{"event_name": "sql_batch_completed", "timestamp": "2026-09-04 05:48:06.801", "database_name": "SteelNort", "session_id": 65, "command": "AWAITING COMMAND", "duration": 2037, "cpu_time": 0, "logical_reads": 0, "writes": 0, "status": "completed"}
+{"event_name": "sql_batch_completed", "timestamp": "2026-09-04 05:48:06.801", "database_name": "SteelNort", "session_id": 69, "command": "AWAITING COMMAND", "duration": 2038, "cpu_time": 0, "logical_reads": 0, "writes": 0, "status": "completed"}
+{"event_name": "sql_batch_completed", "timestamp": "2026-09-04 05:48:10.842", "database_name": "SteelNort", "session_id": 71, "command": "EXECUTE", "duration": 34, "cpu_time": 30, "logical_reads": 0, "writes": 0, "wait_type": "MSQL_XP"}
+{"event_name": "sql_batch_completed", "timestamp": "2026-09-04 05:48:12.884", "database_name": "SteelNort", "session_id": 72, "command": "SELECT", "duration": 20, "cpu_time": 12, "logical_reads": 0, "writes": 0}
+{"event_name": "sql_batch_completed", "timestamp": "2026-09-04 05:48:12.884", "database_name": "SteelNort", "session_id": 71, "command": "EXECUTE", "duration": 2064, "cpu_time": 30, "logical_reads": 0, "writes": 0, "status": "completed"}
+{"event_name": "login", "timestamp": "2026-09-04 05:48:14.910", "session_id": 51, "login_name": "795ec2146175\\Administrator", "program_name": "Microsoft SQL Server", "database_name": "SteelNort"}
+{"event_name": "sql_batch_completed", "timestamp": "2026-09-04 05:48:14.910", "database_name": "SteelNort", "session_id": 60, "command": "AWAITING COMMAND", "duration": 5, "cpu_time": 0, "logical_reads": 0, "writes": 0}
+{"event_name": "sql_batch_completed", "timestamp": "2026-09-04 05:48:14.910", "database_name": "SteelNort", "session_id": 71, "command": "EXECUTE", "duration": 166, "cpu_time": 91, "logical_reads": 0, "writes": 0, "wait_type": "MSQL_XP"}
+{"event_name": "sql_batch_completed", "timestamp": "2026-09-04 05:48:14.910", "database_name": "SteelNort", "session_id": 72, "command": "SELECT", "duration": 2048, "cpu_time": 12, "logical_reads": 0, "writes": 0, "status": "completed"}
+{"event_name": "logout", "timestamp": "2026-09-04 05:48:16.936", "session_id": 51}
+{"event_name": "sql_batch_completed", "timestamp": "2026-09-04 05:48:16.936", "database_name": "SteelNort", "session_id": 60, "command": "AWAITING COMMAND", "duration": 2034, "cpu_time": 0, "logical_reads": 0, "writes": 0, "status": "completed"}
+{"event_name": "sql_batch_completed", "timestamp": "2026-09-04 05:48:16.936", "database_name": "SteelNort", "session_id": 71, "command": "EXECUTE", "duration": 2195, "cpu_time": 91, "logical_reads": 0, "writes": 0, "status": "completed"}
+{"event_name": "sql_batch_completed", "timestamp": "2026-09-04 05:48:25.029", "database_name": "SteelNort", "session_id": 68, "command": "AWAITING COMMAND", "duration": 6, "cpu_time": 0, "logical_reads": 0, "writes": 0}
+{"event_name": "sql_batch_completed", "timestamp": "2026-09-04 05:48:27.047", "database_name": "SteelNort", "session_id": 68, "command": "AWAITING COMMAND", "duration": 2026, "cpu_time": 0, "logical_reads": 0, "writes": 0, "status": "completed"}
+{"event_name": "sql_batch_completed", "timestamp": "2026-09-04 05:48:33.121", "database_name": "SteelNort", "session_id": 60, "command": "AWAITING COMMAND", "duration": 3, "cpu_time": 0, "logical_reads": 0, "writes": 0}
+{"event_name": "sql_batch_completed", "timestamp": "2026-09-04 05:48:33.121", "database_name": "SteelNort", "session_id": 65, "command": "EXECUTE", "duration": 4, "cpu_time": 0, "logical_reads": 0, "writes": 0}
+{"event_name": "sql_batch_completed", "timestamp": "2026-09-04 05:48:33.121", "database_name": "SteelNort", "session_id": 71, "command": "EXECUTE", "duration": 52, "cpu_time": 44, "logical_reads": 0, "writes": 0, "wait_type": "MSQL_XP"}
+{"event_name": "sql_batch_completed", "timestamp": "2026-09-04 05:48:35.143", "database_name": "SteelNort", "session_id": 64, "command": "AWAITING COMMAND", "duration": 3, "cpu_time": 0, "logical_reads": 0, "writes": 0}
+{"event_name": "sql_batch_completed", "timestamp": "2026-09-04 05:48:35.143", "database_name": "SteelNort", "session_id": 65, "command": "EXECUTE", "duration": 2031, "cpu_time": 0, "logical_reads": 0, "writes": 0, "status": "completed"}
+{"event_name": "sql_batch_completed", "timestamp": "2026-09-04 05:48:35.143", "database_name": "SteelNort", "session_id": 60, "command": "AWAITING COMMAND", "duration": 2032, "cpu_time": 0, "logical_reads": 0, "writes": 0, "status": "completed"}
+{"event_name": "sql_batch_completed", "timestamp": "2026-09-04 05:48:35.143", "database_name": "SteelNort", "session_id": 71, "command": "EXECUTE", "duration": 2080, "cpu_time": 44, "logical_reads": 0, "writes": 0, "status": "completed"}
+{"event_name": "sql_batch_completed", "timestamp": "2026-09-04 05:48:37.170", "database_name": "SteelNort", "session_id": 64, "command": "AWAITING COMMAND", "duration": 2028, "cpu_time": 0, "logical_reads": 0, "writes": 0, "status": "completed"}
+{"event_name": "lock_acquired", "timestamp": "2026-09-04 05:48:41.226", "session_id": 70, "resource_type": "OBJECT", "mode": "IS"}
+{"event_name": "login", "timestamp": "2026-09-04 05:48:43.252", "session_id": 51, "login_name": "795ec2146175\\Administrator", "program_name": "Microsoft SQL Server", "database_name": "SteelNort"}
+{"event_name": "sql_batch_completed", "timestamp": "2026-09-04 05:48:43.252", "database_name": "SteelNort", "session_id": 71, "command": "EXECUTE", "duration": 234, "cpu_time": 118, "logical_reads": 0, "writes": 0, "wait_type": "MSQL_XP"}
+{"event_name": "lock_acquired", "timestamp": "2026-09-04 05:48:43.252", "session_id": 72, "resource_type": "OBJECT", "mode": "Sch-S"}
+{"event_name": "lock_released", "timestamp": "2026-09-04 05:48:43.252", "session_id": 70, "resource_type": "OBJECT", "mode": "IS"}
+{"event_name": "logout", "timestamp": "2026-09-04 05:48:45.291", "session_id": 51}
+{"event_name": "sql_batch_completed", "timestamp": "2026-09-04 05:48:45.291", "database_name": "SteelNort", "session_id": 71, "command": "EXECUTE", "duration": 2273, "cpu_time": 118, "logical_reads": 0, "writes": 0, "status": "completed"}
+{"event_name": "lock_released", "timestamp": "2026-09-04 05:48:45.291", "session_id": 72, "resource_type": "OBJECT", "mode": "Sch-S"}
+{"event_name": "wait_info", "timestamp": "2026-09-04 05:48:49.340", "session_id": 57, "wait_type": "SLEEP_TASK", "database_name": "master"}
+{"event_name": "sql_batch_completed", "timestamp": "2026-09-04 05:48:49.340", "database_name": "SteelNort", "session_id": 71, "command": "EXECUTE", "duration": 70, "cpu_time": 61, "logical_reads": 0, "writes": 0, "wait_type": "MSQL_XP"}
+{"event_name": "sql_batch_completed", "timestamp": "2026-09-04 05:48:51.365", "database_name": "SteelNort", "session_id": 60, "command": "EXECUTE", "duration": 3, "cpu_time": 0, "logical_reads": 0, "writes": 0}
+{"event_name": "sql_batch_completed", "timestamp": "2026-09-04 05:48:51.365", "database_name": "SteelNort", "session_id": 71, "command": "EXECUTE", "duration": 2097, "cpu_time": 61, "logical_reads": 0, "writes": 0, "status": "completed"}
+{"event_name": "sql_batch_completed", "timestamp": "2026-09-04 05:48:53.395", "database_name": "SteelNort", "session_id": 60, "command": "EXECUTE", "duration": 2030, "cpu_time": 0, "logical_reads": 0, "writes": 0, "status": "completed"}
+{"event_name": "lock_acquired", "timestamp": "2026-09-04 05:48:57.453", "session_id": 70, "resource_type": "KEY", "mode": "X"}
+{"event_name": "lock_acquired", "timestamp": "2026-09-04 05:48:57.453", "session_id": 70, "resource_type": "RID", "mode": "X"}
+{"event_name": "lock_acquired", "timestamp": "2026-09-04 05:48:57.453", "session_id": 70, "resource_type": "PAGE", "mode": "IX"}
+{"event_name": "lock_acquired", "timestamp": "2026-09-04 05:48:57.453", "session_id": 70, "resource_type": "OBJECT", "mode": "IX"}
+{"event_name": "lock_released", "timestamp": "2026-09-04 05:48:59.480", "session_id": 70, "resource_type": "KEY", "mode": "X"}
+{"event_name": "lock_released", "timestamp": "2026-09-04 05:48:59.480", "session_id": 70, "resource_type": "RID", "mode": "X"}
+{"event_name": "lock_released", "timestamp": "2026-09-04 05:48:59.480", "session_id": 70, "resource_type": "PAGE", "mode": "IX"}
+{"event_name": "lock_released", "timestamp": "2026-09-04 05:48:59.480", "session_id": 70, "resource_type": "OBJECT", "mode": "IX"}
+{"event_name": "sql_batch_completed", "timestamp": "2026-09-04 05:49:01.515", "database_name": "SteelNort", "session_id": 71, "command": "EXECUTE", "duration": 25, "cpu_time": 21, "logical_reads": 0, "writes": 0, "wait_type": "MSQL_XP"}
+{"event_name": "sql_batch_completed", "timestamp": "2026-09-04 05:49:03.539", "database_name": "SteelNort", "session_id": 64, "command": "AWAITING COMMAND", "duration": 6, "cpu_time": 0, "logical_reads": 0, "writes": 0}
+{"event_name": "sql_batch_completed", "timestamp": "2026-09-04 05:49:03.539", "database_name": "SteelNort", "session_id": 71, "command": "EXECUTE", "duration": 2047, "cpu_time": 21, "logical_reads": 0, "writes": 0, "status": "completed"}
+{"event_name": "sql_batch_completed", "timestamp": "2026-09-04 05:49:05.561", "database_name": "SteelNort", "session_id": 69, "command": "CONDITIONAL", "duration": 1, "cpu_time": 0, "logical_reads": 0, "writes": 0}
+{"event_name": "sql_batch_completed", "timestamp": "2026-09-04 05:49:05.561", "database_name": "SteelNort", "session_id": 64, "command": "AWAITING COMMAND", "duration": 2029, "cpu_time": 0, "logical_reads": 0, "writes": 0, "status": "completed"}
+{"event_name": "login", "timestamp": "2026-09-04 05:49:07.586", "session_id": 51, "login_name": "795ec2146175\\Administrator", "program_name": "Microsoft SQL Server", "database_name": "SteelNort"}
+{"event_name": "sql_batch_completed", "timestamp": "2026-09-04 05:49:07.586", "database_name": "SteelNort", "session_id": 68, "command": "AWAITING COMMAND", "duration": 6, "cpu_time": 0, "logical_reads": 0, "writes": 0}
+{"event_name": "sql_batch_completed", "timestamp": "2026-09-04 05:49:07.586", "database_name": "SteelNort", "session_id": 71, "command": "EXECUTE", "duration": 124, "cpu_time": 88, "logical_reads": 0, "writes": 0, "wait_type": "MSQL_XP"}
+{"event_name": "sql_batch_completed", "timestamp": "2026-09-04 05:49:07.586", "database_name": "SteelNort", "session_id": 69, "command": "CONDITIONAL", "duration": 2031, "cpu_time": 0, "logical_reads": 0, "writes": 0, "status": "completed"}
+{"event_name": "logout", "timestamp": "2026-09-04 05:49:09.613", "session_id": 51}
+{"event_name": "sql_batch_completed", "timestamp": "2026-09-04 05:49:09.613", "database_name": "SteelNort", "session_id": 68, "command": "AWAITING COMMAND", "duration": 2035, "cpu_time": 0, "logical_reads": 0, "writes": 0, "status": "completed"}
+{"event_name": "sql_batch_completed", "timestamp": "2026-09-04 05:49:09.613", "database_name": "SteelNort", "session_id": 71, "command": "EXECUTE", "duration": 2153, "cpu_time": 88, "logical_reads": 0, "writes": 0, "status": "completed"}
+{"event_name": "sql_batch_completed", "timestamp": "2026-09-04 05:49:13.661", "database_name": "SteelNort", "session_id": 72, "command": "SELECT", "duration": 5, "cpu_time": 1, "logical_reads": 0, "writes": 0}
+{"event_name": "lock_acquired", "timestamp": "2026-09-04 05:49:13.661", "session_id": 72, "resource_type": "OBJECT", "mode": "Sch-S"}
+{"event_name": "sql_batch_completed", "timestamp": "2026-09-04 05:49:15.690", "database_name": "SteelNort", "session_id": 72, "command": "SELECT", "duration": 2035, "cpu_time": 1, "logical_reads": 0, "writes": 0, "status": "completed"}
+{"event_name": "lock_released", "timestamp": "2026-09-04 05:49:15.690", "session_id": 72, "resource_type": "OBJECT", "mode": "Sch-S"}
+{"event_name": "login", "timestamp": "2026-09-04 05:49:17.720", "session_id": 74, "login_name": "sa", "program_name": "unknown", "database_name": "SteelNort"}
+{"event_name": "login", "timestamp": "2026-09-04 05:49:17.720", "session_id": 75, "login_name": "sa", "program_name": "unknown", "database_name": "SteelNort"}
+{"event_name": "login", "timestamp": "2026-09-04 05:49:17.720", "session_id": 77, "login_name": "sa", "program_name": "unknown", "database_name": "SteelNort"}
+{"event_name": "login", "timestamp": "2026-09-04 05:49:17.720", "session_id": 78, "login_name": "sa", "program_name": "unknown", "database_name": "SteelNort"}
+{"event_name": "login", "timestamp": "2026-09-04 05:49:17.720", "session_id": 79, "login_name": "sa", "program_name": "unknown", "database_name": "SteelNort"}
+{"event_name": "login", "timestamp": "2026-09-04 05:49:17.720", "session_id": 80, "login_name": "sa", "program_name": "unknown", "database_name": "SteelNort"}
+{"event_name": "login", "timestamp": "2026-09-04 05:49:17.720", "session_id": 51, "login_name": "sa", "program_name": "unknown", "database_name": "SteelNort"}
+{"event_name": "login", "timestamp": "2026-09-04 05:49:17.720", "session_id": 52, "login_name": "sa", "program_name": "unknown", "database_name": "SteelNort"}
+{"event_name": "sql_batch_completed", "timestamp": "2026-09-04 05:49:17.720", "database_name": "master", "session_id": 51, "command": "TASK MANAGER", "duration": 1876, "cpu_time": 0, "logical_reads": 0, "writes": 0}
+{"event_name": "sql_batch_completed", "timestamp": "2026-09-04 05:49:17.720", "database_name": "master", "session_id": 52, "command": "TASK MANAGER", "duration": 1877, "cpu_time": 0, "logical_reads": 0, "writes": 0}
+{"event_name": "sql_batch_completed", "timestamp": "2026-09-04 05:49:17.720", "database_name": "master", "session_id": 74, "command": "TASK MANAGER", "duration": 1878, "cpu_time": 0, "logical_reads": 0, "writes": 0}
+{"event_name": "sql_batch_completed", "timestamp": "2026-09-04 05:49:17.720", "database_name": "master", "session_id": 75, "command": "TASK MANAGER", "duration": 1879, "cpu_time": 0, "logical_reads": 0, "writes": 0}
+{"event_name": "sql_batch_completed", "timestamp": "2026-09-04 05:49:17.720", "database_name": "master", "session_id": 77, "command": "TASK MANAGER", "duration": 1880, "cpu_time": 0, "logical_reads": 0, "writes": 0}
+{"event_name": "sql_batch_completed", "timestamp": "2026-09-04 05:49:17.720", "database_name": "master", "session_id": 78, "command": "TASK MANAGER", "duration": 1882, "cpu_time": 0, "logical_reads": 0, "writes": 0}
+{"event_name": "sql_batch_completed", "timestamp": "2026-09-04 05:49:17.720", "database_name": "master", "session_id": 79, "command": "TASK MANAGER", "duration": 1883, "cpu_time": 0, "logical_reads": 0, "writes": 0}
+{"event_name": "sql_batch_completed", "timestamp": "2026-09-04 05:49:17.720", "database_name": "master", "session_id": 80, "command": "TASK MANAGER", "duration": 1884, "cpu_time": 0, "logical_reads": 0, "writes": 0}
+{"event_name": "lock_acquired", "timestamp": "2026-09-04 05:49:17.720", "session_id": 70, "resource_type": "KEY", "mode": "S"}
+{"event_name": "lock_released", "timestamp": "2026-09-04 05:49:19.758", "session_id": 70, "resource_type": "KEY", "mode": "S"}
+{"event_name": "login", "timestamp": "2026-09-04 05:49:33.938", "session_id": 82, "login_name": "sa", "program_name": "unknown", "database_name": "SteelNort"}
+{"event_name": "sql_batch_completed", "timestamp": "2026-09-04 05:49:33.938", "database_name": "master", "session_id": 82, "command": "BRKR TASK", "duration": 310, "cpu_time": 0, "logical_reads": 0, "writes": 0, "wait_type": "BROKER_TASK_STOP"}
+{"event_name": "sql_batch_completed", "timestamp": "2026-09-04 05:49:35.969", "database_name": "SteelNort", "session_id": 70, "command": "EXECUTE", "duration": 6, "cpu_time": 0, "logical_reads": 0, "writes": 0}
+{"event_name": "sql_batch_completed", "timestamp": "2026-09-04 05:49:37.986", "database_name": "SteelNort", "session_id": 70, "command": "EXECUTE", "duration": 2029, "cpu_time": 0, "logical_reads": 0, "writes": 0, "status": "completed"}
+{"event_name": "login", "timestamp": "2026-09-04 05:49:40.014", "session_id": 81, "login_name": "795ec2146175\\Administrator", "program_name": "Microsoft SQL Server", "database_name": "SteelNort"}
+{"event_name": "sql_batch_completed", "timestamp": "2026-09-04 05:49:40.014", "database_name": "SteelNort", "session_id": 71, "command": "EXECUTE", "duration": 200, "cpu_time": 110, "logical_reads": 0, "writes": 0, "wait_type": "MSQL_XP"}
+{"event_name": "logout", "timestamp": "2026-09-04 05:49:42.036", "session_id": 81}
+{"event_name": "sql_batch_completed", "timestamp": "2026-09-04 05:49:42.036", "database_name": "SteelNort", "session_id": 71, "command": "EXECUTE", "duration": 2228, "cpu_time": 110, "logical_reads": 0, "writes": 0, "status": "completed"}
+{"event_name": "logout", "timestamp": "2026-09-04 05:49:44.066", "session_id": 82}
+{"event_name": "sql_batch_completed", "timestamp": "2026-09-04 05:49:44.066", "database_name": "master", "session_id": 82, "command": "BRKR TASK", "duration": 10438, "cpu_time": 0, "logical_reads": 0, "writes": 0, "status": "completed"}
+{"event_name": "sql_batch_completed", "timestamp": "2026-09-04 05:49:46.092", "database_name": "SteelNort", "session_id": 71, "command": "EXECUTE", "duration": 13, "cpu_time": 6, "logical_reads": 0, "writes": 0, "wait_type": "MSQL_XP"}
+{"event_name": "sql_batch_completed", "timestamp": "2026-09-04 05:49:48.119", "database_name": "SteelNort", "session_id": 71, "command": "EXECUTE", "duration": 2041, "cpu_time": 6, "logical_reads": 0, "writes": 0, "status": "completed"}
+{"event_name": "sql_batch_completed", "timestamp": "2026-09-04 05:49:54.220", "database_name": "SteelNort", "session_id": 62, "command": "AWAITING COMMAND", "duration": 5, "cpu_time": 0, "logical_reads": 0, "writes": 0}
+{"event_name": "sql_batch_completed", "timestamp": "2026-09-04 05:49:54.220", "database_name": "SteelNort", "session_id": 70, "command": "EXECUTE", "duration": 6, "cpu_time": 0, "logical_reads": 0, "writes": 0}
+{"event_name": "lock_acquired", "timestamp": "2026-09-04 05:49:54.220", "session_id": 76, "resource_type": "OBJECT", "mode": "X"}
+{"event_name": "lock_acquired", "timestamp": "2026-09-04 05:49:54.220", "session_id": 76, "resource_type": "DATABASE", "mode": "S"}
+{"event_name": "lock_acquired", "timestamp": "2026-09-04 05:49:54.220", "session_id": 76, "resource_type": "METADATA", "mode": "Sch-S"}
+{"event_name": "login", "timestamp": "2026-09-04 05:49:56.261", "session_id": 81, "login_name": "795ec2146175\\Administrator", "program_name": "Microsoft SQL Server", "database_name": "SteelNort"}
+{"event_name": "sql_batch_completed", "timestamp": "2026-09-04 05:49:56.261", "database_name": "SteelNort", "session_id": 66, "command": "AWAITING COMMAND", "duration": 4, "cpu_time": 0, "logical_reads": 0, "writes": 0}
+{"event_name": "sql_batch_completed", "timestamp": "2026-09-04 05:49:56.261", "database_name": "SteelNort", "session_id": 71, "command": "EXECUTE", "duration": 122, "cpu_time": 93, "logical_reads": 0, "writes": 0, "wait_type": "MSQL_XP"}
+{"event_name": "sql_batch_completed", "timestamp": "2026-09-04 05:49:56.261", "database_name": "SteelNort", "session_id": 70, "command": "EXECUTE", "duration": 2049, "cpu_time": 0, "logical_reads": 0, "writes": 0, "status": "completed"}
+{"event_name": "sql_batch_completed", "timestamp": "2026-09-04 05:49:56.261", "database_name": "SteelNort", "session_id": 62, "command": "AWAITING COMMAND", "duration": 2050, "cpu_time": 0, "logical_reads": 0, "writes": 0, "status": "completed"}
+{"event_name": "lock_released", "timestamp": "2026-09-04 05:49:56.261", "session_id": 76, "resource_type": "OBJECT", "mode": "X"}
+{"event_name": "lock_released", "timestamp": "2026-09-04 05:49:56.261", "session_id": 76, "resource_type": "DATABASE", "mode": "S"}
+{"event_name": "lock_released", "timestamp": "2026-09-04 05:49:56.261", "session_id": 76, "resource_type": "METADATA", "mode": "Sch-S"}
+{"event_name": "logout", "timestamp": "2026-09-04 05:49:58.291", "session_id": 81}
+{"event_name": "sql_batch_completed", "timestamp": "2026-09-04 05:49:58.291", "database_name": "SteelNort", "session_id": 66, "command": "AWAITING COMMAND", "duration": 2032, "cpu_time": 0, "logical_reads": 0, "writes": 0, "status": "completed"}
+{"event_name": "sql_batch_completed", "timestamp": "2026-09-04 05:49:58.291", "database_name": "SteelNort", "session_id": 71, "command": "EXECUTE", "duration": 2150, "cpu_time": 93, "logical_reads": 0, "writes": 0, "status": "completed"}
+{"event_name": "lock_acquired", "timestamp": "2026-09-04 05:50:04.362", "session_id": 69, "resource_type": "KEY", "mode": "S"}
+{"event_name": "login", "timestamp": "2026-09-04 05:50:06.385", "session_id": 81, "login_name": "795ec2146175\\Administrator", "program_name": "Microsoft SQL Server", "database_name": "SteelNort"}
+{"event_name": "sql_batch_completed", "timestamp": "2026-09-04 05:50:06.385", "database_name": "SteelNort", "session_id": 60, "command": "EXECUTE", "duration": 5, "cpu_time": 0, "logical_reads": 0, "writes": 0}
+{"event_name": "sql_batch_completed", "timestamp": "2026-09-04 05:50:06.385", "database_name": "SteelNort", "session_id": 68, "command": "AWAITING COMMAND", "duration": 6, "cpu_time": 0, "logical_reads": 0, "writes": 0}
+{"event_name": "sql_batch_completed", "timestamp": "2026-09-04 05:50:06.385", "database_name": "SteelNort", "session_id": 71, "command": "EXECUTE", "duration": 105, "cpu_time": 84, "logical_reads": 0, "writes": 0, "wait_type": "MSQL_XP"}
+{"event_name": "lock_released", "timestamp": "2026-09-04 05:50:06.385", "session_id": 69, "resource_type": "KEY", "mode": "S"}
+{"event_name": "logout", "timestamp": "2026-09-04 05:50:08.414", "session_id": 81}
+{"event_name": "sql_batch_completed", "timestamp": "2026-09-04 05:50:08.414", "database_name": "SteelNort", "session_id": 70, "command": "EXECUTE", "duration": 9, "cpu_time": 0, "logical_reads": 0, "writes": 0}
+{"event_name": "sql_batch_completed", "timestamp": "2026-09-04 05:50:08.414", "database_name": "SteelNort", "session_id": 60, "command": "EXECUTE", "duration": 2033, "cpu_time": 0, "logical_reads": 0, "writes": 0, "status": "completed"}
+{"event_name": "sql_batch_completed", "timestamp": "2026-09-04 05:50:08.414", "database_name": "SteelNort", "session_id": 71, "command": "EXECUTE", "duration": 2131, "cpu_time": 84, "logical_reads": 0, "writes": 0, "status": "completed"}
+{"event_name": "sql_batch_completed", "timestamp": "2026-09-04 05:50:08.414", "database_name": "SteelNort", "session_id": 68, "command": "AWAITING COMMAND", "duration": 2035, "cpu_time": 0, "logical_reads": 0, "writes": 0, "status": "completed"}
+{"event_name": "sql_batch_completed", "timestamp": "2026-09-04 05:50:10.441", "database_name": "SteelNort", "session_id": 70, "command": "EXECUTE", "duration": 2036, "cpu_time": 0, "logical_reads": 0, "writes": 0, "status": "completed"}
+{"event_name": "sql_batch_completed", "timestamp": "2026-09-04 05:50:12.460", "database_name": "SteelNort", "session_id": 60, "command": "SELECT", "duration": 4, "cpu_time": 0, "logical_reads": 0, "writes": 0}
+{"event_name": "sql_batch_completed", "timestamp": "2026-09-04 05:50:14.486", "database_name": "SteelNort", "session_id": 69, "command": "AWAITING COMMAND", "duration": 3, "cpu_time": 0, "logical_reads": 0, "writes": 0}
+{"event_name": "sql_batch_completed", "timestamp": "2026-09-04 05:50:14.486", "database_name": "SteelNort", "session_id": 60, "command": "SELECT", "duration": 2035, "cpu_time": 0, "logical_reads": 0, "writes": 0, "status": "completed"}
+{"event_name": "login", "timestamp": "2026-09-04 05:50:16.518", "session_id": 81, "login_name": "795ec2146175\\Administrator", "program_name": "Microsoft SQL Server", "database_name": "SteelNort"}
+{"event_name": "sql_batch_completed", "timestamp": "2026-09-04 05:50:16.518", "database_name": "SteelNort", "session_id": 66, "command": "EXECUTE", "duration": 5, "cpu_time": 0, "logical_reads": 0, "writes": 0}
+{"event_name": "sql_batch_completed", "timestamp": "2026-09-04 05:50:16.518", "database_name": "SteelNort", "session_id": 71, "command": "EXECUTE", "duration": 209, "cpu_time": 105, "logical_reads": 0, "writes": 0, "wait_type": "MSQL_XP"}
+{"event_name": "sql_batch_completed", "timestamp": "2026-09-04 05:50:16.518", "database_name": "SteelNort", "session_id": 69, "command": "AWAITING COMMAND", "duration": 2051, "cpu_time": 0, "logical_reads": 0, "writes": 0, "status": "completed"}
+{"event_name": "lock_acquired", "timestamp": "2026-09-04 05:50:16.518", "session_id": 60, "resource_type": "PAGE", "mode": "IS"}
+{"event_name": "logout", "timestamp": "2026-09-04 05:50:18.566", "session_id": 81}
+{"event_name": "sql_batch_completed", "timestamp": "2026-09-04 05:50:18.566", "database_name": "SteelNort", "session_id": 68, "command": "AWAITING COMMAND", "duration": 5, "cpu_time": 0, "logical_reads": 0, "writes": 0}
+{"event_name": "sql_batch_completed", "timestamp": "2026-09-04 05:50:18.566", "database_name": "SteelNort", "session_id": 66, "command": "EXECUTE", "duration": 2042, "cpu_time": 0, "logical_reads": 0, "writes": 0, "status": "completed"}
+{"event_name": "sql_batch_completed", "timestamp": "2026-09-04 05:50:18.566", "database_name": "SteelNort", "session_id": 71, "command": "EXECUTE", "duration": 2242, "cpu_time": 105, "logical_reads": 0, "writes": 0, "status": "completed"}
+{"event_name": "lock_acquired", "timestamp": "2026-09-04 05:50:18.566", "session_id": 66, "resource_type": "OBJECT", "mode": "IS"}
+{"event_name": "lock_acquired", "timestamp": "2026-09-04 05:50:18.566", "session_id": 66, "resource_type": "KEY", "mode": "X"}
+{"event_name": "lock_acquired", "timestamp": "2026-09-04 05:50:18.566", "session_id": 66, "resource_type": "RID", "mode": "X"}
+{"event_name": "lock_acquired", "timestamp": "2026-09-04 05:50:18.566", "session_id": 66, "resource_type": "PAGE", "mode": "IX"}
+{"event_name": "lock_acquired", "timestamp": "2026-09-04 05:50:18.566", "session_id": 66, "resource_type": "OBJECT", "mode": "IX"}
+{"event_name": "lock_released", "timestamp": "2026-09-04 05:50:18.566", "session_id": 60, "resource_type": "PAGE", "mode": "IS"}
+{"event_name": "login", "timestamp": "2026-09-04 05:50:20.599", "session_id": 81, "login_name": "795ec2146175\\Administrator", "program_name": "Microsoft SQL Server", "database_name": "SteelNort"}
+{"event_name": "sql_batch_completed", "timestamp": "2026-09-04 05:50:20.599", "database_name": "SteelNort", "session_id": 71, "command": "EXECUTE", "duration": 290, "cpu_time": 119, "logical_reads": 0, "writes": 0, "wait_type": "MSQL_XP"}
+{"event_name": "sql_batch_completed", "timestamp": "2026-09-04 05:50:20.599", "database_name": "SteelNort", "session_id": 68, "command": "AWAITING COMMAND", "duration": 2050, "cpu_time": 0, "logical_reads": 0, "writes": 0, "status": "completed"}
+{"event_name": "lock_released", "timestamp": "2026-09-04 05:50:20.599", "session_id": 66, "resource_type": "OBJECT", "mode": "IS"}
+{"event_name": "lock_released", "timestamp": "2026-09-04 05:50:20.599", "session_id": 66, "resource_type": "KEY", "mode": "X"}
+{"event_name": "lock_released", "timestamp": "2026-09-04 05:50:20.599", "session_id": 66, "resource_type": "RID", "mode": "X"}
+{"event_name": "lock_released", "timestamp": "2026-09-04 05:50:20.599", "session_id": 66, "resource_type": "PAGE", "mode": "IX"}
+{"event_name": "lock_released", "timestamp": "2026-09-04 05:50:20.599", "session_id": 66, "resource_type": "OBJECT", "mode": "IX"}
+{"event_name": "logout", "timestamp": "2026-09-04 05:50:22.649", "session_id": 81}
+{"event_name": "sql_batch_completed", "timestamp": "2026-09-04 05:50:22.649", "database_name": "SteelNort", "session_id": 62, "command": "AWAITING COMMAND", "duration": 4, "cpu_time": 0, "logical_reads": 0, "writes": 0}
+{"event_name": "sql_batch_completed", "timestamp": "2026-09-04 05:50:22.649", "database_name": "SteelNort", "session_id": 71, "command": "EXECUTE", "duration": 2333, "cpu_time": 119, "logical_reads": 0, "writes": 0, "status": "completed"}
+{"event_name": "lock_acquired", "timestamp": "2026-09-04 05:50:22.649", "session_id": 76, "resource_type": "DATABASE", "mode": "S"}
+{"event_name": "lock_acquired", "timestamp": "2026-09-04 05:50:22.649", "session_id": 76, "resource_type": "OBJECT", "mode": "Sch-S"}
+{"event_name": "sql_batch_completed", "timestamp": "2026-09-04 05:50:24.681", "database_name": "SteelNort", "session_id": 62, "command": "AWAITING COMMAND", "duration": 2034, "cpu_time": 0, "logical_reads": 0, "writes": 0, "status": "completed"}
+{"event_name": "lock_released", "timestamp": "2026-09-04 05:50:24.681", "session_id": 76, "resource_type": "DATABASE", "mode": "S"}
+{"event_name": "lock_released", "timestamp": "2026-09-04 05:50:24.681", "session_id": 76, "resource_type": "OBJECT", "mode": "Sch-S"}
+{"event_name": "wait_info", "timestamp": "2026-09-04 05:50:26.713", "session_id": 57, "wait_type": "BROKER_TO_FLUSH", "database_name": "master"}
+{"event_name": "sql_batch_completed", "timestamp": "2026-09-04 05:50:26.713", "database_name": "SteelNort", "session_id": 63, "command": "EXECUTE", "duration": 6, "cpu_time": 0, "logical_reads": 0, "writes": 0}
+{"event_name": "sql_batch_completed", "timestamp": "2026-09-04 05:50:28.734", "database_name": "SteelNort", "session_id": 63, "command": "EXECUTE", "duration": 2028, "cpu_time": 0, "logical_reads": 0, "writes": 0, "status": "completed"}
+{"event_name": "sql_batch_completed", "timestamp": "2026-09-04 05:50:30.756", "database_name": "SteelNort", "session_id": 71, "command": "EXECUTE", "duration": 84, "cpu_time": 76, "logical_reads": 0, "writes": 0, "wait_type": "MSQL_XP"}
+{"event_name": "sql_batch_completed", "timestamp": "2026-09-04 05:50:32.788", "database_name": "SteelNort", "session_id": 71, "command": "EXECUTE", "duration": 2118, "cpu_time": 76, "logical_reads": 0, "writes": 0, "status": "completed"}
+{"event_name": "login", "timestamp": "2026-09-04 05:50:34.813", "session_id": 81, "login_name": "795ec2146175\\Administrator", "program_name": "Microsoft SQL Server", "database_name": "SteelNort"}
+{"event_name": "sql_batch_completed", "timestamp": "2026-09-04 05:50:34.813", "database_name": "SteelNort", "session_id": 71, "command": "EXECUTE", "duration": 189, "cpu_time": 106, "logical_reads": 0, "writes": 0, "wait_type": "MSQL_XP"}
+{"event_name": "logout", "timestamp": "2026-09-04 05:50:36.843", "session_id": 81}
+{"event_name": "sql_batch_completed", "timestamp": "2026-09-04 05:50:36.843", "database_name": "SteelNort", "session_id": 65, "command": "EXECUTE", "duration": 4, "cpu_time": 0, "logical_reads": 0, "writes": 0}
+{"event_name": "sql_batch_completed", "timestamp": "2026-09-04 05:50:36.843", "database_name": "SteelNort", "session_id": 71, "command": "EXECUTE", "duration": 2219, "cpu_time": 106, "logical_reads": 0, "writes": 0, "status": "completed"}
+{"event_name": "sql_batch_completed", "timestamp": "2026-09-04 05:50:38.873", "database_name": "SteelNort", "session_id": 65, "command": "EXECUTE", "duration": 2030, "cpu_time": 0, "logical_reads": 0, "writes": 0, "status": "completed"}
+{"event_name": "sql_batch_completed", "timestamp": "2026-09-04 05:50:44.961", "database_name": "SteelNort", "session_id": 71, "command": "EXECUTE", "duration": 49, "cpu_time": 39, "logical_reads": 0, "writes": 0, "wait_type": "MSQL_XP"}
+{"event_name": "sql_batch_completed", "timestamp": "2026-09-04 05:50:46.990", "database_name": "SteelNort", "session_id": 71, "command": "EXECUTE", "duration": 2077, "cpu_time": 39, "logical_reads": 0, "writes": 0, "status": "completed"}
+{"event_name": "sql_batch_completed", "timestamp": "2026-09-04 05:50:55.080", "database_name": "SteelNort", "session_id": 71, "command": "EXECUTE", "duration": 55, "cpu_time": 48, "logical_reads": 0, "writes": 0, "wait_type": "MSQL_XP"}
+{"event_name": "sql_batch_completed", "timestamp": "2026-09-04 05:50:57.108", "database_name": "SteelNort", "session_id": 71, "command": "EXECUTE", "duration": 2086, "cpu_time": 48, "logical_reads": 0, "writes": 0, "status": "completed"}
+{"event_name": "login", "timestamp": "2026-09-04 05:50:59.137", "session_id": 81, "login_name": "795ec2146175\\Administrator", "program_name": "Microsoft SQL Server", "database_name": "SteelNort"}
+{"event_name": "sql_batch_completed", "timestamp": "2026-09-04 05:50:59.137", "database_name": "SteelNort", "session_id": 64, "command": "CONDITIONAL", "duration": 3, "cpu_time": 0, "logical_reads": 0, "writes": 0}
+{"event_name": "sql_batch_completed", "timestamp": "2026-09-04 05:50:59.137", "database_name": "SteelNort", "session_id": 71, "command": "EXECUTE", "duration": 204, "cpu_time": 94, "logical_reads": 0, "writes": 0, "wait_type": "MSQL_XP"}
+{"event_name": "logout", "timestamp": "2026-09-04 05:51:01.158", "session_id": 81}
+{"event_name": "sql_batch_completed", "timestamp": "2026-09-04 05:51:01.158", "database_name": "SteelNort", "session_id": 64, "command": "CONDITIONAL", "duration": 2028, "cpu_time": 0, "logical_reads": 0, "writes": 0, "status": "completed"}
+{"event_name": "sql_batch_completed", "timestamp": "2026-09-04 05:51:01.158", "database_name": "SteelNort", "session_id": 71, "command": "EXECUTE", "duration": 2230, "cpu_time": 94, "logical_reads": 0, "writes": 0, "status": "completed"}
+{"event_name": "lock_acquired", "timestamp": "2026-09-04 05:51:01.158", "session_id": 63, "resource_type": "PAGE", "mode": "IS"}
+{"event_name": "lock_released", "timestamp": "2026-09-04 05:51:03.192", "session_id": 63, "resource_type": "PAGE", "mode": "IS"}
+{"event_name": "sql_batch_completed", "timestamp": "2026-09-04 05:51:13.317", "database_name": "SteelNort", "session_id": 67, "command": "AWAITING COMMAND", "duration": 7, "cpu_time": 0, "logical_reads": 0, "writes": 0}
+{"event_name": "sql_batch_completed", "timestamp": "2026-09-04 05:51:13.317", "database_name": "SteelNort", "session_id": 71, "command": "EXECUTE", "duration": 89, "cpu_time": 80, "logical_reads": 0, "writes": 0, "wait_type": "MSQL_XP"}
+{"event_name": "sql_batch_completed", "timestamp": "2026-09-04 05:51:15.348", "database_name": "SteelNort", "session_id": 67, "command": "AWAITING COMMAND", "duration": 2031, "cpu_time": 0, "logical_reads": 0, "writes": 0, "status": "completed"}
+{"event_name": "sql_batch_completed", "timestamp": "2026-09-04 05:51:15.348", "database_name": "SteelNort", "session_id": 71, "command": "EXECUTE", "duration": 2112, "cpu_time": 80, "logical_reads": 0, "writes": 0, "status": "completed"}
+{"event_name": "sql_batch_completed", "timestamp": "2026-09-04 05:51:17.366", "database_name": "SteelNort", "session_id": 67, "command": "AWAITING COMMAND", "duration": 6, "cpu_time": 0, "logical_reads": 0, "writes": 0}
+{"event_name": "sql_batch_completed", "timestamp": "2026-09-04 05:51:19.391", "database_name": "SteelNort", "session_id": 67, "command": "AWAITING COMMAND", "duration": 2031, "cpu_time": 0, "logical_reads": 0, "writes": 0, "status": "completed"}
+{"event_name": "sql_batch_completed", "timestamp": "2026-09-04 05:51:21.414", "database_name": "SteelNort", "session_id": 64, "command": "AWAITING COMMAND", "duration": 6, "cpu_time": 0, "logical_reads": 0, "writes": 0}
+{"event_name": "sql_batch_completed", "timestamp": "2026-09-04 05:51:21.414", "database_name": "SteelNort", "session_id": 66, "command": "EXECUTE", "duration": 7, "cpu_time": 0, "logical_reads": 0, "writes": 0}
+{"event_name": "login", "timestamp": "2026-09-04 05:51:23.449", "session_id": 81, "login_name": "795ec2146175\\Administrator", "program_name": "Microsoft SQL Server", "database_name": "SteelNort"}
+{"event_name": "sql_batch_completed", "timestamp": "2026-09-04 05:51:23.449", "database_name": "SteelNort", "session_id": 71, "command": "EXECUTE", "duration": 180, "cpu_time": 112, "logical_reads": 0, "writes": 0, "wait_type": "MSQL_XP"}
+{"event_name": "sql_batch_completed", "timestamp": "2026-09-04 05:51:23.449", "database_name": "SteelNort", "session_id": 64, "command": "AWAITING COMMAND", "duration": 2035, "cpu_time": 0, "logical_reads": 0, "writes": 0, "status": "completed"}
+{"event_name": "sql_batch_completed", "timestamp": "2026-09-04 05:51:23.449", "database_name": "SteelNort", "session_id": 66, "command": "EXECUTE", "duration": 2036, "cpu_time": 0, "logical_reads": 0, "writes": 0, "status": "completed"}
+{"event_name": "logout", "timestamp": "2026-09-04 05:51:25.474", "session_id": 81}
+{"event_name": "sql_batch_completed", "timestamp": "2026-09-04 05:51:25.474", "database_name": "SteelNort", "session_id": 64, "command": "EXECUTE", "duration": 6, "cpu_time": 0, "logical_reads": 0, "writes": 0}
+{"event_name": "sql_batch_completed", "timestamp": "2026-09-04 05:51:25.474", "database_name": "SteelNort", "session_id": 71, "command": "EXECUTE", "duration": 2207, "cpu_time": 112, "logical_reads": 0, "writes": 0, "status": "completed"}
+{"event_name": "sql_batch_completed", "timestamp": "2026-09-04 05:51:27.502", "database_name": "SteelNort", "session_id": 64, "command": "EXECUTE", "duration": 2034, "cpu_time": 0, "logical_reads": 0, "writes": 0, "status": "completed"}
+{"event_name": "sql_batch_completed", "timestamp": "2026-09-04 05:51:33.595", "database_name": "SteelNort", "session_id": 70, "command": "AWAITING COMMAND", "duration": 6, "cpu_time": 0, "logical_reads": 0, "writes": 0}
+{"event_name": "sql_batch_completed", "timestamp": "2026-09-04 05:51:35.623", "database_name": "SteelNort", "session_id": 70, "command": "AWAITING COMMAND", "duration": 2033, "cpu_time": 0, "logical_reads": 0, "writes": 0, "status": "completed"}
+{"event_name": "login", "timestamp": "2026-09-04 05:51:37.649", "session_id": 81, "login_name": "795ec2146175\\Administrator", "program_name": "Microsoft SQL Server", "database_name": "SteelNort"}
+{"event_name": "sql_batch_completed", "timestamp": "2026-09-04 05:51:37.649", "database_name": "SteelNort", "session_id": 68, "command": "EXECUTE", "duration": 7, "cpu_time": 1, "logical_reads": 0, "writes": 0}
+{"event_name": "sql_batch_completed", "timestamp": "2026-09-04 05:51:37.649", "database_name": "SteelNort", "session_id": 71, "command": "EXECUTE", "duration": 119, "cpu_time": 73, "logical_reads": 0, "writes": 0, "wait_type": "MSQL_XP"}
+{"event_name": "sql_batch_completed", "timestamp": "2026-09-04 05:51:37.649", "database_name": "SteelNort", "session_id": 76, "command": "SELECT", "duration": 113, "cpu_time": 80, "logical_reads": 0, "writes": 0}
+{"event_name": "lock_acquired", "timestamp": "2026-09-04 05:51:37.649", "session_id": 76, "resource_type": "DATABASE", "mode": "S"}
+{"event_name": "lock_acquired", "timestamp": "2026-09-04 05:51:37.649", "session_id": 76, "resource_type": "OBJECT", "mode": "Sch-S"}
+{"event_name": "lock_acquired", "timestamp": "2026-09-04 05:51:37.649", "session_id": 76, "resource_type": "METADATA", "mode": "Sch-S"}
+{"event_name": "logout", "timestamp": "2026-09-04 05:51:39.678", "session_id": 81}
+{"event_name": "sql_batch_completed", "timestamp": "2026-09-04 05:51:39.678", "database_name": "SteelNort", "session_id": 68, "command": "EXECUTE", "duration": 2038, "cpu_time": 1, "logical_reads": 0, "writes": 0, "status": "completed"}
+{"event_name": "sql_batch_completed", "timestamp": "2026-09-04 05:51:39.678", "database_name": "SteelNort", "session_id": 76, "command": "SELECT", "duration": 2142, "cpu_time": 80, "logical_reads": 0, "writes": 0, "status": "completed"}
+{"event_name": "sql_batch_completed", "timestamp": "2026-09-04 05:51:39.678", "database_name": "SteelNort", "session_id": 71, "command": "EXECUTE", "duration": 2151, "cpu_time": 73, "logical_reads": 0, "writes": 0, "status": "completed"}
+{"event_name": "lock_released", "timestamp": "2026-09-04 05:51:39.678", "session_id": 76, "resource_type": "DATABASE", "mode": "S"}
+{"event_name": "lock_released", "timestamp": "2026-09-04 05:51:39.678", "session_id": 76, "resource_type": "OBJECT", "mode": "Sch-S"}
+{"event_name": "lock_released", "timestamp": "2026-09-04 05:51:39.678", "session_id": 76, "resource_type": "METADATA", "mode": "Sch-S"}
+{"event_name": "login", "timestamp": "2026-09-04 05:51:41.714", "session_id": 81, "login_name": "795ec2146175\\Administrator", "program_name": "Microsoft SQL Server", "database_name": "SteelNort"}
+{"event_name": "sql_batch_completed", "timestamp": "2026-09-04 05:51:41.714", "database_name": "SteelNort", "session_id": 70, "command": "AWAITING COMMAND", "duration": 5, "cpu_time": 0, "logical_reads": 0, "writes": 0}
+{"event_name": "sql_batch_completed", "timestamp": "2026-09-04 05:51:41.714", "database_name": "SteelNort", "session_id": 71, "command": "EXECUTE", "duration": 257, "cpu_time": 113, "logical_reads": 0, "writes": 0, "wait_type": "MSQL_XP"}
+{"event_name": "logout", "timestamp": "2026-09-04 05:51:43.743", "session_id": 81}
+{"event_name": "sql_batch_completed", "timestamp": "2026-09-04 05:51:43.743", "database_name": "SteelNort", "session_id": 71, "command": "EXECUTE", "duration": 2284, "cpu_time": 113, "logical_reads": 0, "writes": 0, "status": "completed"}
+{"event_name": "login", "timestamp": "2026-09-04 05:51:45.776", "session_id": 81, "login_name": "795ec2146175\\Administrator", "program_name": "Microsoft SQL Server", "database_name": "SteelNort"}
+{"event_name": "sql_batch_completed", "timestamp": "2026-09-04 05:51:45.776", "database_name": "SteelNort", "session_id": 69, "command": "SET OPTION OFF", "duration": 5, "cpu_time": 0, "logical_reads": 0, "writes": 0}
+{"event_name": "sql_batch_completed", "timestamp": "2026-09-04 05:51:45.776", "database_name": "SteelNort", "session_id": 71, "command": "EXECUTE", "duration": 266, "cpu_time": 126, "logical_reads": 0, "writes": 0, "wait_type": "MSQL_XP"}
+{"event_name": "logout", "timestamp": "2026-09-04 05:51:47.802", "session_id": 81}
+{"event_name": "sql_batch_completed", "timestamp": "2026-09-04 05:51:47.802", "database_name": "SteelNort", "session_id": 69, "command": "SET OPTION OFF", "duration": 2032, "cpu_time": 0, "logical_reads": 0, "writes": 0, "status": "completed"}
+{"event_name": "sql_batch_completed", "timestamp": "2026-09-04 05:51:47.802", "database_name": "SteelNort", "session_id": 70, "command": "EXECUTE", "duration": 2033, "cpu_time": 0, "logical_reads": 0, "writes": 0, "status": "completed"}
+{"event_name": "sql_batch_completed", "timestamp": "2026-09-04 05:51:47.802", "database_name": "SteelNort", "session_id": 71, "command": "EXECUTE", "duration": 2294, "cpu_time": 126, "logical_reads": 0, "writes": 0, "status": "completed"}
+{"event_name": "login", "timestamp": "2026-09-04 05:51:55.916", "session_id": 81, "login_name": "795ec2146175\\Administrator", "program_name": "Microsoft SQL Server", "database_name": "SteelNort"}
+{"event_name": "sql_batch_completed", "timestamp": "2026-09-04 05:51:55.916", "database_name": "SteelNort", "session_id": 71, "command": "EXECUTE", "duration": 138, "cpu_time": 132, "logical_reads": 0, "writes": 0, "wait_type": "MSQL_XP"}
+{"event_name": "logout", "timestamp": "2026-09-04 05:51:57.948", "session_id": 81}
+{"event_name": "sql_batch_completed", "timestamp": "2026-09-04 05:51:57.948", "database_name": "SteelNort", "session_id": 64, "command": "COMMIT TRANSACTION", "duration": 18, "cpu_time": 6, "logical_reads": 0, "writes": 0, "wait_type": "PREEMPTIVE_OS_FLUSHFILEBUFFERS"}
+{"event_name": "sql_batch_completed", "timestamp": "2026-09-04 05:51:57.948", "database_name": "SteelNort", "session_id": 67, "command": "AWAITING COMMAND", "duration": 9, "cpu_time": 0, "logical_reads": 0, "writes": 0}
+{"event_name": "sql_batch_completed", "timestamp": "2026-09-04 05:51:57.948", "database_name": "SteelNort", "session_id": 71, "command": "EXECUTE", "duration": 2170, "cpu_time": 132, "logical_reads": 0, "writes": 0, "status": "completed"}
+{"event_name": "wait_info", "timestamp": "2026-09-04 05:51:59.982", "session_id": 57, "wait_type": "SLEEP_TASK", "database_name": "master"}
+{"event_name": "sql_batch_completed", "timestamp": "2026-09-04 05:51:59.982", "database_name": "SteelNort", "session_id": 68, "command": "EXECUTE", "duration": 3, "cpu_time": 0, "logical_reads": 0, "writes": 0}
+{"event_name": "sql_batch_completed", "timestamp": "2026-09-04 05:51:59.982", "database_name": "SteelNort", "session_id": 70, "command": "EXECUTE", "duration": 4, "cpu_time": 0, "logical_reads": 0, "writes": 0}
+{"event_name": "sql_batch_completed", "timestamp": "2026-09-04 05:51:59.982", "database_name": "SteelNort", "session_id": 64, "command": "COMMIT TRANSACTION", "duration": 2048, "cpu_time": 6, "logical_reads": 0, "writes": 0, "status": "completed"}
+{"event_name": "sql_batch_completed", "timestamp": "2026-09-04 05:51:59.982", "database_name": "SteelNort", "session_id": 67, "command": "AWAITING COMMAND", "duration": 2040, "cpu_time": 0, "logical_reads": 0, "writes": 0, "status": "completed"}
+{"event_name": "sql_batch_completed", "timestamp": "2026-09-04 05:52:02.008", "database_name": "SteelNort", "session_id": 76, "command": "SELECT", "duration": 558, "cpu_time": 416, "logical_reads": 752, "writes": 0, "wait_type": "MEMORY_ALLOCATION_EXT"}
+{"event_name": "sql_batch_completed", "timestamp": "2026-09-04 05:52:02.008", "database_name": "SteelNort", "session_id": 68, "command": "EXECUTE", "duration": 2029, "cpu_time": 0, "logical_reads": 0, "writes": 0, "status": "completed"}
+{"event_name": "sql_batch_completed", "timestamp": "2026-09-04 05:52:02.008", "database_name": "SteelNort", "session_id": 70, "command": "EXECUTE", "duration": 2030, "cpu_time": 0, "logical_reads": 0, "writes": 0, "status": "completed"}
+{"event_name": "lock_acquired", "timestamp": "2026-09-04 05:52:02.008", "session_id": 76, "resource_type": "DATABASE", "mode": "S"}
+{"event_name": "lock_acquired", "timestamp": "2026-09-04 05:52:02.008", "session_id": 76, "resource_type": "OBJECT", "mode": "Sch-S"}
+{"event_name": "lock_acquired", "timestamp": "2026-09-04 05:52:02.008", "session_id": 76, "resource_type": "METADATA", "mode": "Sch-M"}
+{"event_name": "sql_batch_completed", "timestamp": "2026-09-04 05:52:04.038", "database_name": "SteelNort", "session_id": 68, "command": "AWAITING COMMAND", "duration": 3, "cpu_time": 0, "logical_reads": 0, "writes": 0}
+{"event_name": "sql_batch_completed", "timestamp": "2026-09-04 05:52:04.038", "database_name": "SteelNort", "session_id": 76, "command": "SELECT", "duration": 2593, "cpu_time": 416, "logical_reads": 752, "writes": 0, "status": "completed"}
+{"event_name": "lock_released", "timestamp": "2026-09-04 05:52:04.038", "session_id": 76, "resource_type": "DATABASE", "mode": "S"}
+{"event_name": "lock_released", "timestamp": "2026-09-04 05:52:04.038", "session_id": 76, "resource_type": "OBJECT", "mode": "Sch-S"}
+{"event_name": "lock_released", "timestamp": "2026-09-04 05:52:04.038", "session_id": 76, "resource_type": "METADATA", "mode": "Sch-M"}
+{"event_name": "login", "timestamp": "2026-09-04 05:52:06.068", "session_id": 81, "login_name": "795ec2146175\\Administrator", "program_name": "Microsoft SQL Server", "database_name": "SteelNort"}
+{"event_name": "sql_batch_completed", "timestamp": "2026-09-04 05:52:06.068", "database_name": "SteelNort", "session_id": 60, "command": "SELECT", "duration": 11, "cpu_time": 5, "logical_reads": 0, "writes": 0}
+{"event_name": "sql_batch_completed", "timestamp": "2026-09-04 05:52:06.068", "database_name": "SteelNort", "session_id": 71, "command": "EXECUTE", "duration": 160, "cpu_time": 139, "logical_reads": 0, "writes": 0, "wait_type": "MSQL_XP"}
+{"event_name": "sql_batch_completed", "timestamp": "2026-09-04 05:52:06.068", "database_name": "SteelNort", "session_id": 68, "command": "AWAITING COMMAND", "duration": 2044, "cpu_time": 0, "logical_reads": 0, "writes": 0, "status": "completed"}
+{"event_name": "lock_acquired", "timestamp": "2026-09-04 05:52:06.068", "session_id": 60, "resource_type": "RID", "mode": "S"}
+{"event_name": "lock_acquired", "timestamp": "2026-09-04 05:52:06.068", "session_id": 60, "resource_type": "KEY", "mode": "S"}
+{"event_name": "lock_acquired", "timestamp": "2026-09-04 05:52:06.068", "session_id": 60, "resource_type": "PAGE", "mode": "IS"}
+{"event_name": "lock_acquired", "timestamp": "2026-09-04 05:52:06.068", "session_id": 60, "resource_type": "OBJECT", "mode": "IS"}
+{"event_name": "logout", "timestamp": "2026-09-04 05:52:08.105", "session_id": 81}
+{"event_name": "sql_batch_completed", "timestamp": "2026-09-04 05:52:08.105", "database_name": "SteelNort", "session_id": 60, "command": "SELECT", "duration": 2043, "cpu_time": 5, "logical_reads": 0, "writes": 0, "status": "completed"}
+{"event_name": "sql_batch_completed", "timestamp": "2026-09-04 05:52:08.105", "database_name": "SteelNort", "session_id": 71, "command": "EXECUTE", "duration": 2191, "cpu_time": 139, "logical_reads": 0, "writes": 0, "status": "completed"}
+{"event_name": "lock_released", "timestamp": "2026-09-04 05:52:08.105", "session_id": 60, "resource_type": "RID", "mode": "S"}
+{"event_name": "lock_released", "timestamp": "2026-09-04 05:52:08.105", "session_id": 60, "resource_type": "KEY", "mode": "S"}
+{"event_name": "lock_released", "timestamp": "2026-09-04 05:52:08.105", "session_id": 60, "resource_type": "PAGE", "mode": "IS"}
+{"event_name": "lock_released", "timestamp": "2026-09-04 05:52:08.105", "session_id": 60, "resource_type": "OBJECT", "mode": "IS"}
+{"event_name": "sql_batch_completed", "timestamp": "2026-09-04 05:52:10.135", "database_name": "SteelNort", "session_id": 60, "command": "EXECUTE", "duration": 5, "cpu_time": 0, "logical_reads": 0, "writes": 0}
+{"event_name": "sql_batch_completed", "timestamp": "2026-09-04 05:52:10.135", "database_name": "SteelNort", "session_id": 67, "command": "SELECT", "duration": 6, "cpu_time": 0, "logical_reads": 0, "writes": 0}
+{"event_name": "sql_batch_completed", "timestamp": "2026-09-04 05:52:12.158", "database_name": "SteelNort", "session_id": 69, "command": "AWAITING COMMAND", "duration": 5, "cpu_time": 0, "logical_reads": 0, "writes": 0}
+{"event_name": "sql_batch_completed", "timestamp": "2026-09-04 05:52:12.158", "database_name": "SteelNort", "session_id": 67, "command": "SELECT", "duration": 2027, "cpu_time": 0, "logical_reads": 0, "writes": 0, "status": "completed"}
+{"event_name": "sql_batch_completed", "timestamp": "2026-09-04 05:52:12.158", "database_name": "SteelNort", "session_id": 60, "command": "EXECUTE", "duration": 2028, "cpu_time": 0, "logical_reads": 0, "writes": 0, "status": "completed"}
+{"event_name": "sql_batch_completed", "timestamp": "2026-09-04 05:52:14.182", "database_name": "SteelNort", "session_id": 69, "command": "AWAITING COMMAND", "duration": 2032, "cpu_time": 0, "logical_reads": 0, "writes": 0, "status": "completed"}
+{"event_name": "lock_acquired", "timestamp": "2026-09-04 05:52:14.182", "session_id": 65, "resource_type": "PAGE", "mode": "IS"}
+{"event_name": "logout", "timestamp": "2026-09-04 05:52:16.209", "session_id": 74}
+{"event_name": "logout", "timestamp": "2026-09-04 05:52:16.209", "session_id": 75}
+{"event_name": "logout", "timestamp": "2026-09-04 05:52:16.209", "session_id": 77}
+{"event_name": "logout", "timestamp": "2026-09-04 05:52:16.209", "session_id": 78}
+{"event_name": "logout", "timestamp": "2026-09-04 05:52:16.209", "session_id": 80}
+{"event_name": "logout", "timestamp": "2026-09-04 05:52:16.209", "session_id": 52}
+{"event_name": "sql_batch_completed", "timestamp": "2026-09-04 05:52:16.209", "database_name": "SteelNort", "session_id": 71, "command": "EXECUTE", "duration": 156, "cpu_time": 100, "logical_reads": 0, "writes": 0, "wait_type": "MSQL_XP"}
+{"event_name": "sql_batch_completed", "timestamp": "2026-09-04 05:52:16.209", "database_name": "master", "session_id": 74, "command": "TASK MANAGER", "duration": 180367, "cpu_time": 0, "logical_reads": 0, "writes": 0, "status": "completed"}
+{"event_name": "sql_batch_completed", "timestamp": "2026-09-04 05:52:16.209", "database_name": "master", "session_id": 75, "command": "TASK MANAGER", "duration": 180368, "cpu_time": 0, "logical_reads": 0, "writes": 0, "status": "completed"}
+{"event_name": "sql_batch_completed", "timestamp": "2026-09-04 05:52:16.209", "database_name": "master", "session_id": 77, "command": "TASK MANAGER", "duration": 180369, "cpu_time": 0, "logical_reads": 0, "writes": 0, "status": "completed"}
+{"event_name": "sql_batch_completed", "timestamp": "2026-09-04 05:52:16.209", "database_name": "master", "session_id": 78, "command": "TASK MANAGER", "duration": 180370, "cpu_time": 0, "logical_reads": 0, "writes": 0, "status": "completed"}
+{"event_name": "sql_batch_completed", "timestamp": "2026-09-04 05:52:16.209", "database_name": "master", "session_id": 80, "command": "TASK MANAGER", "duration": 180371, "cpu_time": 0, "logical_reads": 0, "writes": 0, "status": "completed"}
+{"event_name": "sql_batch_completed", "timestamp": "2026-09-04 05:52:16.209", "database_name": "master", "session_id": 51, "command": "TASK MANAGER", "duration": 180372, "cpu_time": 0, "logical_reads": 0, "writes": 0, "status": "completed"}
+{"event_name": "sql_batch_completed", "timestamp": "2026-09-04 05:52:16.209", "database_name": "master", "session_id": 52, "command": "TASK MANAGER", "duration": 180373, "cpu_time": 0, "logical_reads": 0, "writes": 0, "status": "completed"}
+{"event_name": "lock_released", "timestamp": "2026-09-04 05:52:16.209", "session_id": 65, "resource_type": "PAGE", "mode": "IS"}
+{"event_name": "logout", "timestamp": "2026-09-04 05:52:18.248", "session_id": 51}
+{"event_name": "sql_batch_completed", "timestamp": "2026-09-04 05:52:18.248", "database_name": "SteelNort", "session_id": 71, "command": "EXECUTE", "duration": 2188, "cpu_time": 100, "logical_reads": 0, "writes": 0, "status": "completed"}
+{"event_name": "logout", "timestamp": "2026-09-04 05:52:22.294", "session_id": 79}
+{"event_name": "sql_batch_completed", "timestamp": "2026-09-04 05:52:22.294", "database_name": "SteelNort", "session_id": 76, "command": "SELECT", "duration": 11, "cpu_time": 4, "logical_reads": 0, "writes": 0}
+{"event_name": "sql_batch_completed", "timestamp": "2026-09-04 05:52:22.294", "database_name": "master", "session_id": 79, "command": "TASK MANAGER", "duration": 186453, "cpu_time": 0, "logical_reads": 0, "writes": 0, "status": "completed"}
+{"event_name": "lock_acquired", "timestamp": "2026-09-04 05:52:22.294", "session_id": 76, "resource_type": "DATABASE", "mode": "S"}
+{"event_name": "lock_acquired", "timestamp": "2026-09-04 05:52:22.294", "session_id": 76, "resource_type": "OBJECT", "mode": "Sch-S"}
+{"event_name": "lock_acquired", "timestamp": "2026-09-04 05:52:22.294", "session_id": 76, "resource_type": "METADATA", "mode": "Sch-S"}
+{"event_name": "sql_batch_completed", "timestamp": "2026-09-04 05:52:24.333", "database_name": "SteelNort", "session_id": 76, "command": "SELECT", "duration": 2043, "cpu_time": 4, "logical_reads": 0, "writes": 0, "status": "completed"}
+{"event_name": "lock_released", "timestamp": "2026-09-04 05:52:24.333", "session_id": 76, "resource_type": "DATABASE", "mode": "S"}
+{"event_name": "lock_released", "timestamp": "2026-09-04 05:52:24.333", "session_id": 76, "resource_type": "OBJECT", "mode": "Sch-S"}
+{"event_name": "lock_released", "timestamp": "2026-09-04 05:52:24.333", "session_id": 76, "resource_type": "METADATA", "mode": "Sch-S"}
+{"event_name": "sql_batch_completed", "timestamp": "2026-09-04 05:52:26.368", "database_name": "SteelNort", "session_id": 71, "command": "EXECUTE", "duration": 34, "cpu_time": 27, "logical_reads": 0, "writes": 0, "wait_type": "MSQL_XP"}
+{"event_name": "sql_batch_completed", "timestamp": "2026-09-04 05:52:28.391", "database_name": "SteelNort", "session_id": 71, "command": "EXECUTE", "duration": 2060, "cpu_time": 27, "logical_reads": 0, "writes": 0, "status": "completed"}
+{"event_name": "login", "timestamp": "2026-09-04 05:52:30.416", "session_id": 51, "login_name": "795ec2146175\\Administrator", "program_name": "Microsoft SQL Server", "database_name": "SteelNort"}
+{"event_name": "logout", "timestamp": "2026-09-04 05:52:32.441", "session_id": 51}
+{"event_name": "sql_batch_completed", "timestamp": "2026-09-04 05:52:36.480", "database_name": "SteelNort", "session_id": 69, "command": "EXECUTE", "duration": 3, "cpu_time": 0, "logical_reads": 0, "writes": 0}
+{"event_name": "sql_batch_completed", "timestamp": "2026-09-04 05:52:36.480", "database_name": "SteelNort", "session_id": 71, "command": "EXECUTE", "duration": 35, "cpu_time": 25, "logical_reads": 0, "writes": 0, "wait_type": "MSQL_XP"}
+{"event_name": "sql_batch_completed", "timestamp": "2026-09-04 05:52:38.513", "database_name": "SteelNort", "session_id": 70, "command": "SET OPTION OFF", "duration": 5, "cpu_time": 0, "logical_reads": 0, "writes": 0}
+{"event_name": "sql_batch_completed", "timestamp": "2026-09-04 05:52:38.513", "database_name": "SteelNort", "session_id": 69, "command": "EXECUTE", "duration": 2049, "cpu_time": 0, "logical_reads": 0, "writes": 0, "status": "completed"}
+{"event_name": "sql_batch_completed", "timestamp": "2026-09-04 05:52:38.513", "database_name": "SteelNort", "session_id": 71, "command": "EXECUTE", "duration": 2081, "cpu_time": 25, "logical_reads": 0, "writes": 0, "status": "completed"}
+{"event_name": "sql_batch_completed", "timestamp": "2026-09-04 05:52:40.557", "database_name": "SteelNort", "session_id": 68, "command": "EXECUTE", "duration": 2, "cpu_time": 0, "logical_reads": 0, "writes": 0}
+{"event_name": "sql_batch_completed", "timestamp": "2026-09-04 05:52:40.557", "database_name": "SteelNort", "session_id": 70, "command": "SET OPTION OFF", "duration": 2036, "cpu_time": 0, "logical_reads": 0, "writes": 0, "status": "completed"}
+{"event_name": "sql_batch_completed", "timestamp": "2026-09-04 05:52:42.574", "database_name": "SteelNort", "session_id": 68, "command": "EXECUTE", "duration": 2030, "cpu_time": 0, "logical_reads": 0, "writes": 0, "status": "completed"}
+{"event_name": "lock_acquired", "timestamp": "2026-09-04 05:52:48.651", "session_id": 67, "resource_type": "OBJECT", "mode": "IS"}
+{"event_name": "sql_batch_completed", "timestamp": "2026-09-04 05:52:50.676", "database_name": "SteelNort", "session_id": 60, "command": "EXECUTE", "duration": 7, "cpu_time": 0, "logical_reads": 0, "writes": 0}
+{"event_name": "sql_batch_completed", "timestamp": "2026-09-04 05:52:50.676", "database_name": "SteelNort", "session_id": 62, "command": "AWAITING COMMAND", "duration": 9, "cpu_time": 0, "logical_reads": 0, "writes": 0}
+{"event_name": "sql_batch_completed", "timestamp": "2026-09-04 05:52:50.676", "database_name": "SteelNort", "session_id": 66, "command": "AWAITING COMMAND", "duration": 11, "cpu_time": 0, "logical_reads": 0, "writes": 0}
+{"event_name": "lock_released", "timestamp": "2026-09-04 05:52:50.676", "session_id": 67, "resource_type": "OBJECT", "mode": "IS"}
+{"event_name": "sql_batch_completed", "timestamp": "2026-09-04 05:52:52.702", "database_name": "SteelNort", "session_id": 66, "command": "AWAITING COMMAND", "duration": 2031, "cpu_time": 0, "logical_reads": 0, "writes": 0, "status": "completed"}
+{"event_name": "sql_batch_completed", "timestamp": "2026-09-04 05:52:52.702", "database_name": "SteelNort", "session_id": 60, "command": "EXECUTE", "duration": 2033, "cpu_time": 0, "logical_reads": 0, "writes": 0, "status": "completed"}
+{"event_name": "sql_batch_completed", "timestamp": "2026-09-04 05:52:52.702", "database_name": "SteelNort", "session_id": 62, "command": "AWAITING COMMAND", "duration": 2034, "cpu_time": 0, "logical_reads": 0, "writes": 0, "status": "completed"}
+{"event_name": "login", "timestamp": "2026-09-04 05:52:56.752", "session_id": 51, "login_name": "795ec2146175\\Administrator", "program_name": "Microsoft SQL Server", "database_name": "SteelNort"}
+{"event_name": "sql_batch_completed", "timestamp": "2026-09-04 05:52:56.752", "database_name": "SteelNort", "session_id": 71, "command": "EXECUTE", "duration": 214, "cpu_time": 151, "logical_reads": 0, "writes": 0, "wait_type": "MSQL_XP"}
+{"event_name": "logout", "timestamp": "2026-09-04 05:52:58.782", "session_id": 51}
+{"event_name": "sql_batch_completed", "timestamp": "2026-09-04 05:52:58.782", "database_name": "SteelNort", "session_id": 71, "command": "EXECUTE", "duration": 2240, "cpu_time": 151, "logical_reads": 0, "writes": 0, "status": "completed"}
+{"event_name": "sql_batch_completed", "timestamp": "2026-09-04 05:53:04.842", "database_name": "SteelNort", "session_id": 63, "command": "EXECUTE", "duration": 7, "cpu_time": 0, "logical_reads": 0, "writes": 0}
+{"event_name": "login", "timestamp": "2026-09-04 05:53:06.869", "session_id": 51, "login_name": "795ec2146175\\Administrator", "program_name": "Microsoft SQL Server", "database_name": "SteelNort"}
+{"event_name": "sql_batch_completed", "timestamp": "2026-09-04 05:53:06.869", "database_name": "SteelNort", "session_id": 71, "command": "EXECUTE", "duration": 221, "cpu_time": 131, "logical_reads": 0, "writes": 0, "wait_type": "MSQL_XP"}
+{"event_name": "sql_batch_completed", "timestamp": "2026-09-04 05:53:06.869", "database_name": "SteelNort", "session_id": 63, "command": "EXECUTE", "duration": 2032, "cpu_time": 0, "logical_reads": 0, "writes": 0, "status": "completed"}
+{"event_name": "logout", "timestamp": "2026-09-04 05:53:08.898", "session_id": 51}
+{"event_name": "sql_batch_completed", "timestamp": "2026-09-04 05:53:08.898", "database_name": "SteelNort", "session_id": 71, "command": "EXECUTE", "duration": 2252, "cpu_time": 131, "logical_reads": 0, "writes": 0, "status": "completed"}
+{"event_name": "lock_acquired", "timestamp": "2026-09-04 05:53:08.898", "session_id": 66, "resource_type": "RID", "mode": "X"}
+{"event_name": "lock_acquired", "timestamp": "2026-09-04 05:53:08.898", "session_id": 66, "resource_type": "KEY", "mode": "X"}
+{"event_name": "lock_released", "timestamp": "2026-09-04 05:53:10.946", "session_id": 66, "resource_type": "RID", "mode": "X"}
+{"event_name": "lock_released", "timestamp": "2026-09-04 05:53:10.946", "session_id": 66, "resource_type": "KEY", "mode": "X"}
+{"event_name": "login", "timestamp": "2026-09-04 05:53:17.014", "session_id": 51, "login_name": "795ec2146175\\Administrator", "program_name": "Microsoft SQL Server", "database_name": "SteelNort"}
+{"event_name": "sql_batch_completed", "timestamp": "2026-09-04 05:53:17.014", "database_name": "SteelNort", "session_id": 71, "command": "EXECUTE", "duration": 143, "cpu_time": 104, "logical_reads": 0, "writes": 0, "wait_type": "MSQL_XP"}
+{"event_name": "logout", "timestamp": "2026-09-04 05:53:19.038", "session_id": 51}
+{"event_name": "sql_batch_completed", "timestamp": "2026-09-04 05:53:19.038", "database_name": "SteelNort", "session_id": 71, "command": "EXECUTE", "duration": 2167, "cpu_time": 104, "logical_reads": 0, "writes": 0, "status": "completed"}
+{"event_name": "sql_batch_completed", "timestamp": "2026-09-04 05:53:23.087", "database_name": "SteelNort", "session_id": 60, "command": "SELECT", "duration": 5, "cpu_time": 0, "logical_reads": 0, "writes": 0}
+{"event_name": "sql_batch_completed", "timestamp": "2026-09-04 05:53:23.087", "database_name": "SteelNort", "session_id": 63, "command": "EXECUTE", "duration": 2, "cpu_time": 0, "logical_reads": 0, "writes": 0}
+{"event_name": "sql_batch_completed", "timestamp": "2026-09-04 05:53:23.087", "database_name": "SteelNort", "session_id": 67, "command": "AWAITING COMMAND", "duration": 3, "cpu_time": 0, "logical_reads": 0, "writes": 0}
+{"event_name": "sql_batch_completed", "timestamp": "2026-09-04 05:53:25.111", "database_name": "SteelNort", "session_id": 67, "command": "AWAITING COMMAND", "duration": 2025, "cpu_time": 0, "logical_reads": 0, "writes": 0, "status": "completed"}
+{"event_name": "sql_batch_completed", "timestamp": "2026-09-04 05:53:25.111", "database_name": "SteelNort", "session_id": 60, "command": "SELECT", "duration": 2030, "cpu_time": 0, "logical_reads": 0, "writes": 0, "status": "completed"}
+{"event_name": "sql_batch_completed", "timestamp": "2026-09-04 05:53:25.111", "database_name": "SteelNort", "session_id": 63, "command": "EXECUTE", "duration": 2027, "cpu_time": 0, "logical_reads": 0, "writes": 0, "status": "completed"}
+{"event_name": "sql_batch_completed", "timestamp": "2026-09-04 05:53:27.142", "database_name": "SteelNort", "session_id": 66, "command": "AWAITING COMMAND", "duration": 5, "cpu_time": 0, "logical_reads": 0, "writes": 0}
+{"event_name": "sql_batch_completed", "timestamp": "2026-09-04 05:53:29.170", "database_name": "SteelNort", "session_id": 66, "command": "AWAITING COMMAND", "duration": 2028, "cpu_time": 0, "logical_reads": 0, "writes": 0, "status": "completed"}
+{"event_name": "login", "timestamp": "2026-09-04 05:53:31.196", "session_id": 51, "login_name": "795ec2146175\\Administrator", "program_name": "Microsoft SQL Server", "database_name": "SteelNort"}
+{"event_name": "sql_batch_completed", "timestamp": "2026-09-04 05:53:31.196", "database_name": "SteelNort", "session_id": 63, "command": "AWAITING COMMAND", "duration": 4, "cpu_time": 0, "logical_reads": 0, "writes": 0}
+{"event_name": "sql_batch_completed", "timestamp": "2026-09-04 05:53:31.196", "database_name": "SteelNort", "session_id": 71, "command": "EXECUTE", "duration": 128, "cpu_time": 95, "logical_reads": 0, "writes": 0, "wait_type": "MSQL_XP"}
+{"event_name": "logout", "timestamp": "2026-09-04 05:53:33.223", "session_id": 51}
+{"event_name": "wait_info", "timestamp": "2026-09-04 05:53:33.223", "session_id": 57, "wait_type": "BROKER_TO_FLUSH", "database_name": "master"}
+{"event_name": "sql_batch_completed", "timestamp": "2026-09-04 05:53:33.223", "database_name": "SteelNort", "session_id": 63, "command": "AWAITING COMMAND", "duration": 2030, "cpu_time": 0, "logical_reads": 0, "writes": 0, "status": "completed"}
+{"event_name": "sql_batch_completed", "timestamp": "2026-09-04 05:53:33.223", "database_name": "SteelNort", "session_id": 71, "command": "EXECUTE", "duration": 2154, "cpu_time": 95, "logical_reads": 0, "writes": 0, "status": "completed"}
+{"event_name": "login", "timestamp": "2026-09-04 05:53:35.248", "session_id": 51, "login_name": "795ec2146175\\Administrator", "program_name": "Microsoft SQL Server", "database_name": "SteelNort"}
+{"event_name": "sql_batch_completed", "timestamp": "2026-09-04 05:53:35.248", "database_name": "SteelNort", "session_id": 71, "command": "EXECUTE", "duration": 352, "cpu_time": 127, "logical_reads": 0, "writes": 0, "wait_type": "MSQL_XP"}
+{"event_name": "logout", "timestamp": "2026-09-04 05:53:37.274", "session_id": 51}
+{"event_name": "sql_batch_completed", "timestamp": "2026-09-04 05:53:37.274", "database_name": "SteelNort", "session_id": 63, "command": "EXECUTE", "duration": 6, "cpu_time": 0, "logical_reads": 0, "writes": 0}
+{"event_name": "sql_batch_completed", "timestamp": "2026-09-04 05:53:37.274", "database_name": "SteelNort", "session_id": 71, "command": "EXECUTE", "duration": 2381, "cpu_time": 127, "logical_reads": 0, "writes": 0, "status": "completed"}
+{"event_name": "sql_batch_completed", "timestamp": "2026-09-04 05:53:39.303", "database_name": "SteelNort", "session_id": 65, "command": "EXECUTE", "duration": 3, "cpu_time": 0, "logical_reads": 0, "writes": 0}
+{"event_name": "sql_batch_completed", "timestamp": "2026-09-04 05:53:39.303", "database_name": "SteelNort", "session_id": 66, "command": "EXECUTE", "duration": 4, "cpu_time": 0, "logical_reads": 0, "writes": 0}
+{"event_name": "sql_batch_completed", "timestamp": "2026-09-04 05:53:39.303", "database_name": "SteelNort", "session_id": 63, "command": "EXECUTE", "duration": 2038, "cpu_time": 0, "logical_reads": 0, "writes": 0, "status": "completed"}
+{"event_name": "sql_batch_completed", "timestamp": "2026-09-04 05:53:41.334", "database_name": "SteelNort", "session_id": 71, "command": "EXECUTE", "duration": 38, "cpu_time": 27, "logical_reads": 0, "writes": 0, "wait_type": "MSQL_XP"}
+{"event_name": "sql_batch_completed", "timestamp": "2026-09-04 05:53:41.334", "database_name": "SteelNort", "session_id": 65, "command": "EXECUTE", "duration": 2036, "cpu_time": 0, "logical_reads": 0, "writes": 0, "status": "completed"}
+{"event_name": "sql_batch_completed", "timestamp": "2026-09-04 05:53:41.334", "database_name": "SteelNort", "session_id": 66, "command": "EXECUTE", "duration": 2037, "cpu_time": 0, "logical_reads": 0, "writes": 0, "status": "completed"}
+{"event_name": "sql_batch_completed", "timestamp": "2026-09-04 05:53:43.366", "database_name": "SteelNort", "session_id": 71, "command": "EXECUTE", "duration": 2071, "cpu_time": 27, "logical_reads": 0, "writes": 0, "status": "completed"}
+{"event_name": "sql_batch_completed", "timestamp": "2026-09-04 05:53:45.397", "database_name": "SteelNort", "session_id": 70, "command": "AWAITING COMMAND", "duration": 5, "cpu_time": 0, "logical_reads": 0, "writes": 0}
+{"event_name": "sql_batch_completed", "timestamp": "2026-09-04 05:53:47.420", "database_name": "SteelNort", "session_id": 70, "command": "AWAITING COMMAND", "duration": 2028, "cpu_time": 0, "logical_reads": 0, "writes": 0, "status": "completed"}

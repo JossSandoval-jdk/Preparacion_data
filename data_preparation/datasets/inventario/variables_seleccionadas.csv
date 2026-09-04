@@ -1,0 +1,67 @@
+﻿columna,fuente,dominio,tipo,senal
+cpu_usr,metrics,sistema_host,numerico,uso CPU modo usuario (%)
+cpu_sys,metrics,sistema_host,numerico,uso CPU modo sistema (%)
+cpu_idl,metrics,sistema_host,numerico,uso CPU modo idle (%)
+cpu_wai,metrics,sistema_host,numerico,uso CPU modo iowait (%)
+cpu_stl,metrics,sistema_host,numerico,uso CPU modo steal (%)
+memory_percent,metrics,sistema_host,numerico,memoria host usada (%)
+memory_used_mb,metrics,sistema_host,numerico,memoria host usada (MB)
+memory_available_mb,metrics,sistema_host,numerico,memoria host disponible (MB)
+disk_read_per_sec,metrics,sistema_host,numerico,tasa lectura de disco
+disk_write_per_sec,metrics,sistema_host,numerico,tasa escritura de disco
+net_send_per_sec,metrics,sistema_host,numerico,tasa envio de red
+net_recv_per_sec,metrics,sistema_host,numerico,tasa recepcion de red
+load1,metrics,sistema_host,numerico,carga promedio 1 min
+load5,metrics,sistema_host,numerico,carga promedio 5 min
+load15,metrics,sistema_host,numerico,carga promedio 15 min
+active_sessions,metrics,sesiones,entero,sesiones activas
+active_requests,metrics,sesiones,entero,requests en ejecucion
+long_queries,metrics,sesiones,entero,queries > 15s
+long_transactions,metrics,sesiones,entero,transacciones > 30s
+idle_sessions,metrics,sesiones,entero,sesiones inactivas
+lock_waits,metrics,locks,entero,esperas de bloqueo
+total_locks,metrics,locks,entero,total de locks
+deadlocks_per_sec,metrics,locks,entero,deadlocks
+venta_locks,metrics,locks_negocio,entero,locks tabla venta
+detalle_venta_locks,metrics,locks_negocio,entero,locks tabla detalle_venta
+inventario_locks,metrics,locks_negocio,entero,locks tabla inventario
+kardex_locks,metrics,locks_negocio,entero,locks tabla kardex
+caja_locks,metrics,locks_negocio,entero,locks tabla caja
+movimiento_caja_locks,metrics,locks_negocio,entero,locks tabla movimiento_caja
+auditoria_locks,metrics,locks_negocio,entero,locks tabla auditoria
+transactions_per_sec,metrics,transacciones,numerico,transacciones por segundo (contador -> tasa)
+total_reads,metrics,io,numerico,lecturas de archivo acumuladas (-> tasa)
+total_writes,metrics,io,numerico,escrituras de archivo acumuladas (-> tasa)
+page_life_expectancy,metrics,buffer,numerico,vida esperada de paginas en buffer
+buffer_cache_hit_ratio,metrics,buffer,numerico,ratio de acierto de cache
+page_reads_per_sec,metrics,io,numerico,lecturas de paginas/seg (contador - requiere delta)
+page_writes_per_sec,metrics,io,numerico,escrituras de paginas/seg (contador - requiere delta)
+rollbacks_per_sec,metrics,transacciones,numerico,rollbacks/seg (contador - requiere delta)
+batch_requests_per_sec,metrics,transacciones,numerico,batch requests/seg (contador - requiere delta)
+sql_compilations_per_sec,metrics,transacciones,numerico,compilaciones/seg (contador - requiere delta)
+api_status,metrics,api,entero,estado HTTP del health probe
+api_latency_ms,metrics,api,numerico,latencia del health probe (ms)
+products_count,metrics,api,entero,productos devueltos
+sales_count,metrics,api,entero,ventas devueltas
+events_login_count,derivada,eventos_dmv,entero,logins por muestra
+events_logout_count,derivada,eventos_dmv,entero,logouts por muestra
+events_batch_count,derivada,eventos_dmv,entero,sql_batch_completed (DMV) por muestra
+events_lock_count,derivada,eventos_dmv,entero,lock_acquired/released por muestra
+events_wait_count,derivada,eventos_dmv,entero,wait_info por muestra
+duration_max_ms,derivada,rendimiento,numerico,duracion maxima de consulta en el segundo
+duration_avg_ms,derivada,rendimiento,numerico,duracion promedio de consulta en el segundo
+query_duration_max_ms,derivada,eventos,numerico,maximo de duration de sql_batch_completed por ventana
+query_duration_avg_ms,derivada,eventos,numerico,promedio de duration de sql_batch_completed por ventana
+cpu_time_sum_ms,derivada,eventos,numerico,suma de cpu_time por ventana
+logical_reads_sum,derivada,eventos,numerico,suma de logical_reads por ventana
+writes_sum,derivada,eventos,numerico,suma de writes por ventana
+wait_lck_count,derivada,eventos,entero,esperas LCK_* por ventana
+wait_io_count,derivada,eventos,entero,esperas PAGEIOLATCH_*/PAGELATCH_* por ventana
+wait_log_count,derivada,eventos,entero,esperas WRITELOG por ventana
+distinct_sessions_count,derivada,eventos,entero,sesiones distintas por ventana
+max_server_memory,metrics,settings,numerico,memoria maxima SQL Server
+user_connections_setting,metrics,settings,entero,conexiones maximas configuradas
+cost_threshold,metrics,settings,entero,umbral de costo de paralelismo
+log_error_count,derivada,logs,entero,errores reportados por el motor
+log_warning_count,derivada,logs,entero,advertencias reportadas por el motor
+log_fatal_count,derivada,logs,entero,errores fatales o criticos del motor

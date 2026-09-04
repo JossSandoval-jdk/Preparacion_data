@@ -1,0 +1,23 @@
+﻿columna,rol,justificacion
+cpu_usr,cpu,CPU modo usuario: senal directa de saturacion/computo OLTP
+cpu_sys,cpu,CPU modo sistema: I/O y llamadas al kernel (esperas)
+cpu_wai,cpu,CPU en espera de I/O: evidencia de espera del sistema
+cpu_idl,cpu,CPU idle: contexto para interpretar saturacion del host
+memory_used_mb,memoria,Memoria host usada (MB): presion de memoria del servidor
+memory_available_mb,memoria,Memoria host disponible (MB): margen frente a presion
+page_life_expectancy,buffer,Vida de paginas en buffer: presion de memoria del SQL Server
+disk_read_per_sec,io,Lectura de disco: satiracion de I/O (anomalias de storage)
+disk_write_per_sec,io,Escritura de disco: saturacion de I/O y log
+total_reads,io_motor_sql,Lecturas del motor SQL: cuello de botella de I/O
+total_writes,io_motor_sql,Escrituras del motor SQL: actividad de datos y log
+active_sessions,sesiones,Sesiones activas: usuarios concurrentes (contention)
+active_requests,sesiones,Requests en ejecucion: satiracion de trabajo concurrente
+transactions_per_sec,transacciones,Transacciones/seg: volumen OLTP real
+long_queries,sesiones,Consultas de usuario largas recalculadas desde eventos
+long_transactions,sesiones,Transacciones de usuario largas recalculadas desde eventos
+duration_avg_ms,rendimiento,Duracion promedio de consultas de usuario por ventana
+duration_max_ms,rendimiento,Duracion maxima de consultas de usuario por ventana
+cpu_time_sum_ms,rendimiento,CPU acumulada de consultas de usuario por ventana
+api_latency_ms,api,Latencia de la API: diagnostico de extremo a extremo
+api_status,api,Estado de la API: confirma si el impacto llego al usuario final
+load1,carga,Load 1 min: indicador reactivo de presion global del host

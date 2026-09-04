@@ -1,0 +1,73 @@
+﻿columna,presente,senal,nulos_pct,unicos,media,decision_modelo,motivo_decision
+cpu_usr,True,CLAVE,0.0,30,44.4403,MANTENER,variabilidad suficiente o utilidad diagnostica
+cpu_sys,True,CLAVE,0.0,21,16.8323,MANTENER,variabilidad suficiente o utilidad diagnostica
+cpu_idl,True,CLAVE,0.0,25,29.2613,MANTENER,variabilidad suficiente o utilidad diagnostica
+cpu_wai,True,CLAVE,0.0,5,0.1065,MANTENER,variabilidad suficiente o utilidad diagnostica
+cpu_stl,True,CONSTANTE,0.0,1,0.0,ELIMINAR,todos los valores disponibles son 0
+memory_percent,True,CLAVE,0.0,33,54.3984,MANTENER,variabilidad suficiente o utilidad diagnostica
+memory_used_mb,True,CLAVE,0.0,47,2130.1935,MANTENER,variabilidad suficiente o utilidad diagnostica
+memory_available_mb,True,CLAVE,0.0,48,1785.8548,MANTENER,variabilidad suficiente o utilidad diagnostica
+disk_read_per_sec,True,CLAVE,0.0,55,72826.4839,MANTENER,variabilidad suficiente o utilidad diagnostica
+disk_write_per_sec,True,CLAVE,0.0,62,4574032.1452,MANTENER,variabilidad suficiente o utilidad diagnostica
+net_send_per_sec,True,CLAVE,0.0,56,6839.9677,MANTENER,variabilidad suficiente o utilidad diagnostica
+net_recv_per_sec,True,CLAVE,0.0,62,38424.0484,MANTENER,variabilidad suficiente o utilidad diagnostica
+load1,True,CLAVE,0.0,55,8.8039,MANTENER,variabilidad suficiente o utilidad diagnostica
+load5,True,CLAVE,0.0,58,7.1956,MANTENER,variabilidad suficiente o utilidad diagnostica
+load15,True,CLAVE,0.0,62,4.1971,MANTENER,variabilidad suficiente o utilidad diagnostica
+active_sessions,True,CLAVE,0.0,6,26.3871,MANTENER,variabilidad suficiente o utilidad diagnostica
+active_requests,True,CLAVE,0.0,8,13.7258,MANTENER,variabilidad suficiente o utilidad diagnostica
+long_queries,True,CONSTANTE,0.0,1,0.0,ELIMINAR,todos los valores disponibles son 0
+long_transactions,True,CONSTANTE,0.0,1,0.0,ELIMINAR,todos los valores disponibles son 0
+idle_sessions,True,CLAVE,0.0,9,24.8065,MANTENER,variabilidad suficiente o utilidad diagnostica
+lock_waits,True,CONSTANTE,0.0,1,0.0,ELIMINAR,todos los valores disponibles son 0
+total_locks,True,CLAVE,0.0,6,15.3548,MANTENER,variabilidad suficiente o utilidad diagnostica
+deadlocks_per_sec,True,CONSTANTE,0.0,1,0.0,ELIMINAR,todos los valores disponibles son 0
+venta_locks,True,CLAVE,0.0,2,0.0645,MANTENER,variabilidad suficiente o utilidad diagnostica
+detalle_venta_locks,True,CONSTANTE,0.0,1,0.0,ELIMINAR,todos los valores disponibles son 0
+inventario_locks,True,CONSTANTE,0.0,1,0.0,ELIMINAR,todos los valores disponibles son 0
+kardex_locks,True,CLAVE,0.0,5,0.5806,MANTENER,variabilidad suficiente o utilidad diagnostica
+caja_locks,True,CONSTANTE,0.0,1,0.0,ELIMINAR,todos los valores disponibles son 0
+movimiento_caja_locks,True,CLAVE,0.0,2,0.1935,MANTENER,variabilidad suficiente o utilidad diagnostica
+auditoria_locks,True,CONSTANTE,0.0,1,0.0,ELIMINAR,todos los valores disponibles son 0
+transactions_per_sec,True,CLAVE,1.61,61,151.0034,MANTENER,senal suficiente; NaN inicial esperado por delta/dt
+total_reads,True,CLAVE,1.61,4,0.0102,MANTENER,senal suficiente; NaN inicial esperado por delta/dt
+total_writes,True,CLAVE,1.61,29,1.3176,MANTENER,senal suficiente; NaN inicial esperado por delta/dt
+page_life_expectancy,True,CLAVE,0.0,62,1109.3871,MANTENER,variabilidad suficiente o utilidad diagnostica
+buffer_cache_hit_ratio,True,DESCARTADA_MEDICION,0.0,1,100.0,ELIMINAR,medicion no confiable
+page_reads_per_sec,True,CONSTANTE,1.61,1,0.0,ELIMINAR,todos los valores disponibles son 0
+page_writes_per_sec,True,CONSTANTE,1.61,1,0.0,ELIMINAR,todos los valores disponibles son 0
+rollbacks_per_sec,True,CONSTANTE,1.61,1,0.0,ELIMINAR,todos los valores disponibles son 0
+batch_requests_per_sec,True,CONSTANTE,1.61,1,0.0,ELIMINAR,todos los valores disponibles son 0
+sql_compilations_per_sec,True,CONSTANTE,1.61,1,0.0,ELIMINAR,todos los valores disponibles son 0
+api_status,True,CLAVE,0.0,2,6.4516,MANTENER,variabilidad suficiente o utilidad diagnostica
+api_latency_ms,True,CLAVE,0.0,8,4874.9677,MANTENER,variabilidad suficiente o utilidad diagnostica
+products_count,True,CLAVE,0.0,2,21.6774,MANTENER,variabilidad suficiente o utilidad diagnostica
+sales_count,True,CONSTANTE,0.0,1,0.0,ELIMINAR,todos los valores disponibles son 0
+events_login_count,True,CONSTANTE,0.0,1,0.0,ELIMINAR,todos los valores disponibles son 0
+events_logout_count,True,CONSTANTE,0.0,1,0.0,ELIMINAR,todos los valores disponibles son 0
+events_batch_count,True,CLAVE,0.0,6,1.629,MANTENER,variabilidad suficiente o utilidad diagnostica
+events_lock_count,True,CLAVE,0.0,10,2.3387,MANTENER,variabilidad suficiente o utilidad diagnostica
+events_wait_count,True,CONSTANTE,0.0,1,0.0,ELIMINAR,todos los valores disponibles son 0
+duration_max_ms,True,CLAVE,0.0,40,3540.4516,MANTENER,variabilidad suficiente o utilidad diagnostica
+duration_avg_ms,True,CLAVE,0.0,48,2273.6315,MANTENER,variabilidad suficiente o utilidad diagnostica
+query_duration_max_ms,True,CLAVE,0.0,40,3540.4516,MANTENER,variabilidad suficiente o utilidad diagnostica
+query_duration_avg_ms,True,CLAVE,0.0,48,2273.6315,MANTENER,variabilidad suficiente o utilidad diagnostica
+cpu_time_sum_ms,True,CLAVE,0.0,20,46.0484,MANTENER,variabilidad suficiente o utilidad diagnostica
+logical_reads_sum,True,CONSTANTE,0.0,1,0.0,ELIMINAR,todos los valores disponibles son 0
+writes_sum,True,CONSTANTE,0.0,1,0.0,ELIMINAR,todos los valores disponibles son 0
+wait_lck_count,True,CONSTANTE,0.0,1,0.0,ELIMINAR,todos los valores disponibles son 0
+wait_io_count,True,CONSTANTE,0.0,1,0.0,ELIMINAR,todos los valores disponibles son 0
+wait_log_count,True,CONSTANTE,0.0,1,0.0,ELIMINAR,todos los valores disponibles son 0
+distinct_sessions_count,True,CLAVE,0.0,4,1.1452,MANTENER,variabilidad suficiente o utilidad diagnostica
+cpu_total,True,CLAVE,0.0,30,61.2726,MANTENER,variabilidad suficiente o utilidad diagnostica
+query_count,True,CLAVE,0.0,6,1.629,MANTENER,variabilidad suficiente o utilidad diagnostica
+wait_count,True,CONSTANTE,0.0,1,0.0,ELIMINAR,todos los valores disponibles son 0
+lock_event_count,True,CLAVE,0.0,10,2.3387,MANTENER,variabilidad suficiente o utilidad diagnostica
+error_count,True,CONSTANTE,0.0,1,0.0,ELIMINAR,todos los valores disponibles son 0
+requests_per_session,True,CLAVE,0.0,13,0.5171,MANTENER,variabilidad suficiente o utilidad diagnostica
+max_server_memory,True,MUCHO_NAN,98.39,1,4096.0,ELIMINAR,supera el limite de valores NaN
+user_connections_setting,True,MUCHO_NAN,98.39,1,0.0,ELIMINAR,supera el limite de valores NaN
+cost_threshold,True,MUCHO_NAN,98.39,1,5.0,ELIMINAR,supera el limite de valores NaN
+log_error_count,True,CLAVE,0.0,2,0.0484,MANTENER,variabilidad suficiente o utilidad diagnostica
+log_warning_count,True,CONSTANTE,0.0,1,0.0,ELIMINAR,todos los valores disponibles son 0
+log_fatal_count,True,CONSTANTE,0.0,1,0.0,ELIMINAR,todos los valores disponibles son 0

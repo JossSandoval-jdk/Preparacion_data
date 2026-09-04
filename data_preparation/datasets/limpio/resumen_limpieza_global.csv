@@ -1,0 +1,3 @@
+﻿corrida,metrics_validas,metrics_descartadas,metrics_no_numericas,events_validos,events_malformados,events_duplicados,xe_validos,xe_malformados,xe_duplicados,sqlserver_validas,sqlserver_descartadas
+carga1,2787,0,0,602,0,0,0,0,0,152,0
+carga2,2475,0,0,846,0,0,0,0,0,153,0
